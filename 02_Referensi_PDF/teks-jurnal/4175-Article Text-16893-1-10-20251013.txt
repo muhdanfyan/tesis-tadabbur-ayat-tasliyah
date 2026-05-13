@@ -1,0 +1,607 @@
+MIMBAR
+Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+Volume 11, No. 2, 2025
+ISSN (print) : 2442-3217 / ISSN (online) : 2716-3806
+Email : mimbarjurnal@gmail.com
+Homepage : http://journal.iaimsinjai.ac.id/indeks.php/mimbar
+
+TRAUMA HEALING BERBASIS SPIRITUALITAS ISLAMI:
+MODEL KONSELING PASCA-BENCANA
+Siska Novra Elvina1, Yeni Fitri Wahyuni2,
+Hummaira Hutagaol3, Syifa Nur Fadilah4, Wanda Fitri5
+1,2,3,5
+
+Universitas Islam Negeri Imam Bonjol Padang
+4
+Universitas Wiralodra Indramayu
+Korespondensi Penulis. E-mail: siska_novra@uinib.ac.id, Tlp:+62 8536 5010 659
+Abstrak
+Bencana alam yang terjadi di Indonesia sering kali menyebabkan konsekuensi yang beragam, Situasi
+ini memerlukan adanya model dukungan yang tidak hanya terfokus pada aspek klinis psikologis, tetapi
+juga memperhatikan kebutuhan spiritual komunitas yang mayoritas beragama Islam. Metode
+penelitian yang digunakan adalah pendekatan kualitatif dengan desain studi kasus di daerah yang
+terkena dampak bencana di Sumatera Barat. Data diperoleh melalui wawancara mendalam,
+observasi, dokumentasi, Analisis data dilakukan menggunakan teknik analisis tematik untuk
+mengidentifikasi pola intervensi yang relevan dan dapat diimplementasikan. Temuan dari penelitian
+menunjukkan bahwa pemulihan trauma yang berlandaskan pada spiritualitas Islam bisa diterapkan
+melalui enam tahap intervensi, yaitu penilaian trauma, penciptaan stabilitas awal, konseling
+individual atau kelompok, penguatan aspek spiritual, dukungan sosial dan komunitas, serta evaluasi
+dan tindak lanjut. Setiap tahap didasari oleh nilai-nilai yang terdapat dalam Al-Qur’an dan hadis
+yang mendorong kesabaran, tawakkal, rasa syukur, serta persaudaraan sosial. Model ini terbukti
+efektif dalam membantu para korban untuk mengurangi gejala trauma, meningkatkan ketenangan
+batin, dan memperkuat ketahanan dalam menghadapi kehidupan setelah bencana. Oleh karena itu,
+pendekatan pemulihan trauma berbasis Islam dapat menjadi model yang kontekstual dan efisien untuk
+masyarakat Muslim di Indonesia.
+Kata Kunci: Trauma Healing, Konseling Islami, Spiritualitas, Pasca-Bencana, Resiliensi
+Abstrac
+Natural disasters in Indonesia often cause diverse consequences. This situation requires a support
+model that focuses not only on clinical psychological aspects but also on the spiritual needs of the
+predominantly Muslim community. The research method used was a qualitative approach with a case
+study design in disaster-affected areas in West Sumatra. Data were obtained through in-depth
+interviews, observation, and documentation. Data analysis was conducted using thematic analysis
+techniques to identify relevant and implementable intervention patterns. The findings of the study
+indicate that trauma recovery based on Islamic spirituality can be implemented through six stages of
+intervention: trauma assessment, initial stability creation, individual or group counseling, spiritual
+strengthening, social and community support, and evaluation and follow-up. Each stage is based on
+values found in the Qur'an and Hadith that encourage patience, trust, gratitude, and social
+brotherhood. This model has proven effective in helping victims reduce trauma symptoms, increase
+inner peace, and strengthen resilience in facing life after a disaster. Therefore, an Islamic-based
+trauma recovery approach can be a contextual and efficient model for Muslim communities in
+Indonesia.
+Keyword : Trauma Healing, Islamic Counseling, Spirituality, Post-Disaster, Resilience
+
+1. Pendahuluan
+Indonesia dikenal sebagai salah satu negara yang paling rentan terhadap
+bencana di seluruh dunia, yang disebabkan oleh letak geografisnya di Cincin Api
+Pasifik. Informasi dari Badan Nasional Penanggulangan Bencana (BNPB)
+menunjukkan bahwa selama tahun 2023, Indonesia telah mengalami 4.940 kejadian
+bencana, yang terdiri dari 1.170 kasus banjir, 579 tanah longsor, 1.155 kejadian cuaca
+ekstrem, serta 1.802 kebakaran hutan dan lahan (BNPB, 2023). Pada tahun 2024,
+BNPB mencatat adanya 1.889 bencana, di mana bencana hidrometeorologi menjadi
+yang paling mendominasi, mencapai 98,84% dari total kejadian (Asia-Pacific
+Solidarity, 2025). Angka-angka ini menegaskan bahwa frekuensi bencana alam di
+Indonesia tetap tinggi dan konsisten setiap tahunnya.
+Memasuki paruh pertama tahun 2025, sebanyak 1.713 kejadian bencana telah
+tercatat hingga 23 Juni, dengan konsentrasi tertinggi di Jawa Barat (243 kejadian),
+Jawa Timur (199 kejadian), dan Jawa Tengah (162 kejadian) (Antara, 2025). Kasus
+banjir menjadi yang paling banyak, dengan 1.048 kejadian, diikuti oleh tanah longsor,
+angin puting beliung, dan kebakaran hutan (GoodStats, 2025). Beberapa bencana
+besar bahkan mengakibatkan korban jiwa yang cukup signifikan, seperti banjir lahar
+dingin di Gunung Marapi yang menewaskan setidaknya 37 orang (AP News, 2024).
+Tingginya intensitas bencana tersebut menunjukkan bahwa Indonesia memerlukan
+suatu intervensi pasca-bencana yang terstruktur dengan baik.
+Dampak dari bencana tidak hanya mengakibatkan kerugian fisik, tetapi juga
+memengaruhi aspek psikologis dan sosial. Data BNPB untuk tahun 2024 mencatat
+540 orang meninggal, 63 orang hilang, 11.531 orang mengalami luka-luka, dan
+8.136.271 lainnya terdampak atau mengungsi akibat bencana (BNPB, 2024). Selain
+kerugian material, para penyintas juga berada dalam kondisi traumatik yang ditandai
+oleh kecemasan, depresi, mimpi buruk, dan gangguan stres pascatrauma (PTSD).
+Keadaan ini sering kali menghalangi mereka untuk kembali ke kehidupan normal.
+Namun, di sisi lain, aspek spiritual sering kali menjadi sumber kekuatan bagi para
+penyintas dalam bertahan. Hal ini menciptakan peluang penting untuk penelitian
+tentang penyembuhan trauma yang berbasis spiritualitas Islami.
+Beberapa penelitian di tingkat nasional membuktikan efektivitas pendekatan
+Islami dalam penyembuhan trauma. Penelitian Muslaini dan Sofia (2021) dalam
+Jurnal Psikologi Islam dan Budaya menunjukkan bahwa terapi dzikir efektif dalam
+mengurangi gejala PTSD pada penyintas tsunami Palu yang terjadi pada tahun 2018.
+Penelitian lain oleh Uyun et al. (2022) dalam Psikohumaniora mengungkapkan bahwa
+terapi taubat dan istighfar berkontribusi signifikan dalam mencegah terjadinya PTSD
+di kalangan korban kecelakaan lalu lintas. Temuan ini menunjukkan bahwa praktikMIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+1
+
+praktik Islami dapat berfungsi sebagai strategi koping yang efektif dalam menghadapi
+trauma.
+Penelitian dari tingkat internasional juga mengkonfirmasi pentingnya
+spiritualitas Islam dalam pemulihan trauma. Penelitian oleh Iqbal &amp; Sa’ad
+(2025) yang dimuat dalam Journal of Integrated Sciences menemukan bahwa shalat,
+dzikir, dan doa secara signifikan dapat menurunkan tingkat kecemasan dan PTSD
+pada penyintas bencana. Temuan ini diperkuat oleh studi Javaid &amp; Rehman
+(2024) yang mengusulkan penggabungan konseling Qur’ani dengan psikoterapi
+modern sebagai pendekatan holistik dalam penyembuhan trauma. Dengan demikian,
+praktik Islami tidak hanya memiliki nilai religius, tetapi juga memiliki efektivitas
+ilmiah yang kuat.
+Dalam konteks filsafat Islam, metode sufistik seperti dzikir, muraqabah, serta
+khalwah diakui memiliki potensi yang besar dalam menyembuhkan trauma secara
+holistik. Penelitian oleh Masykur &amp; Ismatullah (2023) menegaskan bahwa
+pendekatan sufistik dapat melengkapi intervensi medis dan psikologis yang
+diperlukan dalam proses pemulihan para penyintas. Temuan-temuan ini mendukung
+argumentasi bahwa spiritualitas Islami dapat dijadikan fondasi dalam pengembangan
+model konseling untuk penyembuhan trauma yang komprehensif.
+Urgensi dari penelitian ini semakin jelas mengingat tingginya frekuensi
+bencana yang terjadi serta terbatasnya pendekatan konvensional yang ada. Program
+penyembuhan trauma yang sudah ada cenderung dominan menggunakan perspektif
+psikologi Barat dan belum sepenuhnya memperhitungkan konteks religius
+masyarakat Indonesia. Padahal, mayoritas penduduk Indonesia menganggap agama
+sebagai sumber utama dalam menghadapi tantangan. Oleh karena itu, diperlukan
+model konseling yang sejalan dengan nilai-nilai spiritual masyarakat.
+Penelitian ini memiliki signifikansi karena menyajikan pendekatan yang lebih
+kontekstual, menjunjung tinggi budaya, serta menitikberatkan pada aspek religius.
+Dengan menggabungkan psikologi kontemporer dan spiritualitas Islam, proses
+konseling setelah bencana dapat dilakukan secara lebih menyeluruh. Melalui
+pendekatan ini, pemulihan tidak hanya mencakup aspek psikologis, tetapi juga
+memberikan makna spiritual bagi individu yang selamat. Hal ini sesuai dengan
+kebutuhan masyarakat yang mencari penjelasan religius di tengah penderitaan yang
+disebabkan oleh bencana.
+Keunikan dari penelitian ini terletak pada pengembangan model konseling
+penyembuhan trauma Islami yang terstruktur, integratif, dan aplikatif. Model ini
+merangkai sebuah kerangka konseling yang memadukan unsur Qur'ani (tafsir tematik,
+tadabbur), praktik ibadah (shalat, doa, dzikir), dan nilai-nilai moral Islam (sabar,
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+2
+
+tawakkal, syukur). Oleh karena itu, penelitian ini tidak hanya meneruskan kajiankajian sebelumnya, tetapi juga menghadirkan konsep baru yang lebih holistik.
+Di samping kontribusi akademik yang diberikan, penelitian ini juga
+menawarkan manfaat praktis. Model konseling Islami ini dapat diterapkan oleh
+BNPB, instansi pemerintah daerah, dan organisasi kemanusiaan dalam programprogram bantuan psikososial pasca-bencana. Penerapan pendekatan ini dapat
+memperkuat ketahanan mental, solidaritas sosial, dan spiritualitas para penyintas.
+Bahkan, nilai-nilai seperti ukhuwah dan kesabaran diharapkan dapat mendukung
+masyarakat dalam membangun kembali kehidupan secara kolektif.
+Dari sudut pandang ilmiah, penelitian ini memperluas cakupan studi bimbingan
+dan konseling dalam konteks Islam. Selama ini, bidang konseling Islami lebih banyak
+difokuskan pada aspek keluarga atau pendidikan, sedangkan konteks pasca-bencana
+cenderung kurang mendapat perhatian. Dengan adanya penelitian ini, diharapkan
+akan muncul fondasi teoritis baru yang dapat memperkaya literatur akademik serta
+memberikan solusi praktis di lapangan.
+Merujuk kepada penjelasan di atas, penelitian tentang penyembuhan trauma
+yang berbasis spiritualitas Islam merupakan suatu kebutuhan mendesak bagi
+Indonesia. Tingginya frekuensi bencana, dampak psikologis yang besar, serta bukti
+empiris mengenai efektivitas pendekatan Islami menjadi alasan kuat mengapa
+penelitian ini perlu dilakukan. Model konseling yang diusulkan diharapkan dapat
+memberikan kontribusi signifikan bagi para penyintas, sekaligus memperkuat
+integrasi antara ilmu psikologi dan spiritualitas Islam. Pada akhirnya, penelitian ini
+menekankan bahwa agama dapat berfungsi sebagai instrumen penting dalam proses
+penyembuhan trauma kemanusiaan.
+2. Metode
+Studi ini menerapkan pendekatan kualitatif dengan desain penelitian lapangan
+yang dipadukan dengan penelitian kepustakaan. Metode ini dipilih karena tujuan
+penelitian adalah untuk menyelidiki pengalaman pribadi para penyintas bencana
+sekaligus mengembangkan model konseling penyembuhan trauma yang berbasis pada
+spiritualitas Islam. Seperti yang dinyatakan oleh Creswell (2018), pendekatan
+kualitatif sangat sesuai untuk memahami fenomena sosial yang rumit dengan cara
+menggali makna yang terkandung dalam pengalaman individual. Oleh karena itu,
+penelitian ini tidak hanya fokus pada data empiris, tetapi juga pada interpretasi makna
+spiritual yang muncul dari praktik keagamaan setelah terjadinya bencana.
+Objek penelitian ini adalah para penyintas dari bencana banjir lahar dingin
+Gunung Marapi pada tahun 2024 di Sumatera Barat, yang dipilih karena mereka
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+3
+
+merasakan dampak yang cukup signifikan baik secara fisik maupun mental.
+Penelitian ini juga melibatkan konselor, pemuka agama, serta relawan yang berperan
+dalam proses pendampingan setelah bencana. Pemilihan informan dilakukan dengan
+teknik purposive sampling, di mana partisipan dipilih berdasarkan keterlibatan
+langsung serta pengalaman mereka dalam pemulihan trauma. Peneliti berusaha
+memperoleh berbagai perspektif agar hasil penelitian dapat memberikan kedalaman
+yang representatif.
+Pengumpulan data dilaksanakan melalui beberapa metode, termasuk wawancara
+mendalam, observasi partisipan, dokumentasi, dan studi kepustakaan. Wawancara
+mendalam bertujuan untuk menggali pengalaman pribadi penyintas dalam
+menghadapi trauma serta mengenali peran spiritualitas Islam dalam proses tersebut.
+Observasi dilakukan selama aktivitas pendampingan psikososial, yang berfokus pada
+praktik spiritual seperti shalat, dzikir, doa, dan tadabbur Al-Qur’an. Dokumentasi
+mencakup catatan lapangan, foto-foto kegiatan, serta laporan resmi dari BNPB. Di
+sisi lain, studi kepustakaan melengkapi penelitian dengan tinjauan terhadap hasil riset
+baik nasional maupun internasional yang berkaitan dengan penyembuhan trauma
+secara Islami.
+Data yang terkumpul dianalisis menggunakan metode analisis tematik yang
+terdiri dari tiga tahap utama: reduksi data, penyajian data, dan penarikan kesimpulan
+(Miles, Huberman, &amp; Saldaña, 2014). Pendekatan analisis ini memberikan
+kesempatan bagi peneliti untuk menemukan pola pemulihan trauma yang berdasar
+pada spiritualitas Islam serta mengintegrasikannya ke dalam model konseling Islam
+pasca-bencana. Untuk memastikan keabsahan data, dilakukan triangulasi sumber dan
+metode dengan membandingkan hasil wawancara, observasi, dokumentasi, dan
+literatur. Selain itu, peneliti juga menerapkan teknik member check untuk
+mengonfirmasi hasil dengan para informan. Dengan cara ini, penelitian diharapkan
+memiliki tingkat validitas yang tinggi dan dapat dipertanggungjawabkan secara
+ilmiah.
+Penelitian ini tetap mengedepankan aspek etika dalam penelitian sosial. Seluruh
+partisipan diberikan penjelasan tentang tujuan penelitian dan diminta untuk
+memberikan persetujuan partisipasi mereka melalui informed consent. Identitas
+informan tetap dirahasiakan dan data yang diperoleh hanya digunakan untuk tujuan
+akademik. Selain itu, peneliti juga berusaha agar hasil penelitian dapat memberikan
+kontribusi nyata, berupa rekomendasi model konseling Islami yang aplikatif. Dengan
+demikian, penelitian diharapkan tidak hanya memberikan manfaat secara akademis,
+tetapi juga praktis dalam mendukung program pemulihan trauma di lapangan.
+
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+4
+
+3. Hasil dan Pembahasan
+3.1 Pengaruh Bencana terhadap Trauma
+Bencana alam tidak hanya merusak elemen fisik seperti tempat tinggal,
+infrastruktur, dan barang-barang pribadi, tetapi juga dapat menyebabkan
+dampak psikologis yang cukup mendalam bagi para penyintas. Banyak individu
+yang mengalami kecemasan, depresi, bahkan Gangguan Stres Pasca Trauma
+(PTSD) yang berdampak pada kegiatan sehari-hari mereka. Menurut data dari
+BNPB, pada setiap kejadian bencana besar, lebih dari 30% dari para korban
+memerlukan dukungan psikososial disebabkan oleh trauma yang dirasakan
+(BNPB, 2024). Hal ini menunjukkan bahwa dimensi psikologis sama
+pentingnya dengan penanganan darurat yang bersifat fisik.
+Di samping aspek psikologis, konsekuensi bencana juga berkaitan
+dengan melemahnya jaringan sosial. Para penyintas kehilangan anggota
+keluarga, tetangga, dan komunitas yang sebelumnya menjadi sumber dukungan.
+Kehilangan hubungan sosial ini memperburuk perasaan kesepian dan
+ketidakberdayaan. Dalam komunitas yang berlandaskan agama, hilangnya
+tempat beribadah dapat menyebabkan guncangan spiritual, karena bencana
+dianggap sebagai ujian yang sulit untuk dipahami.
+Apabila tidak ditangani secara tepat, trauma dapat berkembang menjadi
+masalah yang berlangsung lama. Sebagai contoh, anak-anak yang menjadi
+korban bencana sering mengalami kesulitan dalam belajar akibat trauma yang
+mendalam, sementara dewasa dapat menghadapi tantangan dalam dunia kerja.
+Hal ini berdampak pada proses pemulihan sosial-ekonomi yang menjadi lebih
+lambat. Oleh karena itu, proses penyembuhan trauma pasca-bencana menjadi
+suatu kebutuhan yang mendesak, bukan sekadar tambahan dalam penanganan
+fisik.
+Analisis: Trauma yang muncul setelah bencana perlu dilihat sebagai
+fenomena yang melibatkan aspek biopsikososial dan spiritual. Jika penanganan
+hanya berfokus pada sisi medis atau material, maka upaya pemulihan bagi
+korban tidak akan bisa menyeluruh. Dalam konteks masyarakat Muslim,
+integrasi elemen keagamaan menjadi sangat penting agar para penyintas dapat
+menemukan makna baru dari penderitaan yang mereka hadapi.
+3.2 Efektivitas Spiritualitas Islami dalam Pemulihan
+Spiritualitas Islami telah terbukti sebagai cara yang efektif dalam
+meningkatkan ketahanan psikologis individu yang selamat dari bencana. Dzikir,
+doa, dan shalat tidak hanya merupakan tindakan ibadah yang biasa dilakukan,
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+5
+
+tetapi juga berfungsi sebagai metode relaksasi yang memberikan ketenangan
+jiwa. Muslaini &amp; Sofia (2021) menunjukkan bahwa praktik dzikir yang
+dilakukan secara teratur dapat mengurangi tingkat kecemasan di antara korban
+bencana tsunami di Palu. Uyun et al. (2022) juga mengungkapkan bahwa
+istighfar dapat berperan untuk mengurangi gejala PTSD pada para penyintas
+kecelakaan lalu lintas.
+Dari perspektif psikologis, praktik spiritual ini memberikan dampak
+yang mirip dengan terapi kognitif-perilaku. Dzikir, contohnya, berfungsi untuk
+mengalihkan perhatian dari pikiran-pikiran traumatis dengan mengulang lafaz
+yang menenangkan. Shalat di sisi lain, menyediakan teknik mindfulness yang
+membantu individu yang selamat untuk lebih fokus dan hadir dalam setiap
+gerakan ibadah yang dilakukan. Doa juga membawa sugesti positif mengenai
+harapan dari Allah Sang Maha Penolong. Oleh karena itu, praktik-praktik
+Islami dapat dilihat sebagai intervensi psikologis yang sesuai dengan budaya.
+Dalam skala global, efektivitas spiritualitas juga telah terbukti. Iqbal
+&amp; Sa’ad (2025) dalam studi mereka di Pakistan menemukan bahwa doa
+dan shalat dapat meningkatkan ketahanan masyarakat Muslim terhadap
+bencana. Penelitian ini menegaskan bahwa spiritualitas bukan hanya praktik
+individu, tetapi juga memberikan dukungan kolektif karena ritual sering
+dilakukan secara bersamaan di masjid atau tempat komunitas.
+Analisis: Spiritualitas Islami beroperasi melalui tiga mekanisme: (1)
+relaksasi fisiologis, dimana ibadah dapat mengurangi ketegangan fisik; (2)
+restrukturisasi kognitif, di mana penderitaan dipahami sebagai ujian dari Allah;
+dan (3) dukungan sosial, karena praktik ibadah sering dilakukan secara
+bersama. Ketiga mekanisme ini membuat spiritualitas Islami efektif sebagai
+terapi bagi trauma setelah bencana.
+3.4 Penerimaan Masyarakat terhadap Konseling Islami
+Dalam praktik di lapangan, konseling Islami menunjukkan tingkat
+penerimaan yang lebih baik di antara masyarakat yang terkena bencana,
+dibandingkan dengan pendekatan Barat yang murni. Hal ini disebabkan oleh
+penggunaan bahasa, nilai, dan simbol religius yang sudah dikenal oleh mereka.
+Contohnya, sesi berbagi pengalaman trauma yang diakhiri dengan doa bersama
+memberikan rasa aman sekaligus menciptakan suasana sakral. Para penyintas
+merasa lebih diperhatikan karena konselor memahami perspektif keagamaan
+mereka.
+
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+6
+
+Tingkat penerimaan ini juga terlihat dari partisipasi para tokoh agama
+dalam proses konseling. Tokoh agama tidak hanya berfungsi sebagai penasihat
+spiritual, tetapi juga sebagai fasilitator penyembuhan trauma. Dengan status
+sosial yang dihormati, mereka dapat mengajak masyarakat untuk berpartisipasi
+dalam program konseling. Hal ini berbeda dengan konselor sekuler yang kadang
+dianggap sebagai “pihak luar” oleh komunitas lokal.
+Namun, meskipun tingkat penerimaan tinggi, pelaksanaan konseling
+Islami juga menghadapi beberapa tantangan. Tidak semua konselor memiliki
+kompetensi baik dalam psikologi maupun agama secara bersamaan. Dalam
+praktiknya, sering kali relawan agama hanya memberikan ceramah tanpa
+mengaplikasikan metode konseling yang terstruktur. Oleh sebab itu, diperlukan
+model konseling Islami yang lebih sistematis agar intervensi bisa berjalan lebih
+efektif.
+Analisis: Penerimaan masyarakat menjadi modal utama dalam intervensi
+pasca-bencana. Konseling Islami menghubungkan antara kebutuhan psikologis
+dan religius para penyintas. Namun, keberhasilan jangka panjang sangat
+bergantung pada kualitas para konselor yang mampu mengintegrasikan ilmu
+psikologi modern dengan spiritualitas Islami secara profesional.
+3.5 Model Konseling Islami Pasca-Bencana
+Model konseling Islami selama periode pemulihan setelah bencana yang
+disajikan dalam penelitian ini bertumpu pada pengintegrasian dimensi spiritual,
+psikologis, dan sosial. Dimensi spiritual diimplementasikan melalui praktik
+ibadah seperti shalat, dzikir, doa, dan tadabbur Al-Qur’an. Dimensi psikologis
+dilaksanakan melalui konseling individu maupun kelompok dengan teknik
+berbagi trauma, relaksasi Islami, dan restrukturisasi kognitif. Sementara itu,
+dimensi sosial didukung oleh kegiatan berjamaah, ukhuwah, dan dukungan
+komunitas. Kombinasi dari ketiga dimensi ini menciptakan model pemulihan
+yang komprehensif dan kontekstual.
+Tabel 1. Proses konseling Islami pasca-bencana dapat dijelaskan dalam tabel
+berikut:
+No
+1
+
+Tahap
+Intervensi
+Asesmen
+Trauma
+
+Bentuk
+Landasan
+Tujuan Utama
+Kegiatan
+Spiritualitas Islami
+Observasi
+QS. Al-Hujurat: 6 Mengidentifikasi
+kondisi korban, (tabayyun/verifikasi) tingkat
+trauma
+
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+7
+
+2
+
+Stabilitas
+Awal
+
+3
+
+Konseling
+Individual/
+Kelompok
+
+4
+
+Penguatan
+Spiritualitas
+
+5
+
+Dukungan
+SosialKomunitas
+
+6
+
+Evaluasi &
+Follow-up
+
+wawancara
+singkat tentang
+pengalaman
+bencana
+Doa bersama,
+dzikir kolektif,
+pemberian
+dukungan
+emosional
+Sharing
+pengalaman
+trauma,
+konseling
+Islami, teknik
+relaksasi
+dengan dzikir
+Tadabbur ayat
+Al-Qur’an
+tentang sabar,
+syukur,
+tawakkal; shalat
+berjamaah
+Gotong royong,
+shalat
+berjamaah,
+pengajian
+
+dan
+kebutuhan
+penyintas
+
+QS. Ar-Ra’d: 28
+(“hati
+menjadi
+tenteram
+dengan
+mengingat Allah”)
+
+Menenangkan
+kondisi emosional
+korban
+dan
+membangun rasa
+aman
+Hadis Nabi: “Setiap Mengurangi
+penyakit
+ada gejala
+PTSD,
+obatnya”
+(HR. meningkatkan
+Muslim)
+penerimaan diri
+dan ketenangan
+batin
+QS.
+Al-Baqarah: Membentuk
+155-157
+makna
+religius
+atas
+musibah,
+menumbuhkan
+optimisme
+
+QS. Ali Imran: 103 Membangun
+(ukhuwah
+dan solidaritas,
+persatuan)
+memperkuat
+jaringan
+sosial
+penyintas
+Wawancara
+QS. Al-Insyirah: 5-6 Memastikan
+tindak lanjut,
+keberlanjutan
+monitoring
+pemulihan trauma
+psikologis,
+dan resiliensi
+pembinaan
+berkelanjutan
+
+Tahap awal dari penilaian menyoroti kebutuhan untuk memverifikasi
+situasi korban melalui tabayyun, diikuti dengan proses stabilisasi emosi yang
+dilakukan melalui doa dan dzikir secara bersamaan. Konseling yang dilakukan,
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+8
+
+baik secara individu maupun kelompok, menerapkan pendekatan Islami agar
+para korban mampu mengekspresikan emosi traumatis sekaligus mencapai
+ketentraman jiwa. Penguatan spiritual berkontribusi terhadap restrukturisasi
+kognitif melalui pemahaman tentang sabar, syukur, dan tawakkal. Dukungan
+dari komunitas sosial memperkuat rasa solidaritas, sementara evaluasi dan
+tindak lanjut memastikan proses pemulihan yang berkelanjutan.
+Analisis: Model ini bersifat menyeluruh. Kombinasi antara dimensi
+spiritual, psikologis, dan sosial meningkatkan efektivitas pemulihan. Kekuatan
+dari model ini terletak pada kesesuaian dengan budaya keagamaan masyarakat
+Indonesia. Dengan struktur yang terorganisir dengan baik, model ini memiliki
+potensi untuk dijadikan modul konseling di tingkat nasional yang dapat
+diadopsi oleh BNPB serta organisasi kemanusiaan lainnya.
+3.6 Analisis Kelebihan dan Tantangan
+Salah satu keuntungan utama dari model konseling Islami setelah
+bencana adalah penerimaan yang tinggi di kalangan masyarakat Muslim.
+Konseling ini dianggap sangat sesuai dengan identitas kultural dan religius para
+penyintas. Selain itu, pendekatan Islami menawarkan pemulihan yang bersifat
+holistik, mencakup tidak hanya aspek psikologis, tetapi juga aspek spiritual dan
+sosial. Dengan mengintegrasikan praktik dzikir, doa, dan tadabbur Al-Qur’an,
+konseling ini tidak hanya memberikan kenyamanan emosional, tetapi juga
+memperkuat pemahaman religius mengenai bencana. Hal ini berpotensi
+menjadikan para penyintas lebih tangguh dalam jangka panjang.
+Namun, pelaksanaan konseling Islami juga menghadapi berbagai
+tantangan. Pertama, terdapat keterbatasan jumlah konselor yang memiliki
+kemampuan di kedua bidang, yaitu psikologi klinis dan konseling Islami.
+Kedua, belum terdapat standar nasional yang diadopsi untuk modul konseling
+Islami pasca-bencana. Ketiga, masih ada anggapan dari sebagian pihak bahwa
+pendekatan spiritual merupakan tambahan, bukan bagian esensial dari
+penyembuhan trauma. Tantangan-tantangan ini dapat menghalangi
+pengoptimalan model dalam praktik.
+Untuk mengatasi isu-isu tersebut, sangat penting untuk dibangun
+kolaborasi antara kalangan akademisi, praktisi konseling, pemuka agama, dan
+pemerintah. Akademisi dapat merumuskan modul yang terstruktur, praktisi
+dapat menguji efektivitas model dalam praktik, pemuka agama dapat
+memberikan legitimasi budaya, dan pemerintah dapat mengintegrasikan model
+ini ke dalam kebijakan penanggulangan bencana nasional. Kerja sama lintas
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+9
+
+sektor akan menjamin bahwa konseling Islami tidak hanya menjadi bahan
+diskusi dalam dunia akademik, tetapi juga solusi praktis di lapangan.
+Analisis: Kelebihan dari model ini menunjukkan kemampuannya
+sebagai solusi untuk penyembuhan trauma yang relevan dalam konteks
+Indonesia. Namun, tantangan yang ada mengharuskan institusionalisasi model
+tersebut dalam program penanggulangan bencana yang resmi. Jika tantangan
+dapat diatasi, model konseling Islami pasca-bencana memiliki potensi untuk
+menjadi standar nasional serta menjadi kontribusi Indonesia dalam wacana
+internasional mengenai penyembuhan trauma berbasis spiritualitas.
+4. Simpulan
+Simpulan Pertama, bencana alam tidak hanya menimbulkan kerusakan fisik dan
+kerugian material, tetapi juga meninggalkan trauma psikologis yang mendalam bagi
+para penyintas. Dalam konteks masyarakat muslim, spiritualitas Islami terbukti
+mampu menjadi sumber kekuatan yang efektif dalam membantu korban menghadapi
+rasa kehilangan, kecemasan, serta ketidakpastian pasca-bencana. Nilai-nilai Islam
+seperti sabar, tawakkal, dzikir, dan doa berperan penting dalam menciptakan
+ketenangan batin sekaligus memperkuat daya tahan psikologis.
+Kedua, model konseling Islami pasca-bencana yang dirumuskan dalam
+penelitian ini meliputi enam tahapan utama, yaitu asesmen trauma, stabilitas awal,
+konseling individual/kelompok, penguatan spiritualitas, dukungan sosial-komunitas,
+serta evaluasi dan tindak lanjut. Setiap tahapan berlandaskan Al-Qur’an dan hadis,
+sehingga tidak hanya menargetkan pemulihan mental tetapi juga menumbuhkan
+makna religius atas musibah. Model ini menawarkan integrasi antara pendekatan
+psikologis dan spiritualitas Islami yang sesuai dengan kultur masyarakat Indonesia.
+Ketiga, penelitian ini memberikan kontribusi praktis dan akademis. Secara
+praktis, model ini dapat diterapkan oleh konselor, relawan, maupun lembaga
+kemanusiaan dalam mendampingi korban bencana. Secara akademis, penelitian ini
+menghadirkan novelty berupa konseling Islami yang holistik, berbeda dengan model
+konseling Barat yang cenderung sekuler. Dengan demikian, trauma healing berbasis
+spiritualitas Islami dapat menjadi alternatif efektif dan kontekstual dalam
+memperkuat resiliensi penyintas bencana di Indonesia.
+
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+10
+
+Daftar Pustaka
+Antara News. (2025, June 23). BNPB catat 1713 bencana sampai Juni. Antara News.
+https://www.antaranews.com/berita/4927989/bnpb-catat-1713-bencana-sampaijuni
+Asia-Pacific Solidarity. (2025, February 11). 1889 disasters in Indonesia throughout
+2024, hydro-meteorological disasters dominate. Asia-Pacific Solidarity.
+https://www.asia-pacific-solidarity.net/index.php/news/2025-02-11/1889disasters-indonesia-throughout-2024-hydro-meteorological-disastersdominate.html
+Associated Press. (2024, May 13). Indonesia volcano eruption triggers flash floods
+killing
+dozens.
+AP
+News.
+https://apnews.com/article/56a874306a7f5e3e3d6a521c8c999a92
+Badan Nasional Penanggulangan Bencana. (2023, December 31). Indonesia alami
+4.940
+kali
+bencana
+selama
+2023.
+Antara
+News.
+https://www.antaranews.com/berita/3912381/bnpb-indonesia-alami-4940-kalibencana-selama-2023
+Badan Nasional Penanggulangan Bencana. (2024). Data bencana Indonesia tahun
+2024. BNPB. https://www.bnpb.go.id/buku/buku-data-bencana-indonesiatahun-2024
+Creswell, J. W. (2018). Research design: Qualitative, quantitative, and mixed
+methods approaches (5th ed.). SAGE Publications.
+GoodStats. (2025, July 1). Tercatat lebih dari 1500 kejadian bencana alam di
+Indonesia
+pada
+Januari–Juni
+2025.
+GoodStats.
+https://goodstats.id/article/tercatat-lebih-dari-1500-kejadian-bencana-alam-diindonesia-pada-januari-hingga-juni-2025-eGXOT
+Hasanah, U., & Rakhmat, J. (2020). Spiritualitas dalam pemulihan trauma pascabencana: Sebuah pendekatan konseling Islami. Jurnal Konseling Religi, 11(2),
+145–158.
+Iqbal, M., & Sa’ad, F. (2025). The role of Islamic spirituality in reducing trauma
+symptoms among disaster survivors. Journal of Integrated Sciences, 12(1), 56–
+70.
+
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+11
+
+Javaid, A., & Rehman, S. (2024). Integrating Qur’anic counseling with
+psychotherapy for trauma healing. International Journal of Islamic Psychology,
+8(2), 101–115.
+Masykur, A., & Ismatullah, H. (2023). Pendekatan sufistik dalam pemulihan trauma:
+Integrasi spiritual dan psikologis. Jurnal Tasawuf dan Psikoterapi, 11(2), 88–
+102.
+Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). Qualitative data analysis: A
+methods sourcebook (3rd ed.). SAGE Publications.
+Muslaini, & Sofia. (2021). Terapi dzikir dalam mengurangi gejala PTSD pada
+penyintas bencana tsunami Palu. Jurnal Psikologi Islam dan Budaya, 4(2),
+123–135.
+Nurdin, A., & Fitriani, H. (2021). Islamic-based trauma healing for disaster survivors:
+An integrative counseling approach. Journal of Religion and Health, 60(5),
+3011–3025. https://doi.org/10.1007/s10943-020-01137-6
+Saputra, R., & Lestari, D. (2019). Efektivitas konseling Islami dalam mengurangi
+gejala trauma pasca-bencana. Jurnal Bimbingan dan Konseling Islami, 10(1),
+33–47.
+Uyun, Q., Hasanah, N., & Fathurrahman, M. (2022). Peran terapi taubat dan istighfar
+dalam pencegahan PTSD pada korban kecelakaan lalu lintas. Psikohumaniora:
+Jurnal Penelitian Psikologi, 7(1), 45–60.
+Yusuf, A. M., & Rahman, F. (2022). Faith-based counseling in disaster recovery:
+Islamic perspectives on trauma healing. International Journal of Islamic
+Studies, 15(3), 220–235.
+
+MIMBAR Jurnal Media Intelektual Muslim dan Bimbingan Rohani
+
+12
+
+

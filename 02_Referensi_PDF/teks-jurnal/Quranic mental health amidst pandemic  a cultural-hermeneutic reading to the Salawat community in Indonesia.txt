@@ -1,0 +1,743 @@
+Mental Health, Religion & Culture
+
+ISSN: 1367-4676 (Print) 1469-9737 (Online) Journal homepage: www.tandfonline.com/journals/cmhr20
+
+Quranic mental health amidst pandemic: a
+cultural-hermeneutic reading to the Salawat
+community in Indonesia
+D. I. Ansusa Putra, Umma Farida, Dani Sartika, Abdurrohman Kasdi & Silvia
+Handayani
+To cite this article: D. I. Ansusa Putra, Umma Farida, Dani Sartika, Abdurrohman Kasdi & Silvia
+Handayani (2023) Quranic mental health amidst pandemic: a cultural-hermeneutic reading
+to the Salawat community in Indonesia, Mental Health, Religion & Culture, 26:1, 1-15, DOI:
+10.1080/13674676.2021.2009787
+To link to this article: https://doi.org/10.1080/13674676.2021.2009787
+
+© 2022 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 17 Mar 2022.
+
+Submit your article to this journal
+
+Article views: 4415
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=cmhr20
+
+MENTAL HEALTH, RELIGION & CULTURE
+2023, VOL. 26, NO. 1, 1–15
+https://doi.org/10.1080/13674676.2021.2009787
+
+Quranic mental health amidst pandemic: a culturalhermeneutic reading to the Salawat community in Indonesia
+D. I. Ansusa Putra
+Silvia Handayani
+
+a
+
+, Umma Farida
+
+b
+
+, Dani Sartika
+
+c
+
+, Abdurrohman Kasdi
+
+d
+
+and
+
+e
+
+a
+
+Faculty of Ushuluddin and Religion Studies, UIN Sulthan Thaha Saifuddin, Jambi, Indonesia; bFaculty of
+Ushuluddin, IAIN Kudus, Indonesia; cDepartment of Islamic Guidance and Counseling, Faculty of Dakwah and
+Communication UIN Sulthan Thaha Saifuddin, Jambi, Indonesia; dDepartment of Sharia Business
+Management, Faculty of Islamic Economy and Business IAIN Kudus, Indonesia; ePostgraduate Programme of
+Public Health, Bina Husada College of Health Sciences, Palembang, Indonesia
+ABSTRACT
+
+ARTICLE HISTORY
+
+The COVID-19 pandemic has created excessive anxiety and
+psychological disaster globally. People try to calm their souls by
+performing religious rituals such as Salawat. This research explains
+the uniqueness of Quran and hadith-based mental health in
+dealing with pandemics using the Salawat tradition in Indonesia.
+This is qualitative research with data collected from the Salawat
+communities through in-depth interviews and observations, then
+analyzed using Cognitive Behavior Therapy (CBT) to determine the
+level of mental health and its relationship with the Quranic Mental
+Health concept. David Tracy’s cultural-hermeneutic theory was
+used to understand how the Salawat community reaches good
+mental health in dealing with pandemics. It discusses the Quranic
+Mental Health from the perspective of hermeneutic and culture,
+examines links with psychological concepts such as religious
+phenomenon, and describes preliminary empirical evidence
+related to the mental construct. It has potentially valuable
+implications for researchers and clinicians interested in Islamic
+psychology.
+
+Received 26 January 2021
+Accepted 18 November 2021
+KEYWORDS
+
+Quranic Mental Health;
+Prophetic Tradition; CulturalHermeneutic; Salawat
+Community
+
+Introduction
+The COVID-19 pandemic has caused psychological problems such as fear, anxiety, and
+depression in society globally, which has an impact on mental health problems (Lee
+et al., 2021; Wang, Chudzicka-Czupała, Tee, 2021; Xiong et al., 2020). However, a
+person’s emotional and psychological responses vary according to the social conditions
+of the countries (Lee et al., 2021; Tee et al., 2021; Wang, Chudzicka-Czupała et al., 2021;
+Wang, Tripp et al., 2021). According to Gao et al. (2020), the psychological distress level
+in society was exacerbated by the uncontrolled exposure of massive media and information. The Indonesian government recorded 1,470 incorrect information on COVID
+(Antara/DAL, 2020). Uncertainty, fear of contagion, and anxiety increase stress and have
+CONTACT D. I. Ansusa Putra
+ansusa@uinjambi.ac.id
+This article has been corrected with minor changes. These changes do not impact the academic content of the article.
+© 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License
+(http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any
+medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+2
+
+D. I. PUTRA ET AL.
+
+a tremendous eﬀect on public panic (Dein et al., 2020) Although the government provided
+adequate information on mental health education and psychological support from various
+health professionals, these psychological problems persisted.
+Odriozola-González et al. (2020) stated that several countries carried out various lockdown measures by limiting interaction and mobility of peoples’ activities to minimise
+the spread of the virus. For instance, India has been under “lockdown” since March 25,
+2020, to control the spread of the virus. Due to unprecedented situations, many people
+experienced increased anxiety levels, and some even sought medical help (Chauhan
+et al., 2020).
+In Indonesia, the lockdown imposed by the government led to unstable economic situations, which increased the citizens’ problems and stress levels (Kaligis et al., 2021). In
+2020, the World Health Organization issued a conceded edict to regulate the mental
+health level of countries in dealing with the COVID-19 pandemic (World Health Organization, 2020). Sher (2020) stated that low mental health levels also lead to high suicide rates.
+This concern aﬀected almost all community groups, including religious organisations
+(Sulkowski & Ignatowski, 2020). Weber and Pargament (2014) stated that religious communities seek solutions through religious doctrines, which are believed to reduce panic,
+worry, and stress. One of the religious community groups facing numerous challenges
+due to the pandemic is the Salawat, and institutionalisation from one Islamic doctrine.
+This community has a place in Indonesian Muslim society, as seen from its existence
+since time immemorial. It has also become a tradition and characteristic of certain
+Muslim communities, such as Nahdatul Ulama (NU), Dhikr Council, Alawiyin Council, and
+groups aﬃliated with traditional and Suﬁ Islam. It has long been believed to be an instrument of inner peace and psyche (Aljunied, 2021; Hamsyah & Subandi, 2017). Ngadimah
+(2018), analyzed the contribution of the Salawat Maﬁa in developing the spiritual community through the Salawat media packaged with religious music, Suﬁ dance, religious songs,
+mass healing, and da’wah on Islam. The Salawat Maﬁa is an alternative solution to religious
+conﬂicts, modernity crises, security, social, self-esteem, mental health, and self-actualisation. Furthermore, this community was also used as a propaganda medium for Nadhlatul
+‘Ulama to instill ahl sunnah waljama’ah values.
+The reality of the Salawat community in Indonesia is the community’s interpretation of
+religious doctrine. This is in addition to reading religious teachings, with the al-Quran
+surah al-Ahzab: 58 translated hermeneutically by the community. The existence of the
+Salawat community, with all its endurance against challenges and social change, is inseparable from the interpretation process of religious doctrine (Suryadilaga, 2014). Conversely, religious phenomena in Islam are an inseparable part of Muslim society and related to
+their way of life, including the totality of institutions, practices, self, and world images.
+Entirely evolve at the level of ideas, inner experiences, and self-image as the Muslim community members. The ethos that forms their background constantly shifts and overlaps
+with a wide range of ideas and sensitivities that reﬂect the diversity of languages, cultures,
+and social classes that characterise the Islamic world (Hasan, 2019). Therefore, the Qur’an
+interpretation plays a signiﬁcant role in producing Islamic ethos and customs (Islamic
+Habitus). Muslim scholars have not widely discussed the interpretation formulation in
+the form of Islamic practices and traditions. The classical interpretation method is more
+focused on interpreting the Qur’an linguistically. This analysis is based on the socio-cultural phenomenon of the Qur’an, which is studied from a hermeneutical perspective.
+
+MENTAL HEALTH, RELIGION & CULTURE
+
+3
+
+This is interpreted as the meaning given by the Muslim community to the Qur’an and the
+technique used in determining the actualised process in their daily lives(Sahiron Syamsudin, 2007). In this research, the verse of al-Ahzab: 56 is brought to life in the form of the
+Salawat community phenomenon.
+In Islam, Salawat recitation was developed into a tradition as a means to approach God
+through the praises of the Prophet. Since the inception of Islam, this religion has existed in
+Indonesia to the archipelago brought by Arab tasawwuf scholars. They spread Islam
+through Salawat Assembly with a Suﬁ approach (Zamhari, 2010). As a result, the
+Salawat developed in Indonesia is very diverse and taken from Arabic poems as a
+medium to motivate people to worship and praise the Prophet (Bukhari, 2017).
+Salawat Community is currently scattered in various regions in Indonesia with each connected at the regional level. Some of the well-known Salawat communities are Majlis Rasulullah, Alawiyin, and Az-Zikra Assemblies (Huda, 2017). The Ahbabul Mustofa Salawat
+community located in Kudus, is a branch of Ahbabul Mustofa led by Habib Syech bin
+Abdul Qadir As-Segaf and popular among Indonesians. They have inspired people to love
+the Prophet Muhammad through praise and prayers. Ahbabul Mustafa means lovers of AlMustafa, which is another name of the prophet Muhammad. According to the leader of
+this community, Habib Syech, the use of Ahbabul Mustafa aims to recite Salawat for the
+Prophet, thereby enabling the community members to be recognised as lovers of the
+Prophet and able to spend time with Him in the afterlife (Habib Syech, 2020).
+Conversely, several Salawat communities were also found and formed from the prominent ﬁgures of ulama and sheikhs (Salawat leaders) in their respective areas. For instance,
+in Jambi, the Al-Burdatul Mukarromah was founded by Berembang community leaders,
+Muaro Jambi, Abdurrahman Sayuti and Habib Fauzi al-Habsyi (Asmi et al., 2020).
+Salawat community was established to foster a sense of love for the Prophet Muhammad,
+which is believed to bring many other beneﬁts, such as increasing religiosity and brotherhood between Muslims, and providing physical and mental health (Asmi et al., 2020).
+Members of the religious groups Al-Burdatul Mukarromah in Jambi and Ahbabul
+Mustofa in Kudus consist of various age groups, namely youth, adult men, and women’s
+groups totaling 250 members. The youth group dominates the Salawat community, by
+64% or 180 members. According to Jones et al. (2021), there were deviations in adolescent
+behaviour in the form of crimes such as the use of alcohol and marijuana during the
+COVID-19 pandemic. However, this was contrary to the members of the Al-Burdatul Mukarromah Salawat community in Jambi and Ahababul Mustofa in Kudus, which showed positive behaviour. Table 1 summarises the behaviour of members of the Salawat community
+obtained through interviews and observation (Asmi et al., 2020).
+This phenomenon is rare behaviour amid the spread of the pandemic around the world.
+Therefore, this research found new applicable Quranic readings by the Salawat community
+which combine religious and cultural activities on the formation of mental health. The
+Table 1. The behaviour of members of Salawat Al-Burdatul Mukaramah Jambi and Ahbabul Mustofa
+Kudus during the pandemic (Asmi et al., 2020).
+No.
+
+Group
+
+Behavioral
+
+1.
+2.
+3.
+
+Youth
+Adult male
+Female
+
+Calmness while facing pandemic and digital era issues that are concordance with globalisation
+Being wise in responding to the spread of COVID-19 pandemic
+Proportionally worried on receiving information regarding the pandemic.
+
+4
+
+D. I. PUTRA ET AL.
+
+interpretation of works, texts, and actions transformed into cultural-hermeneutics was
+used to discuss the meaning and understanding (Verstehen) of social relations and the
+eﬀects of good culture in the pandemic context. Hermeneutics is the theory or art of interpreting texts, actions, events, and social conditions.
+
+Method
+This research chooses cultural hermeneutics as an approach to examining one of the religious phenomenologies. It is phenomenological research with the descriptive qualitative
+method used for data analysis. Data was collected from the Salawat community by interviewing and observation of the cognition and behaviour of members of the salawat community. The qualitative data were analyzed using David Tracy’s Cultural-Hermeneutic
+theory (Tracy, 1987) to help understand the readings made by the Salawat community on
+the Quran. The theory of cultural heredity provides a proper understanding of the
+Salawat community phenomenon in Indonesia. According to Tracy (1987), cultural hermeneutics observes intersubjective reading as built from human consciousness and religiosity.
+It interprets an appreciation of every religious tradition to revive and maintain the associated
+habits. Tracy (1987) also encouraged the reasoning of religious texts and traditions based on
+intra and extra dialogue capable of maintaining their existence amid social changes.
+Tracy (1987) considers actions and phenomena as a model that oﬀers conversation and
+interpretations with the main points are conservation and dialogue. According to Lennan
+(2016), this phenomenon is called a “game,” with each interpretation comprising three realities, namely (1) the interpreted phenomenon, (2) the person or institution that interprets
+the phenomenon, and (3) the interaction between the two realities (Tracy, 1984).
+This research has fulﬁlled three interpretation realities, (1) The phenomenon to be interpreted is the Salawat tradition, (2) the institution that interprets the phenomenon, and (3)
+the interaction between the two realities during the pandemic. Based on Tracy’s theory
+(Tracy, 1984), this research understands the text of the Qur’an (al-Ahzab: 56), which is
+always interpreted according to the surrounding conditions. It also aims to build a concept
+on the existence of the Salawat phenomenon during a pandemic. Furthermore, this research
+aims to determine the eﬀorts in tackling an outbreak designated as a global pandemic.
+In the end, this article will examine the relationship between Quranic values and the
+content of mental health that called Quranic Mental Health. Quranic Mental Health
+related to the characteristics of Qur’an-based mental health. In addition, this study displays
+categories in the context of Cognition Behavior Therapy (CBT) related to the mental health
+level in the salawat community in Jambi and Kudus. This study uses internet-based Cognitive Behavior Therapy (I-CBT) to minimise the spread of COVID-19. The selection of CBT
+as a component in the analysis is very eﬀective for exploring empirical data related to
+mental health understanding and behaviour (Ho et al., 2020; Soh et al., 2020; Zhang &
+Ho, 2017). CBT is also in accordance with the purpose of this study to examine mental
+health based on religious and cultural norms.
+
+Quranic Mental Health
+Islam is introduced as a religion that is physically and mentally healthy (Khan et al., 2020).
+Its role is to help humans treat the soul, prevent mental disorders, and foster the
+
+MENTAL HEALTH, RELIGION & CULTURE
+
+5
+
+conditions. Mental health is used daily in Islam for the practice of spiritualism. According to
+Farooqi (2006), this process is diﬀerent from mental health in materialistic psychology.
+Islam values the importance of good mental health and emotional well-being, while AlQuran is used as a guide for those suﬀering from emotional stress to provide meaningful
+quality of life (Aljunied, 2021). Mental health is the avoidance of a person from complaints
+and disorders in the form of neurosis and psychosis (Daradjat, 1991). Based on the Islamic
+perspective, an individual can dynamically manage psychological functions and create
+adjustments with oneself, others, and the surrounding environment. Based on the
+Qur’an and as-Sunnah it is a guide to life towards happiness in this world and the hereafter
+(Ariadi, 2013).
+Al Qur’an provides many terminologies referring to the concept of mental health, which
+is known in modern science as “nafs lawwama” (disgraceful soul), and nafs mutmainna
+(restful soul). Currently, Muslims have a very healthy and optimistic concept of mental
+health and illness. In several Al Qur’an verses, it functions as ash-Syifa or medicine to
+cure physical and spiritual ailments. Therefore, it is important to introduce the Quranbased mental health concept.
+Quranic Mental Health is a terminology developed from the concept of Islam in accordance with the ilmu jiwa agama (the science of Soul based on religion) initiated by Dzakiah
+Darajat. Aljunied (2021) built an “Islamic-oriented psychology” project as a psychological
+process for the mental health of Muslims. Islam is placed in a leading position than
+other psychological sources. Zakiah Daradjat tried to juxtapose Islamic psychology position with modern psychology integratively. This psychological concept places the
+Qur’an and hadith as the standard for diagnosing human mental health problems.
+Furthermore, the term Quranic Mental Health was used to distinguish the psychological
+process from Zakiah Daradjat’s terminology. However, the Qur’an explicitly contains a conception of perfect mental health, which is neatly and systematically conceptualised.
+However, this conception has not been fully explored by scholars of the Qur’an.
+Furthermore, it is necessary to add that the mental health of the Qur’an is not only
+sourced from the text and textuality of the Qur’an. Rather, it also comes from its interpretation in the form of insights, views, practices, rituals, and traditions of the Muslim community that perceive the Qur’an in their daily lives. This is because the practice of the Al Qur’an
+teachings is essentially associated with the act of reading.
+The Qur’anic practices are due to the hermeneutical reading of the Qur’an. David Tracy
+stated that the practice of religion in the form of actions and phenomena is a hermeneutical interpretation of the norms and doctrines (Tracy, 1987). It is agreed that the interpretation of texts and traditions is inseparable from religious phenomena and vice versa. The
+interpretation of life represented by Islam is a phenomenon that changes, survives, and
+develops.
+The practice of Salawat by communities in Indonesia is associated with the Qur’an
+reception prepared to deal with economic, modernity, and religious conﬂicts, as well as
+pandemic disasters. Some experts stated that pandemic threatens religious psycho-spiritual values globally (Molteni et al., 2021).
+Salawat is one of the methods used by the Muslim community for remembrance, prayer,
+and reading the Qur’an (Hamsyah & Subandi, 2017). This therapy is used to awaken faith in
+God, which is moved towards inner or spiritual enlightenment, which in essence raises
+
+6
+
+D. I. PUTRA ET AL.
+
+conﬁdence that God Almighty is the only healing power of disease. The concept of Salawat
+therapy holds that it is an intermediary to ask God in the mental healing procession (Wilde
+et al., 2019).
+
+Cultural hermeneutic of Salawat community
+The cultural hermeneutic argument leads to the thesis that religious phenomena are inseparable from doctrines interpretation (Suryadilaga, 2014). On the other hand, it is an inseparable part of Muslim society’s interpretation related to their ways of life, such as totality
+of institutions, practices, self-image, and world image. These attributes evolve at the level
+of ideas, inner experiences, and self-image as the Muslim community members. The ethos
+that forms their background constantly shifts and overlaps with a wide range of ideas and
+sensitivities that reﬂect the diversity of languages, cultures, and social classes of the Islamic
+world (Hasan, 2019). The formulation of the Qur’an interpretation in the form of Islamic
+practices and traditions has not been widely discussed by Muslim scholars. The classical
+interpretation method is associated with the interpretation of the Qur’an linguistically,
+which is studied from various perspectives. According to Sahiron Syamsudin (2007),
+Qur’an interpreted is the meaning given by the Muslim community and how this
+meaning is actualised in their daily lives. In this research, the verse of al-Ahzab: 56 was
+brought to life in the form of a Salawat community phenomenon.
+This research focuses on cultural hermeneutics used to interpret a text, tradition, and
+culture. The main concern of this type of hermeneutics is understanding others, either as
+individuals or communities. In other words, the purpose of interpreting “other” is not
+merely self-understanding, self-enrichment, or self-creation. Rather, it is also associated
+with understanding the unique ideas and ideals, habits and customs, cultures and religions,
+likes and dislikes, etc. Therefore, in such a hermeneutics, the “other” that aims to interpret
+and understand is the living person, as the author or user of such texts and symbols,
+which is the moral patient. Therefore, while it is often necessary to understand the texts
+and symbols, it is not simply enough to study the texts and symbols (Andersen, 2020).
+Therefore, cultural hermeneutics is the interpretation of practices, traditions, and rituals
+based on certain texts or symbols to understand the phenomenon of society with all life
+aspects. This process understands the texts needed by the interpreter to interact, even
+though the understanding is wrong from their perspective. However, the interpreter is
+interested in understanding the person reading the text. Hendry Corbin stated that this
+perspective seems appropriate for understanding the Salawat community’s interpretation
+in dealing with a pandemic (Berger, 1986).
+Tracy stated that one of the important points in creative interpretation is the relationship between mystical-prophetic and religious rhetoric (Tracy, 1984). Palfrey (2013) stated
+that the mystical and prophetic category of rhetorical elements in all religions is associated
+with the dialogue with the Other (1990) chapter Prophets, Retetorics: Religion and Psychoanalysis. Normatively, religion spreads the doctrine of prophethood as the most mystical
+part. The religious doctrine of prophethood, including mystical nuances, is displayed in
+symbols representing the prophetic doctrine (‘The power of dialogue: critical hermeneutics after Gadamer and Foucault’, 1997) Figure 1.
+According to Rahman (2012), prophethood in Islam is closely related to mystical revelation because it is a very personal spiritual experience. Not everyone is called a prophet
+
+MENTAL HEALTH, RELIGION & CULTURE
+
+7
+
+because God chooses prophethood to convey the message of revelation to humans.
+Therefore, it is seen as an important part of human history. Revelation contains commands,
+prohibitions, examples, predictions, and promises to all mankind. Therefore, mystical and
+prophetic signiﬁcantly inﬂuence religious rhetoric both internally (to religious adherents)
+and externally (to all humans and nature).
+There are three symbols conveyed in Salawat and understood by the Al-Burdatul Mukarromah Salawat community, namely (1) the glory of the Prophet. In Salawat this is an expression
+of gratitude to the Prophet for all his services and sacriﬁces that have guided mankind to the
+right path. The Prophet is a reminder related to the privilege of each step in this life and gratitude to God. Later on the Day of Resurrection, all mankind is going to face the Messenger of
+Allah while saying, “With your glory Muhammad, save me from torment.” Furthermore, during
+that time, only the intercession from the Messenger of Allah will save mankind from torment
+with permission and a blessing for the universe (Shihab, 2001; Suryadilaga, 2014).
+The privilege and glory of the Prophet are illustrated in al-Ahzab: 56, where this prayer
+command is unique. Allah Himself commands the practice of Salawat to the Prophet
+Muhammad, namely Allah SWT. Together with all His angels, they continue to pray for
+the Prophet Muhammad SAW bestowing His mercy and grace, while the angels ask for
+elevation, and the outpour of Magﬁrah on Muhammad.
+The community recites Salawat simtudduror, which contains salutations to the Prophet
+Muhammad and shows the glory as well as praises to the most pious creature. This reading
+is also a form of prayer. However, this book serves as an introduction before entering the
+reading of Maulid Simtudduror. The glory in Salawat is mentioned in the form of poems
+containing praise to the Prophet for his glory, nobility of character, and services, and
+Islamic qasida, which contains Islamic poems.
+(2) The Prophet’s Love. The Al-Burdatul Mukarromah Assembly considers the routine of
+praying as a love for the Prophet Muhammad. Through the Salawat tradition, Muslims feel
+a deep love for the Prophet Muhammad, long for his presence, and admire his morals and
+services. Apart from being realised by following all the teachings, it is also actualised with
+Salawat. The community believes that loving Prophet Muhammad is a commandment
+linked to his personality. The love for the Prophet makes Muslims understand his life
+
+Figure 1. The relationship between mystical, prophetic, and religious rhetoric, according to Tracy, 1984.
+
+8
+
+D. I. PUTRA ET AL.
+
+history, therefore it easy to imitate. There are many beneﬁts associated with growing a
+deep love for the Prophet Muhammad (Sayuti, 2020).
+The prologue in the burdah section referred to in this research is called syakwa algharam (the poet’s inner expression) (Nihayah, 2015). In this section, a poet expresses feelings with ﬁgurative and hyperbolic language. At the beginning of the verse, the poet
+shows love for the Prophet with a story that starts with fate, as an expression of
+sadness over the grief experienced by the poet and neighbours in Dzu Salam. It is customary for classical Arab poets to start their poetry work by always referring to a place where
+they have deep memories, such as their hometown.
+(3) Miracles of the Prophet. Miracles (mu’jizah) in Islam are understood as signs that
+conﬁrm prophethood. These miracles point to the truth of the prophetic claims of a
+Prophet. According to Rahman (2012), it is an event outside the natural habits (kharq al’adah). In practice, the Salawat material consists of articles/sections based on certain
+themes. In the simtudurror Salawat poems, the explanation on the miracles of the
+Prophet Muhammad is found in the ﬁfth section.
+Imam Al-Bushiri’s praise of the Prophet Muhammad is not limited to personal character
+and quality, rather it reveals the most important advantages of the Prophet, namely the
+greatest and eternal miracle in the form of the Qur’an. Assuming Salawat means praise
+to the Prophet, then burdah is Salawat. The next section contains the Prophet Muhammad’s birth and various amazing events around it as a sign of his birth. The ﬁfth part is
+a story on his external miracles (Stetkevych, 2007).
+In the Al-Burdatul Mukarromah Assembly, the reading of Salawat burdah consists of 10
+chapters, with each read using a diﬀerent tone. Furthermore, each chapter has a diﬀerent
+meaning, with the third containing praises to the Prophet Muhammad. Meanwhile, the
+ﬁfth chapter contains the miracles of the Prophet Muhammad (Stetkevych, 2006). In the
+assembly environment, the reading of Salawat burdah is accompanied by hadrah.
+However, when people are asked to read Salawat burdah for a speciﬁc intention, it is
+not accompanied by hadrah.
+The ﬁgure above is an example of Sholawat burdah in chapter one, an expression of
+love. At the beginning of the verse, each chapter contains blessings and greetings for
+the Prophet Muhammad, as the best lover of Allah among all creatures. Furthermore,
+the contents of article one are as follows:
+apakah karena mengingat para kekasih di dzi salam sana. Engkau deraikan air mata dengan
+darah duka. Ataukah karena hembusan angin terarah lurus berjumpa di kazimah. Dan
+kilatan cahaya gulita malam dari kedalaman jurang Idam. Mengapa kedua matamu (meneteskan air mata)? Padahal engkau telah berusaha membendungnya. (Are you shedding tears with
+the blood of sorrow due to the lovers in dzi salam, orbecause the gusts of wind are directed
+straight at the kazimah. And ﬂashes of pitch black light from the depths of the abyss of Idam.
+Why are your eyes in tears? Even though you have tried to hold it back)
+
+This prophetic symbolism tends to create Islamic rhetoric on human values eventually. (1)
+The specialty of the Prophet brings the message of inclusive Islam because the Prophet’s
+privilege is not only for believers. (2) The Prophet’s love brought the message of peace to
+the whole world through Islam. Zamhari (2010) stated that this process is because love is a
+symbol of peace. The highest love in Islam is only for Allah, the Almighty, and His Messenger. Loving the Prophet Muhammad is carried out by always following the order and
+
+MENTAL HEALTH, RELIGION & CULTURE
+
+9
+
+leaving the forbidden because it is a revelation of Allah (Wargadinata, 2010). (3) Miracles of
+the Prophet brought the message of Islam. Mystical prophecy, prophetic symbolisation
+will produce religious rhetoric with psychological content. According to Jones, religious
+symbolism relates to ideas embedded in education and family member relationships.
+As Tillich understands myth as a collection of symbols into a religious heroic story that
+will dominate at various stages of the development of each individual or culture (Hart,
+2011; Losee, 2018). The symbol of the heroic cetita will create an awareness that is connected with holy and uncritical religious authority. A consensus has emerged that recognises that an individual’s attitude towards, and ability to use, symbols will depend on his
+acceptance of something beyond human power. In environmental psychology, self-identity is often associated with place attachment, a concept that describes a person’s
+emotional attachment to a place.
+Therefore, Bilewicz concluded in his study that religious symbols reduce the negative
+inﬂuence on students who strongly identify with religion and those who frequently
+attend religious ceremonies (Bilewicz & Klebaniuk, 2013). While the negative eﬀect on
+non-religious students is less pronounced. These results are discussed with reference to
+self-aﬃrmation theory, environmental psychology theory and more recent ﬁndings on
+the more subtle social consequences of religious exposure.
+This means that the symbolisation of religion begins with the psychological awareness
+of religious people. In Christianity, the use of the cross symbol on the classroom wall
+cannot be considered to have an inﬂuence on students who have acceptance of the conception of religion itself. The presence of religious symbols in public spaces is widespread
+and diﬀerent in Western culture. Such as symbols related to Christianity, despite the multicultural nature of most Western societies in public places.
+In contrast to other religions that place great emphasis on illustrated and manifest symbols,
+Islam explicitly prohibits the use of image symbols for its theological concepts (Gole, 2003).
+Allah, Muhammad, Angels cannot be described and manifested. The only place that is
+used as a symbol of Islam is the Kaaba. However, the Kaaba is not symbolised by the
+abode of “God”, but the Kaaba is a direction that unites the vision and mission of all
+Muslims in one direction (Hjärpe, 1979). Therefore, it can be understood that the symbolisation of Islam is more of an interpretative symbolism, not a symbolised and manifested symbol.
+Likewise, the existence of salawat which is symbolised interpretatively by intercession,
+prayer and supplication. This is closely related to the psychological awareness of Muslims
+to the concept of prophethood which is the messenger of God. This psychological awareness will certainly aﬀect the mental health of Muslims to deal with any anxiety, fear and
+psychological pressure.
+We found that the symbolisation of salawat to deal with the pandemic in Jambi and
+Kudus was quite high. Symbolisation means awareness to ask for help and be kept
+away from the plague of the pandemic through salawat.
+
+Salawat community and mental health
+The Islamic perspective of mental disorders is similar to the general overview. For instance,
+Islam’s role helps humans treat, prevent, and foster mental health conditions.
+In the context of healing, Quranic Mental Health is deﬁned as a treatment and healing
+process of mental or psychiatric, spiritual (religious), moral and physical illnesses or
+
+10
+
+D. I. PUTRA ET AL.
+
+disorders through the guidance of the Qur’an and Hadith (Bakran Adz-Dzaky, 2004). In this
+case, Quranic Mental Health, as the recitation of Salawat, uses the Qur’an and Hadith as
+their main basis. Salawat was historically institutionalised in one of the Islam branches,
+namely Islamic Suﬁsm. Communities in Indonesia have known Salawat since the spread
+of Islam in the country through Arabic Suﬁ scholars (Zamhari, 2010). The Salawat developed in Indonesia is also very diverse, taken from Arabic poetry as a medium to motivate
+people to worship and praise the Prophet (Bukhari, 2017). Therefore, the treatment
+therapy and healing procession on physical, mental or psychiatric, and spiritual
+members is carried out within the Suﬁsm framework (Rahman, 2012).
+One of the Islamic Suﬁsm concerns in the treatment and healing of mental health is the
+concept of khawf and raja’. This conception is embodied in the Qur’an and the works of
+classical Islamic treasures. The Quranic Mental Health stated that the two need to be
+balanced for spiritual health and perfection. Islam rejects excessive hope or fear, which
+contributes to self-deception, despair and ends in spiritual decline (Bahmani et al., 2018).
+The conception of khawf and raja is also implemented by the Salawat community as
+one of the creative interpretation processes that conduct contemplation in facing
+obstacles and calamities. Traditionalist society interprets Salawat as praise to Allah and
+His Prophet, poems on the Prophet’s services to the Islam development, and the lives
+of others. This tradition is also intended to beneﬁt Muslims from avoiding obstacles and
+calamities, such as in the current pandemic. Salawat is an inner eﬀort to avoid the
+COVID-19 outbreak, which has become a disaster.
+According to Sayuti (2020), traditions practiced by the Salawat community are reading
+Salawat for healing illness or to refuse calamity. The leadership of the Al-Burdatul Mukarromah Assembly understands that Salawat burdah tends to prevent obstacles and calamities (Sayuti, 2020). The creative interpretation of the Salawat congregation is
+contemplation in facing obstacles and calamities.
+Similar to the Salawat Al-Burdatul Mukarromah community, the Ahbabul Mustafa assembly still exists in this pandemic era and carries out routine Salawat activities while maintaining health protocols. This assembly has remained consistent and continues to
+operate in local and internal forums. The community leaders, including Ulama, Ustadz,
+and Kiai have regular recitation activities in their respective assemblies. However, the
+Great Deliberation, which presents thousands of members, cannot be carried out during
+the pandemic.
+The strategy adopted for the continuous existence of the Salawat community in the
+pandemic era is to hold small assemblies that take turns reading Salawat in members’
+homes. This activity is carried out starting from the month of Shawwal (June) 2020 with
+a maximum of 8 times. The followers and congregants of Ahbabul Mustafa believe that
+reading Salawat is meaningful and brings positive changes to the soul. People that
+attend prayer meetings feel calm and peace in their souls and minds. Because in this
+Salawat, there is a process of Tazkiyyatun Nafs (puriﬁcation of the soul) which automatically
+aﬀects mental health. Furthermore, they believe in the existence of a healthy mentality in
+mind and a calm soul (Mustofa, 2021).
+Nahdlatul Ulama, a traditionalist Islamic community in Indonesia, often uses Salawat
+Burdah to avoid calamities. Meanwhile, the central and local governments have taken
+various steps and policies to minimise the spread of the virus. Similarly, religious and community leaders in various regions appealed to the public to adhere to the various policies
+
+MENTAL HEALTH, RELIGION & CULTURE
+
+11
+
+Table 2. Reading of Salawat Members with the concept of Quranic Mental Health facing the pandemic.
+Quranic Mental Health
+
+Cognitive
+
+Behaviour
+
+Salawat + Mystical
+Prophecy
+Salawat + Simbolization
+of prophecy
+Salawat + Religious
+Retoric
+
+Feeling close to the Prophet because they believe
+that his position is noble with Allah
+Symbolisation of the Prophet as a lover of God
+
+Peace of mind despite the evolution
+of various diseases
+Harmonization between fear (alkhawf) and hope (al-Raja’)
+Patience to face problems
+
+Believe that Allah and the Prophet always help their
+servants
+
+implemented by the government to tackle this dangerous virus. For example, Jambi Seberang, an area in Jambi Province, recited Sholawat Burdah around the village to ward oﬀ the
+COVID-19 pandemic. Hence, the soul and mind remain peaceful in accepting the things of
+Allah’s provisions (Aryani, 2017).
+During the pandemic, many people in Indonesia experienced a shift in perspective and
+mindset by believing that the tradition of reading Salawat has a good impact on health
+and disease healing therapy. This believe was due to the signiﬁcant inﬂuence of
+Salawat on a person’s psychological elements. Therefore, they believed they had the
+ability to grow positive perceptions and motivations by reciting Salawat seriously, precisely, and continuously (Aryani, 2017).
+The impact of salawat on mental health is illustrated in the CBT results carried out on 50
+members of the salawat community in Jambi and Kudus. The CBT relates to psychological
+factors such as cognitive, behaviour and mental health level analyzed in Table 2.
+Figure 2 shows a simple slope pattern used by the salawat community in Jambi and
+Kudus for interactions, which is inﬂuenced by harmony and peace. Meanwhile, in table
+2, the members of salawat understood the concept of Quranic Mental Health in three
+levels, namely mystical prophecy, prophetic symbolisation, and religious rhetoric.
+
+Figure 2. Salawat community activities to prevent the spread of COVID-19.
+
+12
+
+D. I. PUTRA ET AL.
+
+Furthermore, this Quranic Mental Health concept produces religious cognitive power to
+produce calm, peaceful and harmonious behaviour.
+
+Conclusion
+Although the existence of the Salawat community was tested with various new values
+such as pandemics, it was able to survive and demonstrate the consistent practice of
+the Qur’an. The community exhibits unique mental health characteristics, therefore, its
+performance to counter mental disorders due to the COVID-19 pandemic through
+Salawat aims to ward oﬀ and protect Muslims from psychological impacts.
+Based on a psychological perspective, the reading of Salawat by praising Allah and His
+Messenger is part of the mysticism, symbolisation, and religious rhetoric of religion to
+increase well-being amid social instability due to the pandemic. This is considered an
+inner eﬀort, which prevents people from panicking and increases public trust hence
+they feel safe and protected from the COVID-19 spread.
+This research strengthens the thesis that religious phenomena use hermeneutics in
+interpreting doctrines to defend their beliefs amid social challenges. Therefore, in conclusion, the phenomenon of the Salawat community is evidence of interpretation
+through cultural hermeneutical content with the aim of 1) forming a dialogue of faith,
+2) forming dialogue-rhetoric in the love of the Prophet, 3) social criticism to calm the
+soul, and 4) contemplative-mediative in rejecting calamities.
+In summary, empirical evidence thus far generally provides preliminary support for the
+emerging psychological construct of Quranic Mental Health. As a result, researchers and
+clinicians can begin to learn more about Islamic spirituality and the emerging ﬁeld of
+Islamic Psychology. Our speciﬁc goal for this article has been to integrate cultural-theological and psychological work on salawat community with preliminary empirical work on
+the topic. More broadly speaking, our hope is to highlight the conceptualisation of the
+term Quran and Mental health in interdisciplinary eﬀorts to open doors of further understanding multiculturalism.
+
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+
+ORCID
+D. I. Ansusa Putra
+http://orcid.org/0000-0002-1737-4434
+Umma Farida
+http://orcid.org/0000-0001-6044-076X
+Dani Sartika
+http://orcid.org/0000-0001-5359-3063
+Abdurrohman Kasdi
+http://orcid.org/0000-0001-5120-2145
+Silvia Handayani
+http://orcid.org/0000-0003-0740-4131
+
+Reference
+Aljunied, K. (2021). Islam as therapy: Zakiah Daradjat and the uses of religious-oriented psychology.
+Indonesia and the Malay World, 49(143), 106. https://doi.org/10.1080/13639811.2021.1873618
+
+MENTAL HEALTH, RELIGION & CULTURE
+
+13
+
+Andersen, J. (2020). Understanding and interpreting algorithms: Ttoward a hermeneutics of algorithms. Media, Culture and Society, 42(78). https://doi.org/10.1177/0163443720919373.
+Antara/DAL. (2020, March 12). Ada 1.470 Hoax COVID-19 Hingga Maret, Terbanyak di Facebook, CNN
+News. https://www.cnnindonesia.com/teknologi/20210312163857-185-616809/ada-1470-hoaxcovid-19-hingga-maret-terbanyak-di-facebook
+Ariadi, P. (2013). Kesehatan mental dalam Perspektif Islam. Syifa’ MEDIKA: Jurnal Kedokteran dan
+Kesehatan, 3(2). https://doi.org/10.32502/sm.v3i2.1433.
+Aryani, S. A. (2017). Healthy-minded religious phenomenon in shalawatan: A study on the three
+Majelis Shalawat in Java. Indonesian Journal of Islam and Muslim Societies, https://doi.org/10.
+18326/ijims.v7i1.1-30
+Asmi, L. M., Yusuf, M., & Putra, D. I. (2020). Living Qur’an Al-Ahzab: 56 (Kajian Pemahaman Ayat
+Shalawat Di Majelis Al-Burdatul Mukarromah Berembang). [UIN JAMBI] http://repository.
+uinjambi.ac.id/4425/
+Bahmani, F., Amini, M., Tabei, S. Z., & Abbasi, M. B. (2018). The concepts of hope and fear in the Islamic
+Thought: Implications for spiritual health. Journal of Religion and Health, 57(1), https://doi.org/10.
+1007/s10943-016-0336-2
+Berger, A. (1986). Cultural hermeneutics: The concept of imagination in the phenomenological
+approaches of Henry Corbin and Mircea Eliade. The Journal of Religion, 66(2), https://doi.org/10.
+1086/487358
+Bilewicz, M., & Klebaniuk, J. (2013). Psychological consequences of religious symbols in public space:
+Cruciﬁx display at a public university. Journal of Environmental Psychology, 35, https://doi.org/10.
+1016/j.jenvp.2013.03.001
+Bukhari, A. (2017). Preserving Arab tradition: The cultural expression of Habsyian in East Kalimantan.
+Journal of Indonesian Islam, 11(1), 247–266. https://doi.org/10.15642/JIIS.2017.11.1.247-266
+Chauhan, V., Chatterjee, K., Chauhan, K., Prakash, J., & Srivastava, K. (2020). Impact on anxiety of
+COVID-19 and lockdown. Journal of Marine Medical Society, 3(22), https://doi.org/10.4103/jmms.
+jmms_96_20
+Daradjat, Z. (1991). Ilmu jiwa agama. Bulan Bintang.
+Dein, S., Loewenthal, K., Lewis, C. A., & Pargament, K. I. (2020). COVID-19, mental health and religion:
+An agenda for future research. Mental Health, Religion & Culture, https://doi.org/10.1080/13674676.
+2020.1768725
+Farooqi, Y. N. (2006). Understanding islamic perspective of mental health and psychotherapy. Journal
+of Psychology in Africa, 16(1), 101–111. https://doi.org/10.1080/14330237.2006.10820109
+Gole, N. (2003). The voluntary adoption of Islamic stigma symbols. Social Research, 70(3), 809–828.
+http://www.jstor.org/stable/40971641
+Gao, J., Zheng, P., Jia, Y., Chen, H., Mao, Y., Chen, S., Wang, Y., Fu, H., & Dai, J. (2020). Mental health
+problems and social media exposure during COVID-19 outbreak. PLoS ONE 15(4), 1–10. https://
+doi.org/10.1371/journal.pone.0231924
+Habib Syech. (2020). ‘Interview’. Kudus.
+Hamsyah, F., & Subandi. (2017). Dzikir and happiness: A mental health study on an Indonesian Muslim Suﬁ
+group. Journal of Spirituality in Mental Health, 19(1), 80–94. https://doi.org/10.1080/19349637.2016.
+1193404
+Hart, C. W. (2011). Paul Tillich and psychoanalysis. Journal of Religion and Health, 50(3), https://doi.
+org/10.1007/s10943-009-9302-6
+Hasan, H. (2019). The role of the qur’an in creating of civil community seberang kota jambi.
+International Journal of Scientiﬁc and Technology Research, 8(9), 2091–2099.
+Hjärpe, J. (1979). The symbol of the centre and its religious function in Islam. Scripta Instituti
+Donneriani Aboensis, 10), https://doi.org/10.30674/scripta.67116
+Ho, C. S., Chee, C. Y., & Ho, R. C. (2020). Mental health strategies to combat the psychological impact
+of COVID-19 beyond paranoia and panic. Annals of the Academy of Medicine, Singapore, 49(1), 155–
+160. https://doi.org/10.47102/annals-acadmedsg.202043.
+Huda, N. (2017). Mohammad in archipelago: Spatializing Spirituality in Majelis Shalawat Syubbanul
+Muslimin in Kalikajar Probolinggo. Islamic Studies Journal for Social Transformation, 1(2), 114–
+129. https://doi.org/10.28918/isjoust.v1i2.1141
+
+14
+
+D. I. PUTRA ET AL.
+
+Jones, E. A. K., Mitra, A. K., & Bhuiyan, A. R. (2021). Impact of COVID-19 on mental health in adolescents: A systematic review. International Journal of Environmental Research and Public Health, 18
+(5), 1–9. https://doi.org/10.3390/ijerph18052470
+Kaligis, F., Indraswari, M. T., & Ismail, R. I. (2021). Stress during COVID-19 pandemic: Mental health condition in Indonesia. Medical Journal of Indonesia, 29(4), 436–441. https://doi.org/10.13181/mji.bc.
+204640
+Khan, W., Ali, A., Khan, S., & Yazdani, N. (2020). Islamic perspective regarding the promotion of health
+and participation in sports activities. Journal of Islamic Thought and Civilization, 10(1), https://doi.
+org/10.32350/jitc.101.20
+Kögler, H-H. (1997). The power of dialogue: critical hermeneutics after Gadamer and Foucault. (P.
+Hendrickson. Trans.) The MIT Press. (Original work published 1996).
+Lee, Y., Lui, L. M. W., Chen-Li, D., Liao, Y., Mansur, R. B., Brietzke, E., Rosenblat, J. D., Ho, R., Rodrigues, N.
+B., Lipsitz, O., Nasri, F., Cao, B., Subramaniapillai, M., Gill, H., Lu, C., & McIntyre, R. S. (2021).
+Government response moderates the mental health impact of COVID-19: A systematic review
+and meta-analysis of depression outcomes across countries. Journal of Aﬀective Disorders,
+https://doi.org/10.1016/j.jad.2021.04.050
+Lennan, R. (2016). Book review: History of christian dogma. By Ferdinand Christian Baur. Theological
+Studies, 77(4), 969–970. https://doi.org/10.1177/0040563916666828l
+Losee, J. (2018). Tillich on symbols. Theology on Trial, 1–146. https://doi.org/10.4324/97813151355269.
+Molteni, F., Ladini, R., Biolcati, F., Chiesi, A. M., Dotti Sani, G. M., Guglielmi, S., Maraﬃ, M., Pedrazzani, A.,
+Segatti, P., & Vezzoni, C. (2021). Searching for comfort in religion: Insecurity and religious behaviour during the COVID-19 pandemic in Italy. European Societies, https://doi.org/10.1080/14616696.
+2020.1836383
+Mustafa, A. (2021). Community Member Interview, Kudus, Central Java, Indonesia.
+Ngadhimah, M. (2018). The spirituality of maﬁa Shalawat; A crisis solution of modern society. In IOP
+Conference Series: Earth and Environmental Science, 175-012181. https://doi.org/10.1088/17551315/175/1/012181
+Nihayah, U. (2015). Qasidah burdah imam Al-Bushiri; Model alternatif dakwah pesantren. [Qasidah
+burdah imam Al-Bushiri; An alternative model of pesantren preaching]. An-Nida: Jurnal
+Komunikasi Islam, 7(1), 30–38. https://doi.org/10.34001/an.v7i1.289
+Odriozola-González, P., Planchuelo-Gómez, Á., Irurtia, M. J., & de Luis-García, R. (2020). Psychological
+eﬀects of the COVID-19 outbreak and lockdown among students and workers of a Spanish university. Psychiatry Research, 290, 113108. https://doi.org/10.1016/j.psychres.2020.113108
+Palfrey, B. (2013). Theology as dialogue and fragment : Saying God with David Tracy. University of
+Oxford
+Rahman, G. A. (2012). Terapi Suﬁstik untuk Penyembuhan gangguan Kejiwaan. Aswaja Pressindo.
+Syamsudin, S. (2007). Metodologi penelitian living quran. TH-Press.
+Sayuti, A. (2020) Interview. Jambi.
+Sher, L. (2020). The impact of the COVID-19 pandemic on suicide rates. QJM, 113(10), 707–712.
+https://doi.org/10.1093/QJMED/HCAA202
+Shihab, M. Q. (2001). Tafsir Al-Mishbah; Pesan, Kesan, Dan Keserasian Al-Quran. In 4. https://doi.org/
+10.1111/ejh.12395.
+Soh, H. L., Ho, R. C., Ho, C. S., & Tam, W. W. (2020). Eﬃcacy of digital cognitive behavioural therapy for
+insomnia: A meta-analysis of randomised controlled trials. Sleep Medicine, 75, https://doi.org/10.
+1016/j.sleep.2020.08.020
+Stetkevych, S. P. (2006). From text to talisman: Al-Būsīrī’s Qasīdat al-Burdah (Mantle Ode) and the supplicatory ode. Journal of Arabic Literature, 37(2), 145–189. https://doi.org/10.1163/
+157006406778660331
+Stetkevych, S. P. (2007). From sīrah to Qasīdah: Poetics and polemics in Al-Būsīrī’s Qasīdat al-Burdah
+(Mantle Ode). Journal of Arabic Literature, 38(1), 1–52. https://doi.org/10.1163/
+157006407780997983
+Sulkowski, L., & Ignatowski, G. (2020). Impact of COVID-19 pandemic on organization of religious behaviour
+in diﬀerent Christian denominations in Poland. Religions, 11(5), https://doi.org/10.3390/rel11050254
+
+MENTAL HEALTH, RELIGION & CULTURE
+
+15
+
+Suryadilaga, M. A. (2014). Mafhūm al-salawāt ‘inda majmū’at Joged Shalawat Mataram: Dirāsah fī alhadīth al-hayy. [The understanding of Salawat by the Joged Salawat Mataram community: The
+analysis of living Hadis]. Studia Islamika, 21(3), 535–578. https://doi.org/10.15408/sdi.v21i3.1220
+Tee, M., Wang, C., Tee, C., Pan, R., Reyes, P. W., Wan, X., Anlacan, J., Tan, Y., Xu, L., Harijanto, C.,
+Kuruchittham, V., Ho, C., & Ho, R. (2021). Impact of the COVID-19 pandemic on physical and
+mental health in lower and upper middle-income Asian countries: A comparison between the
+Philippines and China. Frontiers in Psychiatry, 11), https://doi.org/10.3389/fpsyt.2020.568929
+Tracy, D. (1984). Creativity in the interpretation of religion: The question of radical pluralism. New
+Literary History, 15(2), 289–309. https://doi.org/10.2307/468857
+Tracy, D. (1987). Plurality and ambiguity: Hermeneutics, religion, hope. University of Chicago Press.
+https://books.google.co.id/books?id=PcbKzGxi5rYC&printsec=frontcover&hl=id&source=gbs_ge_
+summary_r&cad=0#v=onepage&q&f=false
+Wang, C., Chudzicka-Czupała, A., Tee, M. L., et al. (2021). A chain mediation model on COVID-19 symptoms and mental health outcomes in Americans, Asians and Europeans. Scientiﬁc Reports, 11, 6481.
+https://doi.org/10.1038/s41598-021-85943-7
+Wang, C., Tripp, C., Sears, S. F., Xu, L., Tan, Y., Zhou, D., Ma, W., Xu, Z., Chan, N. A., Ho, C., & Ho, R. (2021).
+The impact of the COVID-19 pandemic on physical and mental health in the two largest economies in the world: A comparison between the United States and China. Journal of Behavioral
+Medicine, https://doi.org/10.1007/s10865-021-00237-7
+Wargadinata, W. (2010). Spiritualitas Salawat: Kajian Sosio-Sastra Nabi Muhammad SAW. UIN-Maliki
+Press.
+Weber, S. R., & Pargament, K. I. (2014). The role of religion and spirituality in mental health. Current
+Opinion in Psychiatry, 25(1), 163–165. https://doi.org/10.1097/YCO.0000000000000080.
+World Health Organization. (2020). Mental health and psychosocial considerations during the COVID-19
+outbreak. Available at: https://www.who.int/publications/i/item/WHO-2019-nCoV-MentalHealth2020.1
+Wilde, D. J., Murray, J., Doherty, P., & Murray, C. D. (2019). Mental health and mediumship: An interpretative phenomenological analysis. Mental Health, Religion & Culture, 22(3), https://doi.org/10.
+1080/13674676.2019.1606186
+Xiong, J., Lipsitz, O., Nasri, F., Lui, L. M. W., Gill, H., Phan, L., Chen-Li, D., Iacobucci, M., Ho, R., Majeed, A.,
+& McIntyre, R. S. (2020). Impact of COVID-19 pandemic on mental health in the general population:
+A systematic review. Journal of Aﬀective Disorders, https://doi.org/10.1016/j.jad.2020.08.001
+Zamhari, A. (2010). Rituals of Islamic spirituality. Griﬃn Press.
+Zhang, M. W. B., & Ho, R. C. M. (2017). Moodle: The cost eﬀective solution for internet cognitive behavioral therapy (I-CBT) interventions. Technology and Health Care, 25(1), 163–165. https://doi.org/10.
+3233/THC-161261
+
+

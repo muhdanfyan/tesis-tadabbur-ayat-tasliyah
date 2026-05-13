@@ -1,0 +1,693 @@
+JURNAL PSIKOLOGI:
+Jurnal Ilmiah Fakultas Psikologi Universitas Yudharta Pasuruan
+DOI: https://doi.org/10.35891/jip.v10i2
+
+ISSN: 2088-0634 (Print), 2715-6206 (Online)
+Volume 10, Nomor 2, September 2023
+hlm. 394-408
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+Mutia Mawardah1*, Nurhanifah2
+Fakultas Psikologi Universitas Bina Darma Palembang
+E-mail korespondensi: 1*mutia_mawardah@binadarma.ac.id
+1,2
+
+Keywords: cyberbullying
+tendencies, imaginary audience,
+personal fable
+
+Kata kunci: imaginary
+audience, kecenderungan
+cyberbullying, personal fable
+
+Abstract
+The development of social media that is increasingly rapid
+among teenagers can be used as a communication tool that
+is easy to use and access, bringing new trends into society
+as a medium for carrying out online bullying or what is
+known as cyberbullying. The subjects of this study were
+students of SMP Negeri 4 Keluang. The number of samples
+are 131 student. The sampling technique of this research
+used probability sampling technique is simple random
+sampling. The results of this study indicate that there is a
+relationship between the imaginary audience and personal
+fable towards the cyberbullying tendency of teenagers at
+SMP Negeri 4 Keluang, which is indicated by the value of R
+= 0.800 and p <0.01, with an Adjust R Square value of 0.634
+(63.4%). Separately, the imaginary audience has a positive
+relationship and has an influence with a correlation value
+(r) = 0.406 and has an effective contribution of 0.158. The
+personal fable variable separately has a positive
+relationship and has an influence with a correlation value
+(r) = 0.683 and has an effective contribution of 0.463.
+Abstrak
+Perkembangani mediai sosiali yangi semakini pesati
+dikalangani remaja dapati dimanfaatkani sebagailalati
+komunikasil yangi mudahi digunakanl dani diakses,
+membawai treni barui dalami masyarakati sebagail mediai
+untuki melakukani penindasani secarai onlinel ataui yangi
+dikenali dengani cyberbullying. Subjek penelitian ini adalah
+siswa SMP Negeri 4 Keluang. Jumlah sampel dalam
+penelitian ini adalah 131 siswa. Teknik pengambilan
+sampel dalam penelitian ini menggunakan teknik
+probability sampling, yaitu simple random sampling. Hasil
+penelitian ini menunjukkan bahwa ada hubungan antara
+imaginary
+audience
+dan
+personal
+fable
+terhadap
+kecenderungan cyberbullying remaja SMP Negeri 4 Keluang
+yang ditunjukkan oleh nilai R=0,800 dan p<0,01, dengan
+nilai Adjust R Square sebesar 0,634 (63,4%). Secara terpisah
+imaginary audience memiliki hubungan positif dan memiliki
+pengaruh dengan nilai korelasi (r)=0,406 dan memiliki
+
+394
+
+Mutia Mawardah, Nurhanifah
+
+JURNAL PSIKOLOGI
+Jurnal Ilmiah Fakultas Psikologi
+Universitas Yudharta Pasuruan
+sumbangan efektif sebesar 0,158. Variabel personal fable
+secara terpisah memiliki hubungan positif dan memiliki
+pengaruh dengan nilai korelasi (r)=0,683 dan memiliki
+sumbangan efektif sebesar 0,463.
+
+Sitasi: Mawardah, Mutia & Nurhanifah. (2023). Hubungan Imaginary Audience dan Personal
+Fable Terhadap Kecenderungan Cyberbullying Remaja. Jurnal Psikologi : Jurnal Ilmiah Fakultas
+Psikologi Universitas Yudharta Pasuruan, 10(2), 394-408. https://doi.org/10.35891/jip.v10i2.3781
+
+Pendahuluan
+Masa remaja merupakan masa transisi dari masa kanak-kanak menuju masa
+dewasa, di mana pada masa ini remaja ditandai oleh adanya perubahan seperti fisik,
+psikis, dan psikososial. Pada masa ini remaja mulai beradaptasi dengan perubahan
+fisik dan psikologis, pencarian identitas dan membentuk hubungan baru termasuk
+mengekspresikan perasaan seksual (Santrock, 2011). Masa remaja juga sering disebut
+dengan masa pancaroba, di mana pada masa ini, remaja akan mengalami gejolak dan
+pemberontakan (Munandar, dalam Tania, 2009). Hall (dalam Lestari, 2012)
+menambahkan bahwa masa remaja dipandang sebagai periode badai dan stres (storm
+and stress view).
+Menurut teori Erikson, remaja adalah masa transisi perkembangan antara anakanak dan dewasa yang melibatkan perubahan biologi, kognisi, dan emosisosial.
+Remaja memasuki tahap identitas versus kebingungan identitas, pada tahap tersebut
+remaja dihadapkan pada tantangan untuk menentukan siapakah mereka, bagaimana
+dan ke arah mana yang akan mereka tempuh untuk berkembang dalam kehidupan.
+Dalam proses menggali dan menemukan jati dirinya, remaja kerap mencoba berbagai
+peran, mereka yang belum mengatasi krisis identitas akan mengalami kebingungan
+identitas (identity confusion) (Santrock, 2011).
+Masa eksplorasi remaja bisa berpotensi membahayakan remaja, karena remaja
+yang mencoba banyak hal ketika berusaha mencari jati dirinya. Salah satu masalah
+yang dihadapi remaja dalam proses eksplorasi jati diri adalah cyberbullying (Suharni,
+2017). Machimbarrena dkk., (dalam Syena dkk., 2019) mengungkapkan bahwa
+cyberbullying yang dilakukan remaja merupakan dampak negatif terbesar diantara
+dampak lainnya yang merupakan resiko dari penyalahgunaan internet. Penelitian
+
+395
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+
+Volume 10, Nomor 2, September 2023
+
+yang dilakukan oleh Rizky dan Waliyanti (2018) mengungkapkan bahwa para remaja
+mengatakan bahwa teman dekat mereka adalah sasaran yang menjadi korban
+cyberbullying.
+Para remaja mengira bahwa teman dekat mereka tidak akan dirugikan oleh
+tindakan yang dilakukan oleh remaja tersebut dan menganggap bahwa cyberbullying
+itu normal dan hanya sebagai bahan bercanda. Cyberbullying didefinisikan sebagai
+penggunaan teknologi digital atau perangkat elektronik seperti handphone, blog,
+website, dan chat room untuk mengirimkan pesan yang mengancam sebagai bentuk
+penindasan kepada korban oleh individu atau kelompok, sehingga menimbulkan
+masalah psikologis dan sosial sebagai bentuk agresi sosial (Belsey, 2007; Willard, 2007;
+Lacey, 2007; Shariff & Gouin, 2005, seperti dikutip dalam Cetin dkk., 2011).
+Perkembangan kognitif remaja yang belum matang membuat remaja tidak dapat
+mengatur diri sendiri atau menghormati orang lain. Oleh karena itu, tindakan yang
+dilakukan remaja di media sosial mungkin tidak tepat dan dapat merugikan orang lain
+tanpa mempertimbangkan perasaan korban (Deursen dkk., dalam Rizky & Waliyanti,
+2018).
+Perilaku Cyberbullying tidak hanya terjadi di kota-kota besar. Hal ini juga terjadi
+di SMP Negeri 4 Keluang. Fenomena yang terjadi di SMP Negeri 4 Keluang adalah
+terjadinya kasus di mana salah satu siswi berinisial H berteriak-teriak seperti
+kesurupan. Hal ini diakibatkan H merasa tersinggung oleh perkataan temannya di chat
+WhatsApp. H digosipkan berpacaran dengan salah satu teman cowoknya, yang
+mengakibatkan H merasa over thinking dan membebani pikirannya. H mengatakan
+bahwa di dalam keluarga dia adalah anak yang diperlakukan berbeda dengan
+saudaranya karena orangtua H menganggap H anak yang special dan memiliki
+kelebihan. H menjelaskan bahwa ketika ada yang membebani pikirannya maka H
+langsung kesurupan.
+Hal tersebut juga diperkuat dengan hasil survey yang telah dilakukan pada
+tanggal 22 Februari 2022. Pada siswa SMP Negeri 4 Keluang sebanyak 140 siswa. Dari
+hasil survey yang telah dilakukan oleh peneliti, didapatkan hasil sebanyak 70% siswa
+melakukan cyberbullying. Selanjutnya menurut Safaria dkk (2016), cyberbullying pada
+
+396
+
+Mutia Mawardah, Nurhanifah
+
+JURNAL PSIKOLOGI
+Jurnal Ilmiah Fakultas Psikologi
+Universitas Yudharta Pasuruan
+
+umumnya memiliki karakteristik seperti dilakukan berulang-ulang, menyiksa secara
+psikologis, cyberbullying dilakukan dengan tujuan, dan cyberbullying terjadi di dunia
+maya.
+Santrock (2011) menjelaskan salah satu hal yang dapat mempengaruhi perilaku
+bullying/cyberbullying padai remaja adalah adolescent egocentrism yang mempunyai 2
+komponen utama yaitu, imaginary audience dan personal fable. Perasaan bahwa remaja
+menyadari diri mereka sendiri dan tidak ada yang mengerti serta memahami mereka
+akan mempengaruhi remaja itu sendiri. Mereka merasa dan ingin agar diperhatikan
+oleh orang lain sehingga mereka berusaha mendapatkan hal tersebut melalui perilaku
+mereka. Perasaan bahwa remaja menyadari diri mereka sendiri dan tidak ada yang
+mengerti serta memahami mereka akan mempengaruhi remaja itu sendiri. Remaja
+dapat melakukan perilaku tertentu karena dipengaruhi oleh pemikiran tersebut. Hal
+tersebut
+
+memperlihatkan
+
+bahwa
+
+tidak
+
+menutup
+
+kemungkinan
+
+perilaku
+
+bullying/cyberbullying juga dapat muncul karena pemikiran tersebut. Mereka merasa
+dan ingin agar diperhatikan oleh orang lain sehingga mereka dapat berusaha
+mendapatkan hal tersebut melalui perilaku mereka (Santrock, 2011).
+Greene dkk (1996) mengungkapkan bahwa secara teoritis imaginary audience dan
+personal fable semestinya muncul di usia 11 atau 12 dengan dimulainya transisi
+pemikiran menuju operasional formal. Tergantung pada proses perkembangan,
+biasanya imaginary audience dan personal fable mulai berkurang di usia 16 atau 17, atau
+mungkin saja di usia 15. Secara umum, imaginary audience dan personal fable memiliki
+hubungan terbalik (inversely related) dengan usia, artinya semakin bertambahnya usia
+maka imaginary audience dan personal fable akan semakin berkurang. Imaginary Audience
+membuat remaja banyak mencoba hal-hal yang baru dan menantang (Evangelia, 2012).
+Kemunculan imaginary audience membuat remaja lebih memikirkan pandangan orang
+lain terhadap dirinya (Salma, 2019), merasa diperhatikan dan menjadi fokus utama
+dari orang lain ketika dirinya sedang melakukan tindakan yang menantang dan
+beresiko.
+Salah satu penyebab terjadinya cyberbullying menurut Yunita (2021) yaitu
+imaginary audience, terkadang pelaku tidak menyadari bahwa yang dilakukannya
+
+397
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+
+Volume 10, Nomor 2, September 2023
+
+termasuk ke dalam tindakan cyberbullying, karena sebenarnya apa yang dilakukannya
+adalah mencari perhatian. Melalui perilaku bullying/cyberbullying remaja merasa bahwa
+perilaku yang dilakukannya akan membuat dirinya merasa diperhatikan dan dijadikan
+fokus utama oleh orang lain. Imaginary audience merupakan kecenderungan para
+remaja untuk berpikiran bahwa orang lain mengacu pada penampilan dirinya
+sehingga para remaja menganggap bahwa mereka adalah pemeran utama di depan
+orang banyak (Elkind, 1967). Gejala Imaginary audience mencakup berbagai perilaku
+untuk mendapatkan perhatian, kenginan agar kehadirannya diperhatikan, disadari
+oleh orang lain dan menjadi pusat perhatian (Elkind, 1967).
+Selanjutnya adalah Personal Fable, Krcmar (2012, dalam Cingel dkk., 2015)
+menyatakan bahwa personal fable berkaitan dengan cyberbullying karena remaja
+memiliki cara berpikir dan keyakinan yang tinggi bahwa mereka sangat kuat dan lebih
+penting dibandingkan dengan orang lain, sekaligus percaya bahwa mereka tidak akan
+tertangkap karena melakukan cyberbullying. Personal fable, yaitu merasa memiliki
+pribadi yang unik, berbeda dengan orang lain. Istilah personal fable itu sendiri, di
+populerkan oleh David Elkind. Personal fable merupakan bagian dari egosentrisme
+remaja yang mengandung penghayatan bahwa diri mereka kebal dan tidak
+terkalahkan oleh apapun (Elkind, dalam Santrock, 2011).
+Untuk melihat perilaku personal fable dengan melihat ciri-ciri personal fable
+Evangelia (2012) telah menjelaskan terdapat beberapa ciri remaja yang sedang
+memiliki personal fable, diantaranya adalah kepercayaan bahwa keadaan buruk bisa
+terjadi ke orang lain, bukan dirinya, sehingga remaja merasa aman dan merasa tidak
+ada ancaman dari pihak manapun; merasa pribadinya spesial sehingga tidak ada
+orang lain yang dapat memahaminya; melakukan tindakan yang menantang dan
+membahayakan dirinya; sebagian remaja percaya bahwa dirinya yang paling pintar,
+hebat dan keren dibandingkan dengan teman-temannya; berbeda dengan sebelumnya,
+justru terdapat remaja yang merasa dirinya paling lemah dibanding temannya,
+sehingga para remaja merasa terpuruk dalam kesedihan, frustasi, dan merasai sendir.
+Hal tersebut diperkuat dengan penelitian yang dilakukan (Ramadhani & Herny,
+2014) bahwa salah satu bentuk perilaku yang diakibatkan oleh personal fable adalah
+
+398
+
+Mutia Mawardah, Nurhanifah
+
+JURNAL PSIKOLOGI
+Jurnal Ilmiah Fakultas Psikologi
+Universitas Yudharta Pasuruan
+
+penyerangan terhadap orang lain dalam bentuk bullying/cyberbullying. Remaja berani
+melakukan hal tersebut dikarenakan adanya invulnerability sebagai salah satu dimensi
+dari personal fable yang menyebabkan mereka merasa bahwa orang lain dapat disakiti
+atau akan mengalami bahaya, tetapi mereka tidak akan mengalami hal tersebut.
+Berdasarkan beberapa fenomena yang terjadi di atas membuat penulis memiliki
+ketertarikan untuk melakukan penelitian guna melihat hubungan antara imaginary
+audience dan personal fable terhadap kecnderungan cyberbullying remaja SMP Negeri 4
+Keluang.
+
+Metode
+Variabel Penelitian
+Penelitian ini
+
+menggunakan metode kuantitatif
+
+dengan
+
+kecenderungan
+
+cyberbullying sebagai variabel terikat (Y), imaginary audience sebagai variabel bebas (X1)
+dan personal fable sebagai variabel bebas (X2).
+
+Subjek Penelitian
+Populasi yang diambil dalam penelitian ini yaitu remaja di SMP Negeri 4
+Keluang yang berjumlah 210 siswa aktif. Sebelum melakukan penelitian, peneliti lebih
+dulu melaksanakan percobaan terhadap skala atau try out kepada 79 siswa SMP Negeri
+4 Keluang. Jumlah sampel dalam penelitian ini adalah 131 siswa yang diperoleh
+dengan teknik probability sampling, yaitu simple random sampling.
+
+Instrumen Penelitian
+Pengambilan data dilakukan secara langsung dengan peneliti menyebarkan tiga
+skala yaitu skala kecenderungan cyberbullying, skala imaginary audience dan personal
+fable. Skala yang digunakan untuk mengukur perilaku cyberbullying merupakan
+referensi alat ukur pada penelitian sebelumnya yang dilakukan oleh Luluk Farikhah
+pada tahun 2021. Aspek Cyberbullying atas dasar teori yang dikemukakan oleh Langos
+(2012) terdiri dari 4 aspek yaitu repetition (pengulangan), power imbalanced
+(ketidaseimbangan kekuatan), intention (kesengajaan), aggression (agresi). Skala ini
+
+399
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+
+Volume 10, Nomor 2, September 2023
+
+dimodifikasi oleh peneliti dengan mengubah jumlah aitem yang awalnya berjumlah 32
+aitem menjadi 50 aitem dengan empat kategori jawaban yaitu SS (Sangat Setuju), S
+(Setuju), TS (Tidak Setuju) serta STS (Sangat Tidak Setuju). Alat ukur ini memiliki
+reliabilitas 0, 773 dan pada penelitian ini reliabilitas yang didapat adalah 0,930.
+Skala yang digunakan untuk mengukur imaginary audience berdasar pada New
+Imaginary Audience Scale oleh Daniel K. Lapsley dkk., 1989 dan referensi dari penelitian
+sebelumnya yang dilakukan oleh Fauziani Dien Nazmi pada tahun 2016. Aspek
+Imaginary Audience berdasarkan teori Daniel K. Lapsley dkk., 1989 diantaranya adalah
+gagasan berelasi, fantasi interpersonal dan pandangan tentang diri sendiri. Skala ini
+menggunakan empat kategori jawaban yaitu Sering, Kadang-kadang, Hampir Tidak
+Pernah, dan Tidak Pernah. Skala ini memiliki reliabiltas 0,944 dan pada penelitian ini
+reliabilitasnya adalah 0,925.
+Skala yang digunakan untuk mengukur personal fable merupakan New Personal
+fable Scale (NPFS) yang dibuat oleh Lapsley dkk., (1989). Aspek Personal Fable atas dasar
+teori yang dikemukakan oleh Lapsley, dkk., (1989) diantaranya adalah invulnerability
+atau kekebalan, omnipotence atau kemahakuasaan, dan
+
+personal uniqueness atau
+
+keunikan pribadi. Kuesioner ini memiliki 46 item dengan menggunakan lima kategori
+jawaban yaitu Sangat Tidak Setuju, Tidak Setuju, Netral, Setuju, dan Sangat Setuju.
+Skala ini memiliki reliabiltas 0,944 dan pada penelitian ini reliabilitasnya adalah 0,897.
+
+Analisis Data
+Data yang terkumpul dianalisis dengan menggunakan teknik regresi berganda,
+untuk mengetahui hubungan antara dua variabel bebas dan satu variabel terikat
+(imaginary audience dan personal fable sebagai variabel bebas dan kecenderungan
+cyberbullying sebagai variabel terikat). Untuk pengolahan data, perhitungan ini
+dilakukan dengan menggunakan program SPSS 22 for windows.
+
+Hasil
+Penelitian ini membahas tentang hubungan antara imaginary audience dan
+personal fable dengan kecenderungan cyberbullying. Deskripsi data kecenderungan
+
+400
+
+Mutia Mawardah, Nurhanifah
+
+JURNAL PSIKOLOGI
+Jurnal Ilmiah Fakultas Psikologi
+Universitas Yudharta Pasuruan
+
+menjadi pelaku cyberbullying pada penelitian ini menunjukkan rata-rata tingkat
+kecenderungan cyberbullying subjek berada dalam kategori sedang, yaitu sebanyak
+49,6% (65 orang) dari total keseluruhan subjek. Sedangkan imaginary audience pada
+penelitian ini menunjukkan rata-rata tingkat imaginary audience subjek berada dalam
+kategori sedang, yaitu 51,9% (68 orang) dari total keseluruhan subjek, personal fable
+pada penelitian ini menunjukkan rata-rata tingkat personal fable subjek berada dalam
+kategori sedang, yaitu sebanyak 79,4% (104 orang) dari total keseluruhan subjek.
+Hasil
+
+uji
+
+normalitas
+
+menunjukkan
+
+sebaran
+
+yang
+
+normal
+
+pada
+
+skala
+
+kecenderungan cyberbullying dengan koefisien Z-ks= 0,70 dan p>0,05. Pada skala
+imaginary audience juga menunjukkan sebaran yang normal dengan koefisisen Zks=0,71 dan p>0,05. Pada skala personal fable menunjukkan sebaran normal dengan
+koefisien Z-ks=0,60 dan p>0,05. Dengan hasil uji normalitas yang demikian, maka uji
+asumsi normalitas untuk ketiga skala terpenuhi dengan distribusi yang normal.
+Table 1
+Uji Normalitas
+Variabel
+Kecenderungan
+Cyberbullying
+Imaginary Audience
+Personal Fable
+
+KS-Z
+0,70
+
+P
+0,71
+
+Keterangan
+Normal
+
+0,71
+0,60
+
+0,71
+0,71
+
+Normal
+Normal
+
+Hasil uji multikolineritas dalam penelitian ini akan dilihat nilai Value Inflation
+Factor (VIF), dari hasil analisis variabel imaginary audience dan personal fable memiliki
+nilai VIF=1,000 sehingga dapat dikatakan bahwa tidak terjadi multikolineritas, karena
+memiliki nilai VIF tidak melebihi nilai 10.
+
+Table 2
+Uji Multikolineritas
+Variable
+
+Tolerance
+
+VIF
+
+Keterangan
+
+Imaginary Audience
+
+1,000
+
+1,000
+
+Tidak terjadi Multikorelasi
+
+Personal Fable
+
+1,000
+
+1,000
+
+Tidak terjadi Multikorelasi
+
+401
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+
+Volume 10, Nomor 2, September 2023
+
+Hasil uji autokorelasi, untuk mendeteksi gejala autokorelasi, menggunakan uji
+Durbin-Watson (DW). Uji ini menghasilkan nilai DW hitung (d) dan nilai DW tabel (dL
+& dv). Dari hasil yang sudah dihitung, maka nilai DW=1,791 nilai du=1,68, nilai
+dL=1,74 sehingga pengujian 1,68<1,791<2,32 menunjukkan tidak ada masalah
+autokorelasi.
+
+Table 3
+Uji Autokorelasi
+Nilai DW
+1,791
+
+Nilai dU
+1,68
+
+Nilai dL
+1,74
+
+Pengujian
+1,68<1,791<2,32
+
+Keterangan
+Tidak ada masalah
+autokorelasi
+
+Uji heterokedastisitas adalah asumsi dalam regresi di mana varians dari residual
+tidak sama untuk satu pengamatan ke pengamatan yang lain.
+
+Gambar 1. Hasil uji heteroskedastisitas dalam penelitian
+
+Tampak pada Gambar 1 bahwa model penelitian tidak mempunyai gangguan
+heteroskedastisitas karena tidak ada pola tertentu pada grafik. Titik-titik pada grafik
+relatif menyebar baik di atas sumbu nol maupun di bawah sumbu nol.
+Hasil analisis regresi menunjukkan bahwa variabel antara imaginary audience dan
+personal fable secara bersama-sama memiliki hubungan yang signifikan dengan
+kecenderungan cyberbullying, yaitu dengan nilai R=0,800 dan p<0,01, dengan nilai
+Adjust R Square sebesar 0,634 = 63,4%.
+
+402
+
+Mutia Mawardah, Nurhanifah
+
+JURNAL PSIKOLOGI
+Jurnal Ilmiah Fakultas Psikologi
+Universitas Yudharta Pasuruan
+
+Table 4
+Hasil Analisis Regresi Berganda
+Model
+
+R
+.800a
+
+1
+
+R Square
+.640
+
+Adjusted R
+Square
+.634
+
+Std. Error of
+the Estimate
+1.85250
+
+Berdasarkan hasil uji analisis variabel imaginary audience dengan kecenderungan
+cyberbullying menunjukan bahwa nilai R 0,406 = 40,6% dan nilai R2 sebesar 0,158 yang
+artinya terdapat pengaruh Imaginary Audience terhadap Kecenderungan Cyberbullying
+dengan sumbangan sebesar 15,8%, dan sisanya 84,2% dipengaruhi faktor lain di luar
+yang diteliti.
+Berdasarkan hasil uji analisis variabel personal fable dengan kecenderungan
+cyberbullying menunjukan nilai R 0,683 = 68,3% dan nilai R2 sebesar 0,463 menunjukkan
+bahwa terdapat pengaruh personal fable terhadap kecenderungan cyberbullying dengan
+sumbangan sebesar 46,3%, dan sisanya 53,7% dipengaruhi faktor lain dil uar yang
+diteliti.
+Dalam penelitian ini, peneliti melakukan screening atau penyaringan untuk
+mengelompokkan media elektronik yang digunakan oleh subjek penelitian. Screening
+ini dilakukan sebagai re-checking (pengecekan ulang) atas keterangan subjek yang
+dituliskan di data identitas pada skala penelitian. Dari hasil screening yang telah
+dilakukan, maka dapat disimpulkan bahwa sebanyak 40% siswa laki-laki dan
+perempuan menggunakan internet hampir setiap hari dalam seminggu, sebanyak 30%
+siswa laki-laki dan perempuan menggunakan internet untuk messaging (mengirimkan
+pesan). Untuk media yang digunakan sebanyak 32% siswa laki-laki dan perempuan
+menggunakan media WhatsApp dan Instagram.
+
+Diskusi
+Penelitian yang dilakukan mengenai imaginary audience dan personal fable
+terhadap kecenderungan cyberbullying remaja SMP Negeri 4 Keluang ini menggunakan
+analisis uji regresi berganda. Hasil analisis yang diperoleh dari penelitian ini adalah
+nilai Adjusted R Squeare 0,634 = 63,4% dengan nilai p = 0,000 dan Nilai R2 sebesar
+0,800 menunjukkan bahwa terdapat pengaruh imaginary audience dan personal fable
+
+403
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+
+Volume 10, Nomor 2, September 2023
+
+secara bersama-sama terhadap kecenderungan cyberbullying dengan sumbangan
+sebesar 63,4% dan sisanya sebesar 36,6% dipengaruhi faktor lain di luar variabel yang
+diteliti. Hal tersebut diperkuat dengan penelitian yang dilakukan oleh Bulu dkk.,
+(2019) yang menemukan bahwa imaginary audience dan personal fable yang tinggi dapat
+memunculkan kecenderungan remaja melakukan perilaku bullying/cyberbullying.
+Imaginary audience dan personal fable membuat remaja sangat memperhatikan dirinya
+sendiri, sehingga tidak perduli akan orang lain dan dunia di luar dirinya, sehingga
+terkadang remaja memilki penilaian sendiri tentang dirinya tanpa disadari (Yulandari,
+2008).
+Cyberbullying memiliki efek negatif yang besar karena korban dapat dilakukan
+dimanapun mereka berada. Pelaku cyberbullying akan menggunakan nama anonym
+dalam meneror korban dikehidupan pribadi mereka. Para pelaku tidak melihat efek
+negatif yang menjadi penyebabnya, akan tetapi efek akan terlihat secara psikologi dan
+sosial di dunia nyata.
+Berdasarkan hasil uji analisis variabel imaginary audience dengan kecenderungan
+cyberbullying menunjukan bahwa nilai R 0,406 = 40,6% dan nilai R2 sebesar 0,158 yang
+artinya terdapat pengaruh imaginary audience terhadap kecenderungan cyberbullying
+dengan sumbangan sebesar 15,8%, dan sisanya 84,2% dipengaruhi faktor lain di luar
+variabel yang diteliti. Akbulut & Eristi (2011) mencatat serangan balas dendam yang
+atau perilaku yang dapat menyakiti orang lain sebagai bentuk kemungkinan alasan
+lain terjadinya bullying/cyberbullying. Studi ini menunjukkan bagaimana pelaku
+membutuhkan suatu imaginary audience tidak peduli dampak yang diterima korban
+mereka. Munculnya imaginary audience sebagai salah satu aspek utama dari
+egosentrisme remaja adalah dengan ditandai dengan adanya kesadaran pada diri
+remaja menyebabkan mereka memilki perhatian yang amat besar terhadap dirinnya,
+bahkan cenderung terlalu berlebihan dalam memperhatikan diri sendiri (Sejati, 2019).
+Berdasarkan hasil uji analisis variabel personal fable dengan kecenderungan
+cyberbullying menunjukan nilai R 0,683 = 68,3% dan nilai R2 sebesar 0,463 menunjukkan
+bahwa terdapat pengaruh personal fable terhadap kecenderungan cyberbullying dengan
+sumbangan sebesar 46,3%, dan sisanya 53,7% dipengaruhi faktor lain di luar variabel
+
+404
+
+Mutia Mawardah, Nurhanifah
+
+JURNAL PSIKOLOGI
+Jurnal Ilmiah Fakultas Psikologi
+Universitas Yudharta Pasuruan
+
+yang diteliti. Pengaruh dari personal fable menyebabkan remaja berani melakukan
+penyerangan terhadap orang lain dalam bentuk cyberbullying (Ramadhani dkk., 2014).
+Remaja berani melakukan hal ini dikarenakan adanya invulnerability sebagai salah satu
+dimensi dari personal fable yang menyebabkan mereka merasa bahwa orang lain dapat
+disakiti atau akan mengalami bahaya, tetapi mereka tidak akan mengalami hal
+tersebut. Personal fable juga memiliki dimensi omnipotence yang membuat mereka
+merasa dapat berkuasa atas orang lain yang lemah karena merasa dirinya kuat dengan
+tujuan menyakiti orang lain sebagai perilaku cyberbullying (Ramadhani dkk., 2014).
+Terdapat faktor lain yang memungkinkan berpengaruh terhadap kecenderungan
+pelaku cyberbullying pada remaja seperti faktor pengabaian dari orangtua, pola asuh
+orangtua, kekerasan pada anak, dan obat-obatan yang terlibat dalam cyberbullying.
+Sebagaimana halnya dengan yang dikemukakan oleh Kostiuk dan Gregory (2002)
+dalam penelitiannya yang menemukan bahwa kombinasi dari kelekatan yang tidak
+kuat dan perilakuperilaku pola asuh orangtua dapat menyebabkan anak mengalami
+ketidakmampuan meregulasi emosi serta terlibat dalam perilaku-perilaku menganggu.
+Cyberbullying merupakan bentuk pelanggaran, baik korban dan pelaku
+mendapatkan masalah psikososial, afektif dan akademik. Banyaknya kasus bunuh diri
+yang dilakukan dipicu oleh banyaknya pengalaman cyberbullying. Dampak dari
+cyberbullying bergantung pada frekuensi praktik tersebut, sehingga efeknya sudah
+menjadi suatu permasalahan serius dalam kesehatan mental masyarakat dan
+diperlukan pengelolaan emosi secara baik dalam mengontrol, pemantauan stimulusstimulus yang diterima dan penilaian atas setiap peristiwa yang dialami (Tokunaga,
+2010).
+
+Kesimpulan
+Berdasarkan hasil penelitian dan pembahasan yang telah dilakukan maka
+dapat ditarik kesimpulan bahwa pertama ada hubungan yang sangat signifikan antara
+imaginary audience dan personal fable terhadap kecenderungan cyberbullying remaja SMP
+Negeri 4 Keluang. Kedua ada hubungan yang sangat signifikan antara imaginary
+audience terhadap kecenderungan cyberbullying remaja SMP Negeri 4 Keluang. Ketiga
+
+405
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+
+Volume 10, Nomor 2, September 2023
+
+ada hubungan yang sangat signifikan antara personal fable terhadap kecenderungan
+cyberbullying remaja SMP Negeri 4 Keluang
+
+Saran
+Bagi peneliti selanjutnya diharapkan lebih mengembangkan penelitian sejenis
+baik dari segi tema, metode, maupun alat ukurnya. Diharapkan pada peneliti
+selanjutnya lebih menspesifikasikan mengenai variable imaginary audience dan personal
+fable dalam mempengaruhi kecenderungan cyberbullying atau bahkan variable lain.
+Subjek penelitian diharapkan dapat memahami mengenai diri sendiri yang
+berhubungan dengan imaginary audience dan personal fable. Remaja diharapakan dapat
+berhati-hati dan dapat mengontrol imaginary audience dan personal fable dalam dirinya
+sehingga bisa melampiaskan dalam hal yang positif serta dapat menggunakan media
+sosial dengan benar.
+
+Referensi
+Alberts, A., Elkind, D., & Ginsberg, S. (2007). The Personal Fable and Risk Taking in Early
+Adolescence. Journal of Youth and Adolescence.
+Akbulut, Y. dan Eristi, B. (2011). Cyberbullying and victimisation among turkish
+university students. Australasian Journal of Educational Technology, 27 (7), 11551170. https://doi.org/10.14742/ajet.910.
+Bulu, Y., Maemunah, N., & Sulasmini, S. (2019). Faktor-faktor yang mempengaruhi
+perilaku bullying pada remaja awal. Nursing News: Jurnal Ilmiah Keperawatan,
+4(1).
+Cetin, B., Yaman, E., & Peker, A. (2011). Cyber victim and bullying scale: A study of
+validity and reliability. Computers & Education, 57(4), 2261-2271.
+https://doi.org/10.1016/j.compedu.2011.06.014
+Cingel, D. P., Krcmar, M., & Olsen, M. K.(2015). Exploring predictors and consequences of
+personal fable ideation on Facebook. Computers in Human Behavior, 48, 28-35. doi:
+10.1016/j.chb.2015.01.01
+Elkind, D. (1967). Egocentrism in Adolescence. Child development, 1025-1034.
+Evangelia, P. G. (2012). The imaginary audience and the personal fable. Published
+Online:Http:// Www.Scirp.Org/Journal/Psych, 10-13.
+
+406
+
+Mutia Mawardah, Nurhanifah
+
+JURNAL PSIKOLOGI
+Jurnal Ilmiah Fakultas Psikologi
+Universitas Yudharta Pasuruan
+
+Farikhah, L. (2021). Pengaruh kecerdasan emosi dan online disinhibition effect
+terhadap perilaku cyberbullying pada mahasiswa Fakultas Psikologi Angkatan
+2017 & 2018 UIN Malang. Undergraduate Thesis, Universitas Islam Negeri
+Maulana Malik Ibrahim.
+Golledge., & R. Greene. (1996). Wayfinding Behaviour : Cognitif Mapping and Other spatial
+process. Baltimore : Johns Hopkins University Press
+Kostiuk, L, M., & Gregory G, T. (2002). Understanding of emotions and emotion
+regulation in adolescent females with conduct problems: A qualitative analysis.
+The Qualitative Report, 7(1), 1-15.
+Lapsley, D. K., Rice, K. G., & Shadid, G. E. (1989). Psychological separation and
+adjustment to college. Journal of Counseling Psychology, 36(3), 286-294.
+https://doi.org/10.1037/0022-0167.36.3.286
+Lestari, S. (2012). Psikologi Keluarga : Penanaman Nilai Dan Penanganan Konflik
+Dalam Keluarga (Edisi Pertama). Jakarta: Kharisma Putra Utama
+Ramadhani., & Herny R. (2014). Peranan Lima Besar Kepribadian terhadap
+Kecenderungan Buli pada Remaja. Ecopsy, Vol. 1, No. 3.
+Rizky Fitransyah, R., & Waliyanti, E. (2018). Perilaku Cyberbullying Dengan Media
+Instagram Pada Remaja Di Yogyakarta. Indonesia Journal Of Nursing Practice,
+2(1). https://doi.org/10.18196/ijnp.2177
+Santrock, J. W. (2011). Life - span development: Perkembangan masa hidup. Edisi ketigabelas
+jilid 1. Jakarta: Erlangga.
+Safaria, T., Tentama, F., & Suyono, H. (2016). Cyberbullying, Cybervictim and Forgiveness
+among Indonesian High School Students. The Turkish Online Journal of Educational
+Technology.
+Salma Muthia, A. (2019). Imaginary Audience, Personal Fable, dan Perilaku Agresi
+Remaja. Jurnal Psikologi Insight, Vol. 3, No. 2.
+Suharni. (2017). Pemahaman Tentang Remaja Dan Permasalahannya. G-Couns Jurnal
+Bimbingan dan Konseling. I (2), 168-179.
+Sejati, S. (2019). Implikasi Egosentris Dan Spiritual Remaja Dalam Mencapai
+Perkembangan Identitas Diri. Jurnal Ilmiah Syi'ar, 19(1), 103-126.
+http://dx.doi.org/10.29300/syr.v19i1.2269
+Syena, I., Hernawaty, T., Setyawati, A. (2019). Gambaran Cyberbullying Pada Siswa Di
+SMA X Kota Bandung. Jurnal Keperawatan BSI, 7(2), 88-96.
+
+407
+
+Hubungan Imaginary Audience dan Personal Fable
+Terhadap Kecenderungan Cyberbullying Remaja
+
+Volume 10, Nomor 2, September 2023
+
+Tania, R. (2009). Hubungan Persepsi Terhadap Peran Ayah dengan Harga Diri Remaja.
+(Skripsi tidak diterbitkan). Fakultas Psikologi, Universitas Sumatra Utara, Medan
+Tokunaga, R. S. (2010). Following you home from school: A critical review and
+synthesis of research on cyberbullying victimization. Computers in Human
+Behavior, 26(3), 277–287.
+Yulandari, S. (2008). Hubungan Antara Egosentrisme dan Kecenderungan Mencari
+Sensasi Dengan Perilaku Agresi Pada Remaja (Doctoral dissertation, Universitas
+Muhammadiyah Surakarta.
+Yunita, R. (2021). Perundungan Maya (Cyberbullying) Pada Remaja Awal. Muhafadzah,
+1 (2). 93-110
+
+408
+
+

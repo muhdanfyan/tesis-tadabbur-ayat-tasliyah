@@ -1,0 +1,759 @@
+Contents list avaliable at Directory of Open Access Journals (DOAJ)
+
+Aulad : Journal on Early Childhood
+Volume 8 Issue 2 2025, Page 867-877
+ISSN: 2655-4798 (Printed); 2655-433X (Online)
+
+Journal Homepage: https://aulad.org/index.php/aulad
+
+Integrasi Nilai Qur’ani dan Psikologi dalam Pendidikan
+Anak di Era Disrupsi
+Rahmadani Akbar1, Eva Latipah2
+Universitas Islam Negeri Sunan Kalijaga Yogyakarta, Indonesia(1,2)
+DOI: 10.31004/aulad.v8i2.1182
+ Corresponding author:
+[24204011004@student.uin-suka.ac.id]
+Article Info
+
+Abstrak
+
+Kata kunci:
+Integrasi nilai Qur’ani;
+Psikologi perkembangan
+anak;
+Pendidikan karakter Islami;
+Pendidikan era disrupsi
+
+Pentingnya integrasi nilai-nilai Qur’ani dan psikologi perkembangan dalam
+pendidikan anak semakin nyata di tengah krisis moral dan tantangan era digital.
+Penelitian ini bertujuan merumuskan model pendidikan Islam yang holistik dengan
+memadukan dimensi spiritual dan perkembangan psikologis anak. Metode yang
+digunakan adalah studi pustaka dengan analisis terhadap sejumlah artikel ilmiah,
+menggunakan instrumen klasifikasi tematik. Data dianalisis melalui pendekatan
+content analysis. Hasil kajian menunjukkan bahwa nilai-nilai Qur’ani seperti tauhid,
+akhlak, dan ibadah berfungsi sebagai kompas spiritual yang membentuk arah hidup
+anak, sementara teori psikologi perkembangan memberikan peta pedagogis yang
+menyesuaikan penyampaian nilai-nilai tersebut dengan tahap tumbuh kembang
+anak. Implikasi dari temuan ini menunjukkan perlunya strategi pendidikan yang
+tidak hanya normatif, tetapi juga adaptif dan aplikatif terhadap realitas
+perkembangan anak.
+
+Keywords:
+Integration of Qur'anic
+values;
+Child development
+psychology;
+Islamic character
+education;
+Disruption era education
+
+Abstract
+The importance of integrating Qur'anic values and developmental psychology in
+children's education is increasingly evident amidst the moral crisis and challenges
+of the digital era. This study aims to formulate a holistic Islamic education model
+by combining the spiritual dimension and psychological development of children.
+The method used is a literature study with analysis of a number of scientific
+articles, using thematic classification instruments. Data were analyzed using a
+content analysis approach. The results of the study indicate that Qur'anic values
+such as monotheism, morals, and worship function as a spiritual compass that
+shapes the direction of children's lives, while developmental psychology theory
+provides a pedagogical map that adjusts the delivery of these values to the stages
+of child development. The implications of these findings indicate the need for
+educational strategies that are not only normative, but also adaptive and applicable
+to the reality of child development.
+
+Received 23 October 2025; Received in revised form 8 November 2025; Accepted 16 November 2025
+Available online 17 November 2025 / © 2025 The Authors. Published by Perkumpulan Pengelola Jurnal PAUD Indonesia. This is an open
+access article under the CC BY-SA license (https://creativecommons.org/licenses/by-sa/4.0)
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+1.
+
+PENDAHULUAN
+Dunia saat ini tengah menghadapi gelombang besar perubahan yang dikenal dengan istilah era disrupsi, yaitu
+masa di mana kemajuan teknologi, digitalisasi, dan inovasi berkembang sangat cepat, masif, dan tidak terprediksi
+(Fadilurrahman dkk., 2021). Perubahan ini tidak hanya mengguncang sektor ekonomi dan industri, tetapi juga
+merombak tatanan sosial dan sistem pendidikan secara menyeluruh (Akrim, 2022). Transformasi digital telah
+menciptakan akses informasi yang melimpah dan cepat, namun di saat yang sama juga menghadirkan tantangan
+baru berupa pergeseran nilai, cara belajar yang serba instan, serta melemahnya relasi sosial dan spiritual (Aliah &
+Irawan, 2024). Dalam konteks pendidikan, dampak tersebut paling nyata dirasakan dalam pendidikan anak, yang
+kini dihadapkan pada kondisi belajar yang sangat berbeda dari generasi sebelumnya.
+Pendidikan anak memiliki peran yang sangat strategis dalam membentuk arah masa depan peradaban (Anwar
+& Salim, 2019). Anak bukan hanya subjek pembelajaran, tetapi juga representasi dari nilai-nilai yang akan
+diwariskan pada generasi berikutnya (Irlina, 2023). Namun, di tengah derasnya arus globalisasi dan digitalisasi,
+muncul berbagai fenomena yang mengancam fondasi perkembangan anak, seperti krisis moral, individualisme
+digital, dan paparan informasi tanpa filter. Anak-anak menjadi lebih rentan terhadap disorientasi nilai, kehilangan
+arah spiritual, bahkan mengalami krisis identitas. Kehadiran teknologi, meskipun menawarkan banyak peluang
+seperti kreativitas dan keterbukaan akses belajar, ternyata juga membawa dampak psikologis yang serius, seperti
+kecanduan gawai, penurunan daya konsentrasi, serta minimnya interaksi sosial yang sehat dan bermakna
+(Gkeredakis dkk., 2021; Supa’at & Ihsan, 2023).
+Situasi ini menuntut respons pendidikan yang tidak hanya berfokus pada capaian akademik semata.
+Diperlukan sebuah pendekatan yang lebih menyeluruh dan berimbang, yakni dengan menghadirkan pendidikan
+yang mampu membentuk karakter, membangun spiritualitas, dan menumbuhkan kecerdasan sosial anak secara
+bersamaan. Maka dari itu, pendidikan anak di era disrupsi tidak cukup hanya berbekal kurikulum konvensional,
+tetapi harus disertai dengan integrasi nilai-nilai fundamental, termasuk nilai-nilai Qur’ani dan pendekatan psikologi
+perkembangan yang sesuai dengan kebutuhan zaman dan tahapan tumbuh kembang anak. Namun, upaya integratif
+semacam ini belum banyak dikembangkan secara sistematis dalam praktik pendidikan maupun dalam kajian
+akademik, sehingga diperlukan eksplorasi yang lebih mendalam secara teoritis dan konseptual.
+Masalah utama yang melatarbelakangi penulisan artikel ini adalah belum optimalnya integrasi antara
+pendekatan religius dan pendekatan ilmiah dalam pendidikan anak. Dalam praktiknya, kedua pendekatan ini sering
+kali berjalan secara terpisah. Pendekatan religius cenderung menitikberatkan pada aspek normatif dan tekstual
+(Ilyas & Tobroni, 2024), sedangkan pendekatan ilmiah lebih fokus pada aspek psikologis dan empiris (Nuralimah
+dkk., 2025). Ketimpangan ini menyebabkan pendidikan anak berjalan secara parsial dan kurang menyentuh
+keutuhan aspek perkembangan spiritual dan psikologis. Akibatnya, pembelajaran agama belum sepenuhnya mampu
+membentuk karakter anak secara menyeluruh, baik dalam aspek moral, emosi, maupun nilai-nilai sosial keislaman.
+Beberapa penelitian sebelumnya telah menyoroti pentingnya nilai-nilai Al-Qur’an dalam pendidikan karakter
+anak. Farid et al. (2024) mengkaji pesan-pesan pendidikan anak dalam QS. Luqman, sedangkan Maslan et al. (2023)
+menekankan pentingnya ibadah dalam pembinaan spiritual anak. Trismawati et al. (2021) mengangkat nilai-nilai
+pendidikan karakter dalam QS. An-Nisa’: 36–38 melalui pendekatan tafsir Al-Azhar, yang relevan untuk penguatan
+moral peserta didik. Di sisi lain, pendekatan psikologi perkembangan juga telah dikaji secara luas, seperti oleh Evans
+dan Saracho (2022) serta Saracho (2023) yang menyoroti aspek perkembangan kognitif dan sosial anak. Tuti dan
+Hairiyah (2021) secara khusus menautkan nilai-nilai pendidikan Islam dengan tahapan perkembangan anak dalam
+konteks keluarga dan masyarakat. Namun, sebagian besar penelitian tersebut masih berdiri dalam ruang lingkup
+masing-masing dan belum secara eksplisit menggabungkan pendekatan psikologi perkembangan dengan nilai-nilai
+Qur’ani dalam satu kerangka pendidikan anak yang terpadu.
+Kebaruan (novelty) artikel ini berdasarkan beberapa artikel yang sudah disebutkan sebelumnya terletak pada
+upaya eksplisit untuk menyatukan dua pendekatan besar yakni nilai Qur’ani dan psikologi perkembangan, yang
+selama ini lebih banyak dikaji secara terpisah. Artikel ini tidak hanya menawarkan sintesis konseptual, tetapi juga
+membangun sebuah kerangka integratif yang bersifat praktis dan aplikatif, sehingga dapat digunakan sebagai acuan
+dalam merancang pendidikan anak yang utuh dan kontekstual. Selain itu, model integrasi yang ditawarkan
+mencakup dimensi implementasi di tiga lingkungan utama: keluarga, sekolah, dan masyarakat, yang memungkinkan
+kesinambungan nilai pendidikan secara menyeluruh.
+Untuk menjembatani celah tersebut, penting untuk terlebih dahulu memahami landasan nilai pendidikan anak
+dalam Al-Qur’an. Nilai-nilai Qur’ani mencakup dimensi spiritual, moral, sosial, dan intelektual secara menyeluruh.
+QS. Luqman:13 menanamkan prinsip tauhid sebagai fondasi keimanan, QS. Al-Isra:23–24 menekankan etika sosial
+dan penghormatan kepada orang tua sebagai dasar pembentukan moral, QS. Adz-Dzariyat:56 mengarahkan makna
+hidup kepada ibadah, QS. Al-Hujurat:13 mengajarkan pentingnya toleransi dan persaudaraan, serta QS. Al-‘Alaq:1–
+5 menegaskan pentingnya literasi, pemikiran kritis, dan pengembangan intelektual. Ayat-ayat tersebut
+menunjukkan bahwa pendidikan anak dalam Islam bersifat integral dan menyentuh seluruh aspek pembentukan
+kepribadian.
+Selaras dengan itu, psikologi perkembangan anak menyediakan kerangka ilmiah yang dapat membantu
+pendidik memahami tahapan tumbuh kembang anak secara kognitif, moral, dan sosial. Jean Piaget menjelaskan
+Page 868 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+proses berpikir anak dari tahapan konkret menuju abstrak (Barreto Zúñiga dkk., 2024), sedangkan Erik Erikson
+menekankan pentingnya fase-fase psikososial dalam membentuk kepercayaan diri, inisiatif, dan tanggung jawab
+sosial (Evans & Saracho, 2022). Sementara itu, Lawrence Kohlberg menggambarkan perkembangan moral anak
+dalam tahapan bertingkat, mulai dari kepatuhan terhadap aturan hingga kesadaran etis universal (Mathes, 2021).
+Ketiga pendekatan tersebut menyediakan peta pedagogis yang sangat relevan dalam merancang strategi
+pendidikan yang sesuai dengan usia dan kesiapan psikologis anak.
+Berdasarkan keselarasan antara nilai-nilai Qur’ani dan prinsip-prinsip psikologi perkembangan tersebut, artikel
+ini menawarkan pendekatan integratif sebagai solusi konseptual sekaligus praktis dalam pendidikan anak di era
+disrupsi. Nilai Qur’ani berfungsi sebagai kompas spiritual dan moral, sedangkan psikologi perkembangan
+menyediakan perangkat pedagogis yang ilmiah dan kontekstual. Integrasi keduanya diharapkan mampu
+menghasilkan model pendidikan yang utuh dan relevan dalam menghadapi tantangan zaman tidak hanya
+menargetkan capaian akademik, tetapi juga menumbuhkan karakter, kepribadian, dan spiritualitas anak secara
+seimbang.
+Tujuan dari artikel ini adalah untuk menjelaskan secara kritis karakteristik dan tantangan pendidikan anak di
+era disrupsi; menguraikan nilai-nilai Qur’ani dan prinsip psikologi perkembangan anak secara substantif; serta
+merumuskan pendekatan pendidikan yang bersifat integratif, spiritual, ilmiah, dan kontekstual. Lebih lanjut, artikel
+ini menawarkan kerangka implementasi yang dapat diterapkan secara berkelanjutan dalam lingkungan keluarga,
+sekolah, dan masyarakat, sehingga menghasilkan pendidikan anak yang utuh dan relevan dengan dinamika zaman
+tanpa kehilangan akar moral dan nilai-nilai keislaman.
+2.
+
+METODE
+Penelitian ini menggunakan pendekatan kualitatif dengan jenis penelitian kepustakaan (library research).
+Pendekatan ini dipilih karena penelitian ini bertujuan untuk menganalisis dan mensintesis integrasi antara nilai-nilai
+Qur’ani dan teori psikologi perkembangan anak, berdasarkan sumber-sumber tertulis yang otoritatif dan relevan.
+Pendekatan ini memungkinkan peneliti untuk menjawab persoalan konseptual secara mendalam melalui kajian
+dokumen, bukan melalui observasi atau eksperimen langsung di lapangan.
+Data yang digunakan dalam penelitian ini merupakan data sekunder yang bersumber dari dokumen ilmiah
+seperti buku referensi, artikel jurnal nasional terakreditasi (minimal Sinta 2), jurnal internasional bereputasi,
+prosiding akademik, dan hasil penelitian sebelumnya yang membahas topik-topik seputar pendidikan anak, nilainilai dalam Al-Qur’an, serta teori-teori psikologi perkembangan anak. Pemilihan sumber dilakukan secara selektif
+berdasarkan kriteria inklusif dan eksklusif. Adapun kriteria inklusifnya yaitu relevansi isi dengan fokus penelitian,
+keterbaruan (diterbitkan dalam kurun waktu sepuluh tahun terakhir), serta kredibilitas penerbit atau jurnal.
+Sementara itu, kriteria eksklusifnya meliputi sumber yang tidak memiliki landasan ilmiah yang kuat, seperti opini
+tanpa referensi akademik yang memadai, dokumen yang tidak melewati proses peer-review, publikasi dari platform
+yang tidak diakui secara akademik, serta referensi yang mengandung bias ideologis atau teologis yang tidak relevan
+dengan pendekatan ilmiah dalam penelitian ini.
+Pengumpulan data dilakukan melalui teknik dokumentasi dengan penelusuran literatur secara daring dan
+luring. Instrumen yang digunakan berupa lembar klasifikasi literatur yang dikembangkan oleh peneliti untuk
+memetakan temuan setiap dokumen. Indikator klasifikasi meliputi nama penulis dan tahun terbit, fokus isi kajian
+apakah tentang nilai Qur’ani atau psikologi perkembangan, subtema utama yang dibahas seperti tauhid, akhlak,
+moral, perkembangan kognitif atau sosial, serta tingkat keterkaitannya terhadap tema integrasi nilai dan teori.
+Seluruh dokumen dianalisis secara sistematis untuk mengidentifikasi kandungan nilai, pendekatan pendidikan, dan
+potensi integratif antara dua bidang tersebut.
+Teknik analisis data dalam penelitian ini menggunakan analisis isi (content analysis) dengan pendekatan
+tematik. Peneliti membaca setiap dokumen secara cermat untuk menemukan tema-tema utama, kemudian
+mengelompokkan subtema yang serupa ke dalam kategori besar yang menunjukkan adanya pola integrasi antara
+ajaran Qur’ani dan prinsip psikologi perkembangan anak. Tahapan ini dilakukan dengan pendekatan reflektif dan
+interpretatif, sehingga menghasilkan sintesis teoritis yang dapat mendukung pengembangan pendidikan anak
+secara lebih utuh. Melalui analisis ini, peneliti tidak hanya mendeskripsikan konten dokumen, tetapi juga
+membandingkan temuan, menarik keterkaitan antara satu sumber dengan sumber lain, serta merumuskan implikasi
+konseptual dari integrasi dua pendekatan tersebut.
+Alur penelitian ini dimulai dari tahap identifikasi masalah berdasarkan studi awal dan fenomena pendidikan
+anak di era disrupsi. Selanjutnya peneliti menetapkan tujuan dan ruang lingkup kajian, lalu menelusuri berbagai
+sumber literatur yang relevan. Literatur yang ditemukan kemudian diseleksi dan diklasifikasikan sesuai tema, lalu
+dianalisis secara mendalam menggunakan pendekatan tematik. Hasil dari proses analisis tersebut disintesis menjadi
+temuan konseptual yang membangun kerangka integrasi antara nilai-nilai Qur’ani dan prinsip psikologi
+perkembangan, yang pada akhirnya dirumuskan dalam bentuk simpulan dan rekomendasi pendidikan yang bersifat
+aplikatif dan kontekstual. Alur penelitian dapat dilihat pada Gambar 1.
+
+Page 869 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+Identifikasi Masalah
+Penetapan tujuan dan fokus penelitian
+pencarian literatur terkait (buku, jurnal dan artikel ilmiah)
+Seleksi dan Klasifikasi Literatur
+Analisis Isi (Content Analysis) dengan pendekatan tematik
+Sintesis dan penyusunan kerangka integratif
+Kesimpulan
+Gambar 1. Alur Penelitian
+3. HASIL DAN PEMBAHASAN
+Integrasi Nilai Qur’ani dan Psikologi dalam Pendidikan Anak
+Berdasarkan kajian terhadap artikel-artikel ilmiah dan dokumen pendukung yang relevan, peneliti melakukan
+pengelompokan temuan literatur ke dalam tiga tema besar yang menunjukkan keterkaitan erat antara nilai-nilai
+Qur’ani dan teori psikologi perkembangan anak. Pengelompokan ini dilakukan secara sistematis dengan
+mengidentifikasi kesamaan pendekatan dan fokus masing-masing artikel, sehingga analisis lebih terarah dan
+tematik. Ketiga tema tersebut adalah: (1) Integrasi Ontologis: Memanusiakan Anak Berdasarkan Fitrahnya; (2)
+Integrasi Epistemologis: Menyatukan Ilmu Wahyu dan Ilmu Empiris; dan (3) Integrasi Aksiologis: Pendidikan sebagai
+Jalan Menuju Insan Kamil Integrasi Ontologis.
+Pertama, memanusiakan anak berdasarkan fitrahnya. Tema ini ditemukan dari empat artikel yang mengkaji
+tentang fitrah dasar anak dalam pandangan Islam maupun psikologi perkembangan. Adapun keempat artikel
+tersebut yaitu Tabel 1.
+No
+1
+2
+3
+4
+
+Tabel 1. Integrasi Ontologis
+Judul Artikel
+The Development of Children's Fitrah in the Perspective
+of Islamic Education...
+Triwidiyastuti & Maragustam (2018)
+Teori Fitrah dan Perbandingannya dengan Teori
+Nativisme dan Empirisme
+Ihsani (2023)
+Hakikat Fitrah Manusia dalam Perspektif Pendidikan
+Islam
+Ali et al. (2019)
+Psychology of Child Development: Relations of Western
+and Islamic Psychology
+Penulis & Tahun
+Fatimah et al. (2022)
+
+Berdasarkan analisis terhadap sejumlah artikel yang dikaji dalam penelitian ini, ditemukan bahwa sebagian
+besar literatur menyoroti pentingnya pendidikan anak yang berpijak pada konsep fitrah, baik dari sisi teologis
+maupun psikologis. Artikel-artikel tersebut mengungkapkan bahwa dalam Islam, manusia sejak awal penciptaannya
+telah dibekali dengan kecenderungan alami menuju keimanan, kebaikan, dan pengetahuan. Konsep ini dikenal
+sebagai fitrah, yang secara fundamental menjadi landasan ontologis dalam pendidikan Islam (Nasharuddin, 2015).
+Fitrah bukan sekadar potensi pasif, tetapi merupakan dasar eksistensial yang aktif dan dinamis, yang mengarahkan
+manusia untuk mengenal dan menyembah Tuhannya. Al-Qur’an dengan tegas menyatakan dalam Surah Ar-Rum
+ayat 30: ‘Maka hadapkanlah wajahmu dengan lurus kepada agama Allah, (tetaplah atas) fitrah Allah yang telah
+menciptakan manusia menurut fitrah itu.’ Ayat ini memberikan justifikasi teologis bahwa arah dasar perkembangan
+manusia adalah religius, sehingga pendidikan harus dirancang untuk menumbuhkan dan menyuburkan potensi
+tersebut secara utuh dan alami.
+Sejalan dengan itu, dalam QS. Luqman:13 menegaskan bahwa prinsip tauhid sebagai fondasi utama dalam
+pembentukan identitas spiritual anak: ‘Wahai anakku! Janganlah engkau mempersekutukan Allah. Sesungguhnya
+
+Page 870 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+mempersekutukan (Allah) adalah benar-benar kezaliman yang besar.’ Ayat ini menunjukkan bahwa pendidikan
+berbasis fitrah harus mengarahkan kesadaran anak pada ketauhidan secara lembut dan progresif.
+Dalam ranah psikologi perkembangan, pendekatan ontologis ini menemukan relevansinya melalui teori Jean
+Piaget dan Erik Erikson yang memandang bahwa anak merupakan makhluk yang mengalami pertumbuhan bertahap
+secara kognitif, moral, dan sosial (Barreto Zúñiga dkk., 2024; Evans & Saracho, 2022). Anak bukanlah tabula rasa
+(kertas kosong), melainkan individu aktif dengan struktur biologis dan psikis yang berkembang secara bertahap.
+Oleh karena itu, pendidikan tidak dapat diberlakukan secara seragam dan instan, melainkan harus membimbing
+secara bertahap sesuai dengan kesiapan perkembangan anak, baik secara intelektual maupun emosional.
+Pendekatan yang memanusiakan anak ini akan membantu nilai-nilai keimanan dan akhlak ditanamkan dengan cara
+yang lebih sesuai dengan perkembangan dan realitas psikologis anak.
+Hal ini senada dengan pandangan dari Abdullah Nashih Ulwan yang menyatakan bahwa pendidikan pada anak
+tidak boleh memaksakan nilai, melainkan perlu ditumbuhkan secara alamiah dan spiritual. Lebih lanjut, ia
+menyarankan agar pendidikan berbasis kasih sayang, pembiasaan ibadah dan pengenalan nilai akidah sejak dini.
+Begitulah sekiranya fitrah seorang anak dikembangkan. (Ulwan, 2007).
+Konsep fitrah sebagai pijakan pendidikan Islam diperkuat dalam penelitian Fatimah, Mailandari, dan Sutipyo
+melalui karya mereka ‘The Development of Children's Fitrah in the Perspective of Islamic Education and Its Applications
+to the Case of Conflict Between Children's Fitrah and People's Desires.’ Mereka menyatakan bahwa pengembangan
+fitrah anak sangat bergantung pada lingkungan pendidikan yang mampu menumbuhkan spiritualitas secara alami.
+Pendidikan yang mendukung pengalaman transendental dan kesadaran spiritual sejak usia dini sangat diperlukan
+agar kecenderungan fitrah tidak terganggu oleh tekanan kehendak orang dewasa. Mereka menekankan bahwa
+anak harus dibimbing secara lembut agar spiritualitasnya tumbuh tanpa paksaan dan tidak bertentangan dengan
+kecenderungan batinnya (Fatimah dkk., 2022). Meskipun demikian, penelitian ini belum secara eksplisit mengaitkan
+pemahaman fitrah dengan kerangka psikologi perkembangan secara sistematis, sehingga membuka ruang untuk
+penguatan dalam dimensi metodologis.
+Pendekatan yang lebih filosofis dapat ditemukan dalam karya Triwidiyastuti dan Maragustam, yang
+membandingkan teori fitrah dalam Islam dengan teori nativisme, empirisme, dan konvergensi dalam psikologi
+pendidikan. Mereka menegaskan bahwa pendidikan Islam tidak memandang anak sebagai produk lingkungan
+semata atau hasil murni keturunan genetik, melainkan sebagai individu dengan potensi ilahiah yang perlu
+dikembangkan secara harmonis melalui interaksi dengan lingkungannya. Pendidikan yang berpijak pada fitrah,
+menurut mereka, mampu mengembangkan seluruh dimensi kepribadian anak secara seimbang (Triwidyastuti dkk.,
+2018). Namun demikian, meskipun artikel ini berkontribusi dalam penguatan aspek ontologis secara normatif dan
+filosofis, ia belum mengembangkan strategi konkret untuk mengimplementasikan prinsip tersebut dalam praktik
+pendidikan berbasis tahap perkembangan anak.
+Kajian yang lebih mendalam tentang esensi fitrah disampaikan oleh Taufiq Ihsani, yang menyoroti bahwa fitrah
+manusia mencakup tiga dimensi utama: spiritual, rasional, dan sosial. Ketiga dimensi ini menurutnya merupakan
+pilar utama dalam pembentukan kepribadian manusia yang seimbang. Pendidikan Islam, dalam pandangannya,
+harus memfasilitasi ketiga dimensi tersebut agar berkembang harmonis dan tidak timpang. Ketika pendidikan hanya
+menekankan salah satu aspek saja, maka akan muncul generasi yang kehilangan orientasi moral, spiritualitas
+dangkal, atau bahkan krisis identitas (Ihsani, 2023). Meskipun secara konseptual sangat kuat, Taufiq belum
+menyajikan model praktis atau strategi pedagogis untuk mengimplementasikan pembinaan fitrah tersebut dalam
+tahapan perkembangan anak menurut pendekatan psikologi modern.
+Sebagai penutup dalam rangkaian tema ini, penelitian Siti Atiyah Ali dkk. memberikan perspektif integratif
+antara teori psikologi perkembangan Barat (khususnya Piaget dan Erikson) dengan pendidikan Islam. Mereka
+menolak pandangan yang mereduksi anak sebagai wadah kosong dan sebaliknya memposisikan anak sebagai subjek
+aktif yang memiliki potensi bawaan yang berkembang secara bertahap. Dalam konteks ini, mereka menekankan
+pentingnya pendekatan adaptif dan progresif dalam menanamkan nilai agama, sesuai dengan kesiapan kognitif dan
+emosional anak. Salah satu pendekatan yang disarankan adalah penggunaan metode konkret dan visual seperti
+kisah Qur’ani, dibandingkan dengan penyampaian konsep abstrak secara langsung (Ali dkk., 2019). Walau
+memberikan kontribusi penting dalam pendekatan pedagogis berbasis perkembangan, artikel ini juga belum
+menyusun pemetaan nilai Qur’ani secara sistematis dalam kerangka psikologi perkembangan.
+Dengan demikian, kajian literatur dalam tema ontologis ini memperlihatkan bahwa pendidikan anak dalam
+Islam idealnya berpijak pada pengembangan fitrah sebagai titik tolak pembentukan kepribadian anak. Fitrah yang
+mencakup dimensi tauhid, akhlak, dan ilmu, tidak dapat tumbuh secara optimal tanpa pendekatan psikologis yang
+memahami karakteristik dan tahapan perkembangan anak. Oleh karena itu, integrasi antara nilai-nilai Qur’ani dan
+psikologi perkembangan bukan hanya relevan, tetapi menjadi kebutuhan dalam merancang pendidikan yang
+holistik, adaptif, dan aplikatif untuk membentuk insan yang seimbang secara spiritual dan psikologis, khususnya
+dalam menghadapi tantangan pendidikan anak di era disrupsi digital. Kedua, integrasi epistemologis: menyatukan
+ilmu wahyu dan ilmu empiris. Tema ini disarikan dari empat artikel yang membahas keterpaduan antara sumber
+pengetahuan Qur’ani (wahyu) dan pendekatan ilmiah berbasis teori perkembangan anak. Adapun keempat artikel
+itu yaitu pada Tabel 2.
+Page 871 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+No
+1
+2
+3
+4
+
+Tabel 2. Integrasi Epistemologis
+Judul Artikel
+Integrasi Asas Psikologi dalam Pengembangan
+Kurikulum Pendidikan Agama Islam
+Wahyuningsih & Sumedi (2025)
+The Relevance of the Qur’an to Piaget’s Stages of
+Cognitive Development
+Cici Sintia Dewi dkk. (2024)
+Integrasi Ilmu Keislaman dan Ilmu Pendidikan Anak
+Usia Dini
+Fahmi dkk. (2024)
+Epistemological
+Questions:
+Hubungan
+Akal,
+Penginderaan, Wahyu dan Intuisi Pada Pondasi
+Keilmuan Islam
+Penulis & Tahun
+Sihono & Hamami (2025)
+
+Berdasarkan analisis terhadap sejumlah artikel yang dikaji dalam penelitian ini, ditemukan bahwa salah satu
+dimensi penting dalam integrasi nilai Qur’ani dan psikologi perkembangan anak terletak pada aspek epistemologis.
+Integrasi epistemologis dalam konteks pendidikan Islam merupakan upaya menyatukan dua sumber utama
+pengetahuan: wahyu dan empiris. Ilmu wahyu bersumber dari Al-Qur’an dan sunnah yang bersifat transendental
+dan normatif, sedangkan ilmu empiris diperoleh dari hasil pengamatan, pengalaman, dan penelitian ilmiah yang
+membentuk pemahaman objektif terhadap realitas kehidupan, termasuk perkembangan anak. Dalam perspektif
+Islam, kedua sumber pengetahuan ini tidak bertentangan, tetapi justru saling melengkapi. Al-Qur’an sendiri
+menegaskan pentingnya aktivitas intelektual melalui firman Allah dalam Surah Al-‘Alaq ayat 1–5: ‘Bacalah dengan
+(menyebut) nama Tuhanmu yang menciptakan… Dia mengajarkan manusia apa yang tidak diketahuinya.’ Ayat ini
+menekankan bahwa membaca, berpikir, dan meneliti merupakan bagian dari ibadah dalam tradisi keilmuan Islam.
+Selain itu, ayat ini tidak hanya memberikan legitimasi spiritual terhadap pencarian ilmu, melainkan juga menjadi
+dasar pendidikan berbasis eksplorasi, observasi dan penguatan berpikir kritis pada anak sesuai tahapan
+perkembangannya menurut Piaget.
+Dalam praktik pendidikan anak, pendekatan epistemologis ini menjadi penting agar nilai-nilai Qur’ani tidak
+hanya diposisikan sebagai dogma, tetapi dapat diinternalisasi sesuai dengan kemampuan berpikir dan struktur
+psikososial anak. Teori perkembangan kognitif Jean Piaget menyebutkan bahwa anak melewati empat tahap
+perkembangan, yaitu sensorimotor (0–2 tahun), praoperasional (2–7 tahun), operasional konkret (7–11 tahun), dan
+operasional formal (11 tahun ke atas) (Barreto Zúñiga dkk., 2024). Maka dari itu, penyampaian nilai-nilai Qur’ani
+seperti tauhid, kejujuran, atau kasih sayang perlu disesuaikan dengan cara berpikir anak. Pendekatan visual dan
+konkret lebih tepat diterapkan pada usia dini, sementara pendekatan reflektif dan analitis sesuai diterapkan pada
+anak usia remaja.
+Salah satu penelitian yang menyoroti pentingnya pendekatan ini adalah artikel Sihono dan Hamami dalam
+tulisannya “Integrasi Asas Psikologi dalam Pengembangan Kurikulum Pendidikan Agama Islam.” Mereka
+menekankan bahwa kurikulum Pendidikan Agama Islam (PAI) harus mempertimbangkan teori psikologi
+perkembangan sebagai dasar penyusunan materi ajar. Menurut mereka, ‘materi pembelajaran agama perlu
+disesuaikan dengan struktur berpikir peserta didik agar tidak terjadi pemaksaan nilai sebelum waktunya.’ Namun,
+kajian ini belum secara rinci menjelaskan bagaimana transisi dari proses tilawah (membaca literal) ke tadabbur
+(refleksi makna) dapat diimplementasikan secara pedagogis dalam konteks pembelajaran Qur’ani (Sihono &
+Hamami, 2025).
+Korelasi antara struktur berpikir anak dan materi Qur’ani juga dibahas dalam artikel Wahyuningsih dan Sumedi
+“The Relevance of the Qur’an to Piaget’s Stages of Cognitive Development.” Mereka menunjukkan bahwa materi AlQur’an sebaiknya disampaikan sesuai dengan tahapan berpikir anak: kisah para nabi digunakan untuk tahap
+praoperasional, sedangkan diskusi nilai dan refleksi moral cocok diterapkan pada tahap operasional formal. Temuan
+mereka memberikan dasar penting bagi pengembangan kurikulum berbasis Qur’ani yang kontekstual dengan
+psikologi perkembangan, meskipun strategi implementatifnya belum dijabarkan secara teknis (Wahyuningsih &
+Sumedi, 2025).
+Kontribusi lebih lanjut datang dari Dewi dkk., yang mengangkat perspektif Muhammad Amin Abdullah dalam
+artikelnya tentang “Integrasi Ilmu Keislaman dan Ilmu Pendidikan Anak Usia Dini.” Mereka mengusulkan
+pendekatan holistik yang menggabungkan aspek spiritual, emosional, dan psikologis anak dalam pembelajaran
+Islam. Penelitian ini menekankan bahwa nilai-nilai keislaman perlu disampaikan dengan pendekatan pedagogis yang
+lembut, menyentuh emosi anak, dan tidak bersifat indoktrinatif. Namun, pembahasan dalam artikel ini masih berada
+pada tataran konseptual umum dan belum memberikan contoh praktis strategi integratif berbasis perkembangan
+kognitif anak (Cici Sintia Dewi dkk., 2024).
+Sementara itu, pendekatan filosofis yang memperkuat integrasi epistemologis disampaikan oleh Fahmi dkk.
+melalui kajian berjudul “Epistemological Questions: Hubungan Akal, Penginderaan, Wahyu dan Intuisi Pada Pondasi
+Keilmuan Islam.” Mereka menjelaskan bahwa dalam epistemologi Islam, wahyu, akal, indera, dan intuisi adalah
+empat pilar sumber pengetahuan. Ilmu empiris yang lahir dari pengamatan dan pengalaman bukanlah antitesis
+Page 872 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+wahyu, melainkan pelengkap dalam membentuk pemahaman menyeluruh terhadap realitas, termasuk dalam
+pendidikan. Meskipun bersifat teoritis, pandangan ini memberikan dasar filosofis yang kuat untuk melegitimasi
+pendekatan ilmiah dalam pendidikan agama (Fahmi dkk., 2024).
+Sebagai penegasan dari seluruh pendekatan tersebut, penelitian ini menawarkan model integratif yang
+menyatukan nilai Qur’ani dan psikologi perkembangan melalui pendekatan bertahap: dari tilawah menuju tadabbur,
+dari pengalaman konkret menuju pemahaman reflektif. Misalnya, pada anak usia praoperasional, nilai tauhid dapat
+dikenalkan melalui kegiatan seperti menggambar ciptaan Allah atau mendengarkan kisah-kisah nabi. Sedangkan
+pada usia operasional formal, anak dapat diajak menganalisis ayat-ayat Qur’an secara lebih dalam, menuliskan
+pemaknaannya, serta mendiskusikan penerapannya dalam kehidupan sehari-hari. Dengan pendekatan ini, AlQur’an tidak hanya menjadi teks yang dihafalkan, tetapi menjadi nilai yang hidup dan terinternalisasi dalam
+perkembangan intelektual dan moral anak. Ketiga, integrasi aksiologis: pendidikan sebagai jalan menuju insan kamil.
+Tema ketiga ini diangkat dari lima artikel yang berfokus pada tujuan pendidikan Islam dan cara
+mengimplementasikan nilai-nilai Qur’ani dalam membentuk karakter anak. Adapun kelima artikel itu yaitu pada
+Tabel 3.
+No
+1
+
+Penulis & Tahun
+Budiyanti, dkk. (2020)
+
+2
+
+Akbar Maulana dkk. (2022)
+
+3
+
+Husni & Atoillah (2022)
+
+4
+
+Umam & Musthofa (2024)
+
+5
+
+Ihsan Sa’ari dkk. (2024)
+
+Tabel 3. Integrasi Aksiologis
+Judul Artikel
+The Formulation of The Goal of Insan Kamil as a Basis for
+The Development of Islamic Education Curriculum
+The Role of Islamic Educational Psychology in Child’s
+Spiritual Development
+Islamic Education, Insan Kamil, and the Challenges of the
+Era of Society 5.0
+The Children’s Education in the Psychological Perspective
+of Islamic Education
+Abdurrauf Singkel’s Insan Kamil Concept to Answer the
+Problem of Sexual Consent, Childfree, Nature and
+Nurture in Urban Society
+
+Berdasarkan analisis terhadap sejumlah artikel yang dikaji dalam penelitian ini, ditemukan bahwa integrasi
+aksiologis antara nilai-nilai Qur’ani dan pendekatan psikologi perkembangan memiliki urgensi strategis dalam
+pendidikan anak. Integrasi ini memfokuskan pada pembentukan nilai yang tidak hanya dipahami secara kognitif,
+tetapi juga dihayati dan diamalkan dalam perilaku nyata. Dalam perspektif Islam, tujuan utama pendidikan bukanlah
+sekadar melahirkan individu yang cerdas secara intelektual, melainkan membentuk insan kamil, yakni manusia
+paripurna yang seimbang dalam aspek jasmani, akal, dan ruhani (Akbar & Alkhadafi, 2025). Konsep ini menekankan
+bahwa pendidikan Islam tidak boleh berhenti pada transfer ilmu pengetahuan, tetapi harus mampu mengantarkan
+peserta didik menuju kematangan spiritual, moral, dan emosional. Dalam pandangan psikologi perkembangan, citacita ini sejalan dengan tujuan pendidikan yang menumbuhkan individu secara utuh, tidak timpang dalam aspek
+afektif, kognitif, dan sosial. Maka dari itu, integrasi nilai-nilai Qur’ani dengan pendekatan psikologis menjadi
+jembatan penting untuk merealisasikan visi ideal pendidikan Islam dalam bentuk strategi yang implementatif.
+Penelitian yang dilakukan oleh Budiyanti dkk. dalam artikelnya “The Formulation of The Goal of Insan Kamil as a
+Basis for The Development of Islamic Education Curriculum” menunjukkan bahwa insan kamil harus dijadikan landasan
+utama dalam perumusan tujuan pendidikan Islam. Mereka mendorong pengembangan kurikulum yang
+menyelaraskan aspek kognitif, afektif, dan spiritual peserta didik (Budiyanti dkk., 2020). Namun demikian,
+penelitian ini belum secara eksplisit mengaitkan konsep insan kamil dengan kerangka psikologi perkembangan,
+khususnya dalam pendidikan anak, sehingga strategi pelaksanaannya masih bersifat umum dan memerlukan
+penajaman lebih lanjut.
+Kajian Maulana dkk. dalam artikel “The Role of Islamic Educational Psychology in Child’s Spiritual Development”
+memberikan kontribusi pada aspek perkembangan spiritual anak. Mereka menyatakan bahwa spiritualitas anak
+berkembang secara bertahap dan harus disesuaikan dengan kesiapan usianya, melalui proses pembiasaan dan
+keteladanan yang berkelanjutan. Meskipun pendekatan ini sangat penting (Akbar Maulana dkk., 2022), kajian
+tersebut belum secara utuh mengintegrasikan nilai-nilai Qur’ani dengan penguatan aspek moral seperti selfregulation dan tanggung jawab sosial dalam konteks pendidikan anak.
+Selanjutnya, Husni dan Atoillah dalam tulisannya “Islamic Education, Insan Kamil, and the Challenges of the Era
+of Society 5.0” menekankan bahwa sistem pendidikan Islam harus mampu menjawab tantangan zaman digital, tanpa
+kehilangan orientasi terhadap tujuan utama, yakni pembentukan insan kamil. Mereka menganalisis peran guru dan
+kurikulum dalam membentuk generasi Islami di tengah tantangan Society 5.0 (Husni & Atoillah, 2022). Meskipun
+demikian, kajian ini lebih menekankan aspek sistem dan teknologi, dan belum menguraikan strategi pembelajaran
+psikologis yang kontekstual dengan tahap perkembangan anak secara spesifik.
+
+Page 873 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+Dalam pendekatan yang lebih menyeluruh, Umam dan Musthofa melalui artikelnya “The Children’s Education
+in the Psychological Perspective of Islamic Education” menekankan bahwa pendidikan anak harus mencakup aspek
+jasmani, kognitif, dan spiritual secara holistik. Mereka mengusulkan pendekatan otoritatif yang seimbang antara
+kasih sayang dan ketegasan dalam pembentukan karakter anak (Umam & Musthofa, 2024). Walaupun pendekatan
+ini bersifat aplikatif, mereka belum secara eksplisit mengaitkan metode tersebut dengan kerangka nilai Qur’ani
+maupun dengan visi insan kamil sebagai tujuan akhir pendidikan Islam.
+Sementara itu, Ihsan Sa’ari dkk. menawarkan pendekatan filosofis dalam artikelnya “Abdurrauf Singkel’s Insan
+Kamil Concept to Answer the Problem of Sexual Consent, Childfree, Nature and Nurture in Urban Society.” Mereka
+memaknai insan kamil sebagai pribadi yang seimbang secara spiritual dan sosial serta mampu menghadirkan nilainilai ketuhanan dalam kehidupan masyarakat urban (Ihsan dkk., 2024). Pandangan ini memperkaya diskursus
+tentang insan kamil dalam konteks kontemporer, namun tidak secara spesifik menyentuh strategi pendidikan anak
+dalam kerangka psikologi perkembangan.
+Sebagai penguatan dari keseluruhan pendekatan tersebut, artikel ini secara eksplisit menawarkan model
+integrasi aksiologis yang tidak hanya normatif, tetapi juga aplikatif. Nilai-nilai Qur’ani yang menjadi landasan
+pembentukan insan kamil seperti tauhid, akhlak, dan ibadah, dijadikan sebagai tujuan pendidikan, sedangkan teori
+psikologi perkembangan digunakan sebagai pedoman dalam penyusunan strategi pengajaran. Misalnya,
+pembiasaan ibadah seperti shalat dan puasa tidak hanya diajarkan sebagai kewajiban, tetapi juga sebagai latihan
+tanggung jawab, kesabaran, dan pengendalian diri. Semua itu berkaitan erat dengan pembentukan self-regulation
+anak. Penanaman nilai dilakukan melalui metode keteladanan, pembiasaan, dan story telling pada usia pra
+operasional, serta melalui dialog nilai dan refleksi moral pada tahap operasional formal.
+Dengan demikian, integrasi aksiologis antara nilai-nilai Qur’ani dan pendekatan psikologi perkembangan
+merupakan solusi konseptual dan strategis untuk membumikan visi pendidikan Islam yang transendental namun
+kontekstual. Integrasi aksiologis ini semakin kuat dengan dukungan ayat-ayat Al-Qur’an yang menegaskan tujuan
+utama penciptaan manusia dan pembentukan moral sosial. Misalnya, dalam QS. Adz-Dzariyat ayat 56 yang
+menyatakan: ‘Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka menyembah-Ku’, menegaskan
+bahwa orientasi pendidikan adalah membangun kesadaran ibadah (Nata, 2021). Ayat lainnya seperti QS. Al-Isra
+ayat 23-24 menekankan tentang penghormatan terhadap orang tua sebagai bagian dari nilai moral yang luhur
+dalam pendidikan anak. Kemudian QS. Al-Hujurat ayat 13 yang menegaskan pentingnya toleransi, kesetaraan dan
+penghargaan terhadap keragaman sebagai bagian dari pembentukan insan kamil yang memiliki tanggung jawab
+sosial dalam masyarakat. Integrasi ini tidak hanya merekonstruksi tujuan pendidikan menjadi lebih holistik dan
+fungsional, tetapi juga menyuguhkan arah praktis dalam mendidik anak sebagai calon insan kamil yang memiliki
+keseimbangan spiritual, intelektual, dan moral. Pendidikan Islam dengan demikian tidak berhenti pada wacana
+normatif, tetapi menjadi sistem pedagogis yang sistematis, ilmiah, dan relevan dalam menjawab kompleksitas
+tantangan era disrupsi digital.
+Praktik Implementasi Integratif Pendidikan Qur’ani dan Psikologi di Era Disrupsi
+Era disrupsi ditandai dengan perkembangan teknologi digital yang begitu pesat dan cepat. Hal ini membawa
+perubahan mendasar dalam kehidupan manusia, termasuk dalam bidang pendidikan. Anak-anak kini hidup dalam
+lingkungan yang sarat dengan arus informasi tanpa batas, kemudian akses teknologi, dan dominasi media sosial.
+Meskipun membawa sejumlah manfaat, situasi ini pun menimbulkan tantangan besar bagi proses pendidikan. Di
+antara tantangannya yaitu terjadinya disorientasi nilai, kecanduan gadget, penurunan interaksi sosial yang
+bermakna serta krisis identitas moral dan spiritual (Gkeredakis dkk., 2021).
+Integrasi antara nilai-nilai Qur’ani dan pendekatan psikologi perkembangan dalam konteks inilah menjadi
+sangat relevan dan mendesak. Nilai Qur’ani memberikan arah spiritual, moral dan sosial yang transenden,
+sedangkan psikologi perkembangan memberikan pemahaman tentang bagaimana anak tumbuh dan belajar secara
+bertahap sesuai dengan karakteristik usia dan pengalaman. Keduanya, ketika dipadukan akan melahirkan
+pendekatan pendidikan yang menyentuh seluruh aspek perkembangan anak, baik secara intelektual, emosional,
+sosial maupun spiritual (Bellous, 2021). Implementasi pendidikan yang mengintegrasikan nilai Qur’ani dan psikologi
+dapat dimulai dari lingkungan keluarga, kemudian sekolah dan masyarakat.
+Pertama, lingkungan keluarga. Lingkungan keluarga dalam konteks disrupsi digital mengalami berbagai
+tantangan yang cukup signifikan. Seperti berkurangnya kualitas interaksi antara orang tua dan anak yang digantikan
+oleh ketergantungan pada gawai dan media digital (Yusuf dkk., 2020). Maka dari itu, peran orang tua menjadi sangat
+krusial dalam membentuk karakter anak di tengah derasnya arus digitalisasi (Hamid dkk., 2021). Orang tua perlu
+secara sadar membangun iklim spiritual dan psikologis yang sehat di rumah. Misalnya, penanaman nilai tauhid
+kepada anak yang dapat dilakukan dengan kegiatan-kegiatan sederhana yang konkret, seperti mengaitkan ciptaan
+Allah dengan aktivitas harian anak, mengucapkan doa bersama atau menceritakan kisah-kisah Qur’ani yang
+menumbuhkan rasa kagum dan cinta kepada Allah. Proses ini harus dilakukan dengan pendekatan afektif yang
+sesuai dengan tahap perkembangan anak sebagaimana dijelaskan oleh Jean Piaget, di mana anak usia dini
+memerlukan pendekatan konkret dan visual dalam memahami konsep abstrak seperti Tuhan dan ibadah.
+
+Page 874 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+Selain itu, pembiasaan ibadah seperti sholat dan puasa perlu dilakukan bukan dengan paksaan, melainkan
+melalui keteladanan dan pembinaan kesadaran sebagaimana ditegaskan dalam surah Adz-Dzariyat ayat 56 yang
+menjelaskan bahwa manusia diciptakan oleh Allah untuk beribadah. Secara psikologis, langkah ini membentuk
+karakter anak yang disiplin, bertanggung jawab dan memiliki kontrol diri. Hal ini tentunya sejalan dengan teori Erik
+Erikson yang menekankan pentingnya membangun rasa percaya diri dan inisiatif anak dalam menjalani peran sosial
+dan spiritualnya.
+Kedua, lingkungan sekolah. Lembaga pendidikan formal atau sekolah memiliki andil dalam membentuk
+kepribadian anak (Ihwanah dkk., 2024). Agar anak dapat dibentuk dengan baik, maka sekolah perlu untuk
+menghubungkan materi pembelajaran dengan nilai-nilai Qur’ani. Kurikulum tidak hanya diisi dengan konten
+akademik, melainkan juga dengan penanaman nilai yang kontekstual. Misalnya, pembelajaran sains dapat
+diintegrasikan dengan ayat-ayat Al-Qur’an yang berbicara tentang penciptaan alam semesta, seperti dalam surah
+Al-Alaq ayat 1-5, sehingga anak tidak hanya belajar fakta ilmiah, melainkan juga mengembangkan kesadaran
+spiritual. Guru pun perlu untuk menerapkan metode pembelajaran yang aktif dan reflektif, seperti diskusi nilai, studi
+kasus, dan proyek sosial yang membangun akhlak serta kecerdasan moral anak. Ini sesuai dengan teori
+perkembangan moral Lawrence Kohlberg, yang menunjukkan bahwa pemahaman moral anak berkembang dari
+kepatuhan karena hukuman menuju kesadaran akan prinsip universal. Pendidikan akhlak dalam Islam, seperti
+menghormati orang tua, berkata jujur, dan peduli terhadap sesama dapat dimaknai dan ditanamkan secara bertahap
+sesuai dengan tingkat kedewasaan moral anak.
+Ketiga, lingkungan masyarakat. Kelompok-kelompok masyarakat yang berorientasi pada pengajaran nilai-nilai
+Qur’ani, seperti Taman Pendidikan Al-Qur’an (TPA) di masjid, memainkan peran strategis dalam membentuk
+ekosistem sosial yang kondusif bagi perkembangan karakter anak (Abidin, 2021). Di tengah tantangan era disrupsi
+yang ditandai oleh meningkatnya budaya individualisme dan konsumtivisme, kehadiran ruang-ruang kolektif yang
+bersifat edukatif menjadi sangat penting. Program seperti pengajian anak berbasis nilai, kegiatan bakti sosial, serta
+parenting Qur’ani yang berlandaskan psikologi perkembangan dapat menjadi alternatif solutif. Selain itu,
+pemanfaatan teknologi oleh kelompok masyarakat keagamaan untuk menyebarkan konten edukatif Islami yang
+ramah anak, seperti aplikasi interaktif Al-Qur’an, video kisah para Nabi, dan platform diskusi nilai bagi remaja muslim
+juga turut mendukung proses pembentukan karakter dalam konteks digital.
+Keseluruhan proses tersebut, dari lingkungan keluarga kemudian lingkungan sekolah dan masyarakat perlu
+untuk memposisikan nilai Qur’ani tidak hanya sebagai materi hafalan atau ajaran normatif, melainkan menjadi
+bagian yang hidup dari pengalaman anak. Ia menyatu dalam cara anak melihat dirinya, orang lain dan dunia
+sekitarnya. Psikologi membantu memastikan bahwa penyampaian nilai-nilai itu sesuai dengan tahap kesiapan anak,
+sedangkan al-Qur’an memastikan bahwa arah pertumbuhannya tetap lurus menuju tujuan hidup yang hakiki, yakni
+menjadi hamba Allah yang bertakwa dan manusia yang bermanfaat bagi sesamanya. Dengan demikian, pendidikan
+anak di era disrupsi membutuhkan pendekatan yang adaptif namun tetap berakar. Integrasi nilai Qur’ani dan
+psikologi perkembangan bukan sekadar strategi pedagogis, melainkan jalan untuk membentuk generasi yang tidak
+hanya cerdas secara intelektual, melainkan juga tangguh secara spiritual dan luhur dalam akhlak. Dalam hal inilah,
+pendidikan bukan hanya sekedar alat untuk menghadapi zaman, melainkan sarana untuk memanusiakan manusia
+dan mengarahkan mereka kepada kebenaran yang sejati.
+Memang benar bahwa disrupsi teknologi tidak dapat dihindari, tapi bisa dihadapi. Solusinya bukan menolak
+teknologi, melainkan mengarahkan pendidikan untuk membentuk jiwa yang kuat dan hati yang tercerahkan. Di
+sinilah integrasi nilai Qur’ani dan psikologi menjadi penting. Nilai-nilai Qur’ani memberi arah (spiritual compass),
+sementara psikologi perkembangan memberi cara (pedagogical map). Melalui strategi pendidikan yang bertahap,
+empatik dan berbasis wahyu, anak-anak di era disrupsi tidak hanya bisa bertahan dari gelombang zaman, melainkan
+juga menjadi pelopor generasi Qur’ani yang adaptif, kritis dan berakhlak mulia.
+4.
+
+KESIMPULAN
+Pendidikan anak di era disrupsi membutuhkan pendekatan yang menyeluruh, adaptif, dan transformatif.
+Integrasi antara nilai-nilai Qur’ani yang mencakup tauhid, akhlak, dan ibadah dengan teori psikologi perkembangan
+anak memberikan fondasi yang kokoh bagi pembentukan karakter anak secara spiritual dan psikologis. Nilai-nilai
+Qur’ani berperan sebagai kompas moral dan spiritual yang mengarahkan kehidupan anak, sedangkan teori
+perkembangan dari Piaget, Erikson, dan Kohlberg menyediakan peta pedagogis yang sesuai dengan tahapan
+tumbuh kembang anak. Pendekatan ini mencerminkan integrasi ontologis yang berpijak pada fitrah manusia,
+integrasi epistemologis yang menyatukan wahyu dan ilmu empiris, serta integrasi aksiologis yang mengarahkan
+pendidikan pada pembentukan insan kamil. Model ini tidak hanya menawarkan solusi konseptual tetapi juga dapat
+diimplementasikan dalam lingkungan keluarga, sekolah, dan masyarakat. Dengan demikian, pendidikan Islam bagi
+anak mampu merespons dinamika zaman tanpa kehilangan orientasi nilai, spiritualitas, dan identitas keislaman.
+
+5.
+
+UCAPAN TERIMAKASIH
+Page 875 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+Segala puji bagi Allah SWT atas rahmat dan hidayah-Nya sehingga artikel ini dapat terselesaikan dengan baik.
+Penulis menyampaikan terima kasih kepada semua pihak yang telah memberikan dukungan, khususnya kepada
+Prof. Dr. Eva Latipah, M.Si., selaku dosen pembimbing, atas arahan dan bimbingannya yang sangat berharga dalam
+proses penulisan artikel ini.
+6. REFERENSI
+Abidin, A. M. (2021). Pendidikan Moral dan Relevansinya dengan Pendidikan Islam. Jurnal Paris Langkis, 2(1), 57–
+67. https://doi.org/10.37304/paris.v2i1.3282
+Akbar Maulana, I., Amelia, R., Ulfatmi, U., & Wahyuni, A. (2022). The Role of Islamic Educational Psychology In
+Child’s Spiritual Development. EDUSOSHUM: Journal of Islamic Education and Social Humanities, 2(3), 131–
+142. https://doi.org/10.52366/edusoshum.v2i3.42
+Akbar, R., & Alkhadafi, R. (2025). Pendidikan Islam Berbasis Akhlak: Analisis Pemikiran Ibnu Miskawaih dalam
+Perspektif Filsafat Moral. Advances In Education Journal, 1(6), 576–589. https://journal.alafif.org/index.php/aej/article/view/92
+Akrim, A. (2022). A New Direction of Islamic Education in Indonesia: Opportunities and Challenges in the Industrial
+Revolution
+Era
+4.0.
+Edukasi
+Islami:
+Jurnal
+Pendidikan
+Islam,
+11(01),
+35.
+https://doi.org/10.30868/ei.v11i01.1799
+Ali, S. A., Ismail, S., Aisyah, N., & Omar, A. R. (2019). Psychology of Child Development: Relations of Western
+Educational Psychology and Islamic Educational Psychology. Journal of Islamic Educational Research, 4(1),
+14–23. https://doi.org/10.22452/jier.vol4no1.2
+Aliah, F., & Irawan, D. (2024). Strategi Pendidikan Islam Kontekstual Dalam Menyongsong Era Disrupsi Digital.
+Pengertian: Jurnal Pendidikan Indonesia (PJPI), Vol. 2(1), 1-12. https://doi.org/10.61930/pjpi.v2i1.549
+Anwar, S., & Salim, A. (2019). Pendidikan Islam dalam Membangun Karakter Bangsa di Era Milenial. Al-Tadzkiyyah:
+Jurnal Pendidikan Islam, 9(2), 233. https://doi.org/10.24042/atjpi.v9i2.3628
+Barreto Zúñiga, W. W., Arévalo Paguay, J. F., Ulloa Valdivieso, J. H., Zavala Escobar, C. B., Andrade López, N. A., &
+Paguay Paguay, M. N. (2024). Análisis del aprendizaje infantil desde la teoría del desarrollo cognitivo de
+Jean Piaget: Un enfoque etnográfico para evaluar la relación entre la inteligencia y las etapas cognitivas:
+Analysis of children’s learning from Jean Piaget’s cognitive development theory: an ethnographic approach
+to evaluate the relationship between intelligence and cognitive stages. LATAM Revista Latinoamericana de
+Ciencias Sociales y Humanidades, 5(5), 4126-4138. https://doi.org/10.56712/latam.v5i5.2913
+Bellous, J. E. (2021). Spiritual Care as the Foundation for a Child’s Religious Education. Religions, 12(11), 954.
+https://doi.org/10.3390/rel12110954
+Budiyanti, N., Aziz, A. A., & Mansyur, A. S. (2020). The Formulation of The Goal of Insan Kamil as a Basis for The
+Development of Islamic Education Curriculum. International Journal of Education and Curriculum Application,
+3(2), 81–90. https://doi.org/10.31764/ijeca.v3i2.2252
+Cici Sintia Dewi, Mayra Amanda Putri, & Rizki Amrillah. (2024). Integrasi Ilmu Keislaman dengan Ilmu Pendidikan
+Anak Usia Dini dalam Perspektif Muhammad Amin Abdullah. Jurnal Pendidikan Anak Usia Dini, 1(3), 8.
+https://doi.org/10.47134/paud.v1i3.575
+Evans, R., & Saracho, O. N. (Ed.). (2022). The influence of theorists and pioneers on early childhood education.
+Routledge.
+Fadilurrahman, M., Ramadhani, R., Kurniawan, T., Misnasanti, M., & Shaddiq, S. (2021). Systematic Literature
+Review of Disruption Era in Indonesia: The Resistance of Industrial Revolution 4.0. Journal of Robotics and
+Control (JRC), 2(1), 51-59. https://doi.org/10.18196/jrc.2152
+Fahmi, K., Salniwati, & Usiono. (2024). Epistemological Questions: Hubungan Akal, Penginderaan, Wahyu dan
+Intuisi Pada Pondasi Keilmuan Islam. Journal of Education Research, 5(1), 570–575.
+https://doi.org/10.37985/jer.v5i1.753
+Farid, M., Al-Kautsary, M. I., & Sidik, A. H. M. (2024). Pendidikan Karakter dalam Perspektif Al-Qur’an (Analisis
+Corak Tafsir Tarbawi dalam Qs. Luqman Ayat 12-19). Jurnal Al-Qiyam, 5(1), 1–14.
+https://doi.org/10.33648/alqiyam.v5i1.457
+Fatimah, R. A., Mailandari, O., & Sutipyo, S. (2022). The Development of Children’s Fitrah In The Perspective of
+Islamic Education And Its Applications to the Case of Conflict Between Children’s Fitrah And People’s
+Desires. Journal of Islam and Science, 9(1), 46–51. https://doi.org/10.24252/jis.v9i1.26660
+Gkeredakis, M., Lifshitz-Assaf, H., & Barrett, M. (2021). Crisis as opportunity, disruption and exposure: Exploring
+emergent responses to crisis through digital technology. Information and Organization, 31(1), 100344.
+https://doi.org/10.1016/j.infoandorg.2021.100344
+Hamid, S. I., Anggraeni Dewi, D., Fakhrudin, A. M., Setianingsih, E., & Putri, F. W. (2021). Pentingnya Peran Orang
+Tua dalam Membentuk Karakter Anak sebagai Generasi Penerus Bangsa. Aulad: Journal on Early Childhood,
+4(3), 143–149. https://doi.org/10.31004/aulad.v4i3.179
+Husni, H., & Atoillah, A. N. (2022). Islamic Education, Insan Kamil, and the Challenges of the Era of Society 5.0: A
+Literature Review. Jurnal Penelitian Pendidikan Islam, 10(1), 67. https://doi.org/10.36667/jppi.v10i1.1005
+Page 876 of 877
+
+Aulad : Journal on Early Childhood, 2025, 8(2), Pages 867-877
+
+Ihsan, N. H., Sa’ari, C. Z. B., Sansayto, T., & Indallah, S. M. (2024). Abdurrauf Singkel’s Insan Kamil Concept To
+Answer The Problem Of Sexual Consent, Childfree, Nature And Nurture In Urban Society. Akademika :
+Jurnal Pemikiran Islam, 29(1), 87. https://doi.org/10.32332/akademika.v29i1.9081
+Ihsani, T. (2023). Hakikat Fitrah Manusia dalam Perspektif Pendidikan Islam. Tsamratul Fikri, 16(1), 51–64.
+https://doi.org/10.36667/tf.v16i1.1348
+Ihwanah, A., Idi, A., Karoma, K., Afifah, N., & Diana. (2024). Character Building Through Differentiated Learning of
+Islamic Religious Education in the Digital Era. Ta’dib: Jurnal Pendidikan Islam, 29(2), 178–192.
+https://doi.org/10.19109/td.v29i2.24890
+Ilyas, M., & Tobroni, T. (2024). Paradigma Tradisionalisme, Modernisme, dan Postmodernisme dalam Pendidikan
+Agama Islam: Dari Ulumuddin ke Dirāsah Islamiyah hingga Kajian Multidisipliner. Jurnal Kolaboratif Sains,
+7(11), 4003-4008. https://doi.org/10.56338/jks.v7i11.6532
+Irlina, A. (2023). Strengthening Young Generation Character with Islamic Education from Preschool in 5.0 Society.
+Daengku:
+Journal
+of
+Humanities
+and
+Social
+Sciences
+Innovation,
+3(1),
+85–90.
+https://doi.org/10.35877/454RI.daengku1416
+Maslan, D., Ritonga, A. A., Darlis, A., & Lubis, P. (2023). Telaah Konsep Pendidikan Ibadah dalam Al-Qur’an. Nizham,
+11(02), 1-10. https://e-journal.metrouniv.ac.id/nizham/article/view/7664/3663
+Mathes, E. W. (2021). An evolutionary perspective on Kohlberg’s theory of moral development. Current Psychology,
+40(8), 3908–3921. https://doi.org/10.1007/s12144-019-00348-0
+Nasharuddin. (2015). Akhlak: Ciri Manusia Paripurna. Rajawali Pers.
+Nata, A. (2021). Akhlak Tasawuf dan Karakter Mulia. Rajawali Pers.
+Nuralimah, St., Alamsyah, Muh. N., & Ningsih, N. W. (2025). Strategi Integratif Pendekatan Psikologis dan
+Pendidikan Islam dalam Membentuk Karakter Generasi Alpha. Jurnal QOSIM Jurnal Pendidikan Sosial &
+Humaniora, 3(2), 626–643. https://doi.org/10.61104/jq.v3i2.1027
+Saracho, O. N. (2023). Theories of Child Development and Their Impact on Early Childhood Education and Care.
+Early Childhood Education Journal, 51(1), 15–30. https://doi.org/10.1007/s10643-021-01271-5
+Sihono, S., & Hamami, T. (2025). Integrasi Asas Psikologi dalam Pengembangan Kurikulum Pendidikan Agama Islam.
+Al-Hikmah:
+Jurnal
+Agama
+dan
+Ilmu
+Pengetahuan,
+22(1),
+163–175.
+https://doi.org/10.25299/ajaip.2025.vol22(1).21245
+Supa’at, S., & Ihsan, I. (2023). The Challenges of Elementary Education in Society 5.0 Era. International Journal of
+Social Learning (IJSL), 3(3), 341–360. https://doi.org/10.47134/ijsl.v3i3.214
+Trismawati, D., Mawardi, I., & Tohirin, M. (2021). Nilai-nilai Pendidikan Karakter Menurut HAMKA (Kajian Atas
+Tafsir Al Azhar Surat An Nisa’ Ayat 36-38). Borobudur Islamic Education Review, 1(1), 10–19.
+https://doi.org/10.31603/bier.5456
+Triwidyastuti, T., Siregar, M., & Sunan Kalijaga State Islamic University of Yogyakarta. (2018). The Concept of
+Islamic Education Development Based on the Theory of Fitrah. Indonesian Journal of Interdisciplinary Islamic
+Studies, 2(1), 31–52. https://doi.org/10.20885/ijiis.vol2.iss1.art2
+Tuti, T. W., & Hairiyah, H. (2021). Penerapan Nilai-nilai Pendidikan Islam Bagi Anak (Analisis Psikologi
+Perkembangan
+Anak).
+LITERASI
+(Jurnal
+Ilmu
+Pendidikan),
+12(2),
+92.
+https://doi.org/10.21927/literasi.2021.12(2).92-99
+Ulwan, A. N. (2007). Mencintai dan Mendidik Anak Secara Islami. Dalam Tarbiyah al-Aulad Fi al-Islam. Darul Hikmah.
+Umam, M. K., & Musthofa, I. (2024). The Children’s Education in the Psychological Perspective of Islamic Education.
+IJoASER, 7(1), 28–39. https://doi.org/10.33648/ijoaser.v7i1.332
+Wahyuningsih, I., & Sumedi, S. (2025). The Relevance of the Qur’an to Piaget’s Stages of Cognitive Development:
+A Critical Analysis and Perspective on Childhood Education. SALIHA Jurnal Pendidikan Agama Islam, 8(1),
+197–212. https://doi.org/10.54396/saliha.v8i1.1593
+Yusuf, M., Witro, D., Diana, R., Santosa, T. A., Alfikri, A. â€˜Alwiyah, & Jalwis, J. (2020). Digital Parenting to Children
+Using
+The
+Internet.
+Pedagogik Journal of Islamic Elementary School,
+3(1),
+1–14.
+https://doi.org/10.24256/pijies.v3i1.1277
+
+Page 877 of 877
+
+

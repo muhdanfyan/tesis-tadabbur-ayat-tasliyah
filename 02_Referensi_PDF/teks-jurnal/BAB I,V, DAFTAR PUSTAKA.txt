@@ -1,0 +1,4195 @@
+SURAH Al-INSYIRAH DAN PEMECAHAN MASALAH
+
+SKRIPSI
+Diajukan kepada Fakultas Ushuluddin
+Universitas Islam Negeri Sunan Kalijaga
+Untuk Memenuhi sebagian Syarat Guna Memperoleh Gelar
+Sarjana Theologi Islam
+
+Oleh:
+Ichda Nauvilla
+NIM: 03531488
+
+JURUSAN TAFSIR HADIS
+FAKULTAS USHULUDDIN
+UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA
+YOGYAKARTA
+2008
+
+ii
+
+PERSEMBAHAN
+
+Karya Tulis ini Dipersembahkan Kepada:
+
+Kedua orang tuaku,
+Bapak Lukman Hakim (alm.)
+Dan Mama Nur Rakhmah,
+Rakhmah,
+ketulusan, doa, kesabaran yang tiada henti...
+serta senyum dan keke-banggabangga-an kalian...
+kalian...
+membuatku bersinar menatap masa depan...
+
+Saudaraku,
+audaraku,
+De’Nauval,
+De’Nauval,
+semangat dan doa mu...
+mu...
+membuat “aku”
+aku” menjadi “aku”
+aku” yang sebenarnya....
+
+iii
+
+MOTTO
+
+©!$# (#θà)¨?$#uρ (#θäÜÎ/#u‘uρ (#ρãÎ/$|¹uρ (#ρçÉ9ô¹$# (#θãΨtΒ#u šÏ%©!$# $yγ•ƒr'‾≈tƒ
+∩⊄⊃⊃∪ šχθßsÎ=øè? öΝä3ª=yès9
+"Hai orang-orang yang beriman, Bersabarlah
+kamu dan kuatkanlah kesabaranmu dan
+tetaplah bersiap siaga (di perbatasan
+negerimu) dan bertakwalah kepada Allah,
+supaya kamu beruntung".
+(Q.S Ali-Imran; 200)
+
+"Orang
+
+yang berbakat gagal, melihat
+masalah sebagai hambatan. Sedangkan
+orang sukses melihat masalah sebagai
+tantangan yang membuat hidup lebih
+bergairah"
+
+iv
+
+PEDOMAN TRANSLITERASI ARAB-LATIN
+
+Transliterasi kata-kata Arab yang dipakai dalam penyusunan Skripsi ini
+berpedoman pada Surat Keputusan Bersama Menteri Agama dan Menteri
+Pendidikan dan Kebudayaan Republik Indonesia Nomor: 158/1987 dan
+0543b/U/1987.
+
+A. Konsonan Tunggal
+
+Huruf
+Arab
+
+Nama
+
+Huruf Latin
+
+Nama
+
+‫ا‬
+
+Alif
+
+Tidak dilambangkan
+
+Tidak dilambangkan
+
+‫ب‬
+
+ba’
+
+b
+
+be
+
+‫ت‬
+
+ta’
+
+t
+
+te
+
+‫ث‬
+
+sa’
+
+ׁs
+
+es (dengan titik di atas)
+
+‫ج‬
+
+jim
+
+j
+
+je
+
+‫ح‬
+
+ha’
+
+h
+
+ha (dengan titik di bawah)
+
+‫خ‬
+
+kha
+
+kh
+
+ka dan ha
+
+‫د‬
+
+dal
+
+d
+
+de
+
+‫ذ‬
+
+Ŝal
+
+Ŝ
+
+zet (dengan titik di atas)
+
+‫ر‬
+
+ra’
+
+r
+
+er
+
+‫ز‬
+
+zai
+
+z
+
+zet
+
+‫س‬
+
+sin
+
+s
+
+es
+
+‫ش‬
+
+syin
+
+sy
+
+es dan ye
+
+‫ص‬
+
+sad
+
+s
+
+es (dengan titik di bawah)
+
+‫ض‬
+
+dad
+
+d
+
+de (dengan titik di bawah)
+
+v
+
+‫ط‬
+
+ta
+
+t
+
+te (dengan titik di bawah)
+
+‫ظ‬
+
+za
+
+z
+
+zet (dengan titik di bawah)
+
+‫ع‬
+
+‘ain
+
+‘
+
+koma terbalik
+
+‫غ‬
+
+gain
+
+g
+
+ge
+
+‫ف‬
+
+fa
+
+f
+
+ef
+
+‫ق‬
+
+qaf
+
+q
+
+qi
+
+‫ك‬
+
+kaf
+
+k
+
+ka
+
+‫ل‬
+
+lam
+
+l
+
+‘el
+
+‫م‬
+
+mim
+
+m
+
+‘em
+
+‫ن‬
+
+nun
+
+n
+
+‘en
+
+‫و‬
+
+waw
+
+w
+
+w
+
+
+
+ha’
+
+h
+
+ha
+
+‫ء‬
+
+hamzah
+
+'
+
+apostrof
+
+‫ي‬
+
+ya
+
+y
+
+ye
+
+B. Konsonan Rangkap Karena Syaddah ditulis Rangkap
+
+‫"! دة‬
+
+ditulis
+
+Muta'addidah
+
+‫ّة‬$
+
+ditulis
+
+‘iddah
+
+C. Ta’ marbutah di Akhir Kata ditulis h
+
+%&'(
+
+ditulis
+
+Hikmah
+
+%)$
+
+ditulis
+
+'illah
+
+%"‫ء آ*ا‬,-.‫و‬/‫ا‬
+
+ditulis
+
+Karāmah al-auliyā'
+
+‫ة‬,‫* زآ‬01.‫ا‬
+
+ditulis
+
+Zakāh al-fitri
+
+ditulis
+
+a
+
+D. Vokal Pendek
+
+__َ___
+
+fathah
+
+vi
+
+34
+
+ditulis
+
+fa'ala
+
+ditulis
+
+i
+
+ditulis
+
+Ŝukira
+
+ditulis
+
+u
+
+ditulis
+
+yaŜhabu
+
+Fathah + alif
+
+ditulis
+
+ā
+
+‫ه‬
+
+ditulis
+
+jāhiliyyah
+
+Fathah + ya’ mati
+
+ditulis
+
+ā
+
+ditulis
+
+tansā
+
+Kasrah + ya’ mati
+
+ditulis
+
+i
+
+‫آ‬
+
+ditulis
+
+karim
+
+Dammah + wawu mati
+
+ditulis
+
+ū
+
+‫وض‬
+
+ditulis
+
+furūd
+
+Fathah + ya’ mati
+
+ditulis
+
+ai
+
+
+
+ditulis
+
+bainakum
+
+Fathah + wawu mati
+
+ditulis
+
+au
+
+‫ل‬
+
+ditulis
+
+qaul
+
+kasrah
+
+_____
+
+ِ
+*‫ذآ‬
+__ُ___
+
+dammah
+
+7‫ه‬9:
+
+E. Vokal Panjang
+
+1
+
+2
+
+
+3
+
+4
+
+F. Vokal Rangkap
+1
+
+2
+
+G. Vokal Pendek yang Berurutan dalam Satu Kata dipisahkan dengan
+Apostrof
+
+;!<‫اا‬
+
+ditulis
+
+vii
+
+a’antum
+
+‫ّت‬$‫ا‬
+
+ditulis
+
+u’iddat
+
+=>. ;?*'@
+
+ditulis
+
+la’in syakartum
+
+H. Kata Sandang Alif + Lam
+Diikuti huruf Qamariyyah maupun Syamsiyyah ditulis dengan menggunakan
+huruf "al".
+
+‫*ان‬A.‫ا‬
+
+ditulis
+
+al-Qur’ān
+
+‫س‬,-A.‫ا‬
+
+ditulis
+
+al-Qiyās
+
+‫ء‬,&B.‫ا‬
+
+ditulis
+
+al-Samā’
+
+C&D.‫ا‬
+
+ditulis
+
+al-Syam
+
+I. Penulisan Kata-kata dalam Rangkaian Kalimat
+Ditulis menurut penulisannya.
+
+‫*وض ذوى‬1.‫ا‬
+
+ditulis
+
+Ŝawi al-furūd
+
+3‫ اه‬%FB.‫ا‬
+
+ditulis
+
+ahl al-sunnah
+
+viii
+
+KATA PENGANTAR
+
+Alhamdulillah, segala puji bagi Allah swt., Tuhan yang menjadikan aku ada
+di dunia ini untuk mengabdi dan berserah diri sepenuhnya kepada-Nya. Shalawat
+serta salam dihaturkan kepada Nabi Muhammad saw. Nabi pembawa altar
+kesucian di alam ini atas izin-Nya. Tak lupa kepada sahabat serta keluarganya
+yang mendukung perjalanan suci beliau, hingga akhirnya menemukan tempat
+terindah disisi Allah swt.
+Dengan terselesainya karya “mungil” ini, maka itu petanda selesai sudahlah
+masa studi dan pengembaraan mencari ilmu di UIN sunan kalijaga Yogyakarta
+ini. Tetapi, dengan tekad dan semangat yang kuat, penulis tidak akan berhenti
+belajar dan terus belajar, menikmati proses keilmuan sampai pada akhirnya jiwa
+ini tak bertepi dalam raga.
+Karya ini merupakan hasil jerih payah dan “pengendapan” yang begitu lama
+selama masa studi, sehingga rasa bahagia membuncah ketika karya ini akhirnya
+dapat tertuang dalam tulisan, dapat dibaca, serta (setidaknya) dapat menambah
+khazanah keilmuan dalam Islam, meskipun karya ini dirasa belum maksimal.
+Tentu saja, terselesaikannya skripsi ini tidak bisa menafikan orang-orang
+yang secara langsung maupun tidak langsung ikut andil membantu penulis, baik
+teknis mapun non-teknis. Karenanya, tidak ada kata yang pantas terucap kecuali
+ucapan terima kasih penulis haturkan kepada mereka. Kepada bapak Prof. Dr. H.
+Amin Abdullah, selaku Rektor UIN Sunan Kalijaga Yogyakarta; Dekan Fakultas
+Ushuluddin, ibu Dr. Sekar Ayu Aryani, MA.; kepada Ketua Jurusan (Kajur) Tafsir
+
+ix
+
+Hadis, bapak Dr. Suryadi, M.Ag., terimaksih atas kepedulian serta motivasinya;
+kepada Sekretaris Jurusan (Sekjur) Tafsir Hadis, bapak M. Alfatih Suryadilaga,
+M.Ag., terima kasih telah memberikan dua pembimbing yang baik, serta kritik
+konstruktifnya. Kepada Pembimbing Akademik, bapak Drs. Indal Abrar, MA,
+terimakasih atas bimbingannya selama ini.
+Kepada pembimbing I sekaligus ketua sidang, bapak Prof. Dr. Muhammad
+Chirzin, M.Ag., yang besedia meluangkan waktu untuk membaca skripsi penulis
+di sela-sela kesibukannya, serta ketelatenannya membimbing penulis; kepada
+pembimbing II, bapak Afdawaiza, M.Ag, yang telah sabar membimbing penulis.
+Kepada keduanya, secara khusus penulis haturkan banyak terimakasih atas
+semuanya, serta atas berbagai saran dan kritik yang konstruktif, sehingga penulis
+dapat yakin bahwa skripsi ini layak untuk di baca. Serta tak lupa pada bapak
+Fauzan Naif M.Ag selaku penguji 1 serta bapak M, Hidayat Noor M.Ag selaku
+Penguji II terimakasih atas pertanyaan yang telah di jukan pada penulis, semoga
+ilmunya bermanfaat amiin.
+Kepada semua dosen fakultas Ushuluddin, terutama dosen jurusan Tafsir
+Hadis, penulis haturkan banyak terimakasih atas doa dan motivasinya selama
+masa studi, baik secara langsung maupun tidak, dan atas “curahan” ilmunya, baik
+melalui diskusi, pengajaran, seminar, dan lain sebagainya. Karena dengan itu,
+penulis bisa sampai pada penulisan skripsi ini.
+Kepada kedua orang tua penulis, papa Lukman Hakim. (almarhum); aku
+yakin, di “alam sana”, engkau akan bangga dan tersenyum melihatku seperti ini.
+Mama Nur Rochmah; yakinlah, bahwa aku bisa membahagiakanmu dengan
+
+x
+
+sepenuh hati. Walau aku tahu, itu takkan pernah bisa mengganti segala hal yang
+pernah engkau berikan kepadaku. Kepada keduanya, kuhaturkan terima kasih
+“yang tak bertepi” atas do’a yang tak pernah berhenti terucap, dan kesabaran yang
+tak pernah tergores penyesalan.
+Kepada saudaraku, Nauval Tsani, terimakasih atas kepercayaannya
+Semangat dan dukungan kalian masih aku butuhkan, sampai nanti jiwa dan raga
+ini kembali kepada-Nya. Jangan pernah berhenti untuk memberikan keceriaan dan
+kebahagiaan padaku. Tante Masbihah dan Om Satori Abdurrouf terima kasih atas
+semua ilmunya yang telah kalian berikan pada penulis, dengan kesabaran kalian
+akhirnya penulis bisa menyelesaikan karya ini, terima kasih juga atas doanya
+kalian. Ponakan-ponakan kecil yang lucu dan imut yang kadang membuat penulis
+jadi terinspirasi atas karya ini, dengan keluguan dan keceriaan mereka yang selalu
+mengajariku pada kesabaran, terima kasih ya ( Isfi, Fadia, Nadhif, Sofwa, Asfa,
+Hamas si kecil yang lucu), Kemudian kepada kakak-kakak kepada semuanya,
+kuucapkan banyak terimakasih atas doa serta motivasinya yang tiada henti.
+Temen-temen KKN (Zein, Husni, Jalil, Slamet, Munif, Qori, Fika, Yeti, Wahidah)
+kalian sangat lucu-lucu, hingga jika aku berada di dekat kalian, tawa ini seakan
+tak bisa “tersembunyi”
+Anak kelas TH-C yang tidak bisa disebutkan satu persatu, terima kasih atas
+semuanya, do’a dan perhatian serta sindiran kalian....yuk kita wisuda bareng
+Nasriah dan Dewi (teman yang selalu solid dalam persahabatan, semangat
+kawan!! Perjuangan Qita masih panjang...).
+Mba Hasni (seorang Pengajar Psikologi yang mengajariku tentang
+keikhlasan dan yang telah menuntun dengan Psikologinya pada skripsi ini hingga
+
+xi
+
+selesai), teman-teman UAD, khususnya Nilta, Ayuk, Ali, Baety, Honey
+walaupun kita jarang ketemu lagi, akan tapi komunikasi kalian jangan putus di
+tengah jalan...ok!, Wiwit makacih atas komputernya maaf kalau sering diganggu
+waktu mengerjakan tugas kampuz dan untuk teman-teman Asrama Darush
+Shalihat yang luar biasa, dan yang dapat membuatku yakin bahwa aku dapat
+membahagiakan orang-orang disekitarku. Untuk semuanya, terimakasih atas
+motivasi, semangat, kebersamaan serta kerelaannya berbagi kisah denganku.
+Akhirnya, dengan harapan penuh kepada-Nya, semoga skripsi ini
+memberikan manfaat yang berarti bagi para pembaca, khususnya bagi penulis
+sendiri. Kepada Tuhan-lah segalanya berserah diri.
+
+Yogyakarta, 15 Oktober 2008
+Penulis,
+
+ABSTRAK
+
+Skripsi yang berjudul: Surah Al-Insyirah Dan Pemecahan Masalah
+Masalah ekonomi menjadi sorotan semua warga negara di Indonesia dengan
+tingkat kemiskinan sangat tajam. Dari tahun ketahun sampai sekarang belum
+menemukan pemecahan masalahnya. Kehidupan masyarakat semakin kecil, biaya
+semua semakin melonjak bahkan sampai melakukan perbuatan apa saja untuk bisa
+mendapatkan yang dicapai, dengan ini masalah akan semakin kompleks.
+Kemiskinan bisa memberikan dampak negatif pada kehidupan. Frustasi bisa
+menjadikan hidup kurang tentram dan nyaman. Kemungkinan menyebabkan
+menjadi tekanan mental. Tekanan ini akan menimbulkan kehidupan keputusasaan
+dalam menjalani hidup. Oleh karena itu perlu diimbangi dengan tindakan-tindakan
+positif. Permasalahan bukan pada kemiskinan akan tetapi pada jiwa seseorang
+yang membutuhkan ketenangan, melakukan perbuatan apa pun dan dilakukan
+dengan jiwa tenang maka, akan tercapai apa yang diharapkan.
+Al-Quran telah menjelaskan tentang kehidupan masyarakat, dalam AlQuran seseorang yang mempunyai masalah yang besar, janganlah masalah itu
+dianggap sebuah cobaan, akan tetapi dianggap sebagai nikmat sebagaimana telah
+disebutkan dalam surah Al-Insyirah. Ayat ini merupakan surah Makkiyah. Terdiri
+dari 8 ayat menjelaskan tentang kelapang dada yang telah diperoleh Nabi, bahkan
+bukan hanya untuk Nabi akan tetapi manusia pada umumnya akan mendapatkan.
+Tujuan dari penelitian secara umum, yaitu untuk mengetahui isi kandungan
+sah Al-Insyirah yang dikaitkan dengan kehidupan sehari-hari, melalui ini, penulis
+melakukan pelacakan terhadap pendapat-pendapat maupun melalui buku.
+Walapun tidak mudah akan tetapi penulis mencoba menggunakan metode
+mendiskripsikan( mengutip langsung pendapat mufasir) kemudian dianalisis.
+Untuk lebih jauh memahami pemikiranya, penulis menggunakan pendekatan
+history, sebagaimana sumber primer dalam skripsi ini adalah Al-Qur’an,
+Murthadha Muthahari dalam buku Penafsiran Surah-surah pendek dan Usman
+Najati dengan buku Al-Quran dan ilmu jiwa, Psikologi Qurani. Sedangkan
+pendekatan dengan menggunakan metode history, yaitu dengan menggunakan
+rujukan-rujukan dan diambil intisarinya.
+Surah al-Insyirah disini berkaitan dengan ayat penggugah jiwa, Sebesar apa
+pun masalah tergantung pada cara menanggapinya. Kalau ditanggapi dengan
+positif, sabar dan selalu bersyukur maka masalah itu akan terasa ringan, begitu
+juga sebaliknya. Dalam psikologi suatu masalah pasti ada hubunganya dengan
+emosi.
+Dengan cara ini, penulis akan mengenalkan bahwa setiap masalah jangan
+dilihat dari masalahnya akan tetapi dilihat dari bagaimana cara seseorang
+menyikapinya, karena masalah itu sebagian dari ujian kehidupan manusia.
+Dianjurkan manusia selalu berpikir positif dalam segala hal.
+
+DAFTAR ISI
+
+HALAMAN JUDUL ..................................................................................... i
+HALAMAN NOTA DINAS ......................................................................... ii
+HALAMAN PENGESAHAN ...................................................................... iii
+TRANSLITERASI ....................................................................................... iv
+HALAMAN MOTTO .................................................................................. viii
+HALAMAN PERSEMBAHAN .................................................................. ix
+KATA PENGANTAR .................................................................................. x
+ABSTRAK .................................................................................................... xiii
+DAFTAR ISI ................................................................................................. xiv
+BAB I :PENDAHULUAN
+A. Latar Belakang Masalah ........................................................ 1
+B. Rumusan Masalah ................................................................... 11
+C. Tujuan dan Kegunaan Penelitian ........................................... 11
+D. Telaah Pustaka ......................................................................... 11
+E. Metode Penelitian ..................................................................... 16
+F. Sistematika Penulisan .............................................................. 17
+BAB II : PROBLEM KEHIDUPAN MANUSIA
+A. Masalah Sosial .......................................................................... 19
+B. Masalah Kemiskinan ............................................................... 35
+BAB III: SEPUTAR SURAH ALAL-INSYIRAH
+A. Hal yang Berkaitan dengan Surah AlAl-Insyirah .................... 38
+B. Penafsiran Surah AlAl-Insyirah ................................................ 41
+C. Penafsiran Ulama .................................................................... 53
+1. Tafsir Ayat Pertama ...................................................... 54
+2. Tafsir Ayat Kedua ......................................................... 57
+
+3. Tafsir Ayat Ketiga ......................................................... 60
+4. Tafsir Ayat Keempat ..................................................... 61
+5. Tafsir Ayat Kelima dan Keenam .................................. 63
+6. Tafsir Ayat Ketujuh ....................................................... 65
+7. Tafsir Ayat Kedelapan ................................................... 67
+D. Pesan Kandungan Surah AlAl-Insyirah .................................... 73
+BAB IV: SURAH ALAL-INSYIRAH DAN PEMECAHAN MASALAH
+A. Kesulitan dan Kemudahan ...................................................... 78
+B. Pemecahan Masalah Menurut Psikologi ............................... 81
+C. Surah AlAl-Insyirah dalam Kebermaknaan Hidup ................. 89
+D. Pandangan dan Wacana Psikologi Islam .............................. 94
+BAB V : PENUTUP
+A. Kesimpulan ............................................................................. 101
+B. Saran-saran ............................................................................ 103
+DAFTAR PUSTAKA .................................................................................. 105
+DAFTAR RIWAYAT HIDUP ................................................................... 109
+
+1
+
+BAB I
+PENDAHULUAN
+
+A.
+
+Latar Belakang Masalah
+Manusia senantiasa menghadapi masalah dalam kehidupannya. Idealnya
+sebagai seorang mukmin, manusia seharusnya mengetahui bahwa Allah
+menciptakan dunia sebagai ujian belaka bagi manusia, kesulitan yang diberikan
+Allah adalah untuk menguji manusia1. Kesulitan tersebut dibuat untuk
+membedakan antara mereka yang benar-benar beriman dan mereka yang memiliki
+penyakit di hatinya, yaitu mereka yang tidak lulus dalam menyakini keimanan
+mereka2.
+Adapun kesulitan yang sering dilalui seorang mukmin kadang membuat
+hati dan jiwanya tidak tenang, seorang mukmin bisa menjalani kesulitan dengan
+keimanan pada Allah. Berbagai macam kesulitan yang dihadapi manusia mulai
+dari mencari pekerjaan, usaha dagang yang bangkrut, sakit yang diderita dan
+banyak lagi kesulitan lain. Kesulitan ini membuat frustasi dan stres bagi
+kebanyakan orang, karena mereka tidak memiliki keyakinan hidup kepada Allah.
+Terkadang bentuk ujian itu berupa kesenangan akan tetapi ada juga yang dalam
+bentuk kesusahan3. Ujian yang berbentuk kesenangan itu, suatu kehidupan
+manusia yang dihadapi dengan penuh rintangan, Sebagai contoh, orang yang
+penuh dengan harta akan tetapi tidak bisa menjaganya dengan baik. Maksudnya
+1
+
+Hendra Setiawan, Agar selalu di tolong Allah ( Bandung: Jabal, 2007) hlm. 55
+
+3
+
+Hendra Setiawan, Cara Nabi Menghadapi Kesulitan Hidup ( Bandung: Jabal, 2007 )
+
+2
+
+hlm. 51
+
+2
+
+ujian yang diberikan Allah berupa kesenangan akan tetapi itu semua tergantung
+pada cara mengatasinya. Adapun ujian yang berbentuk kesusahan itu ujian yang
+hanya dilihat dari sisi negatif sehingga besar kecil ujian itu akan dilalui dengan
+sulit. Contoh orang yang diberi ujian oleh Allah yang dimaknai sebagai kesulitan
+hidup.
+Allah berfirman “dan kami bagi-bagi mereka di dunia ini menjadi
+beberapa golongan, di antaranya ada yang tidak demikian. Dan kami coba mereka
+dengan yang baik-baik dan yang buruk-buruk, agar mereka kembali”. 4
+Ujian yang berbentuk kesenangan itu suatu kehidupan manusia yang
+dihadapi dengan penuh rintangan. Sebagi contoh orang kaya yang penuh dengan
+harta sehingga tidak bisa menjaga hartanya dengan baik. Maksudnya ujian yang
+diberikan Allah berupa kesenangan akan tetapi itu semua tergantung pada cara
+mengatasinya. Adapun ujian yang berbentuk kesusahan itu ujian yang hanya
+dilihat dari sisi negatif sehingga besar dan kecil ujian itu akan dilalui dengan sulit,
+Contohnya orang yang diberi ujian oleh Allah yang dimaknai sebagai kesulitan
+hidup. Janganlah seseorang memandang ujian dalam arti kesulitan yang berat,
+akan tetapi kesulitan tersebut dilihat dari bagaimana orang tersebut memandang
+dan menyelesaikan sebuah persoalan dengan mengingat janji dan pahala serta
+kemudahan dari Allah.
+Setiap manusia pasti pernah mengalami saat sulit dalam hidupnya.
+kehidupan di alam dunia itu penuh dengan rintangan yang harus dihadapi
+manusia. Ujian yang diberikan oleh Allah kepada manusia sesuai dengan kadar
+manusia tersebut, tergantung dari bagaimana seseorang mengatasinya, Bahkan
+
+4
+
+QS. Al-A’raf ;168
+
+3
+
+ujian yang dilalui oleh banyak orang akan dilakukan dengan penuh kesabaran
+dalam menghadapi ujian kehidupan. Banyak manusia yang menghadapi masalah
+dan ujian justru akan melahirkan seseorang yang berjiwa besar,5 karena ia telah
+mengalami berbagai macam ujian yang telah dilalui dengan baik, dan mengatahui
+bagaimana mengatasi masalahnya. Sebaliknya jika menghadapi ujian dengan
+tergesa-gesa hasilnya tidak akan mendapatkan apa-apa, justru lebih buruk dari apa
+yang diharapkan.
+Pada dasarnya Allah telah memberikan pedoman kepada manusia dalam
+menghadapi masalah hidup. Allah menurunkan surah Al-Insyirah yang di
+dalamnya berisi tentang kelapangan dada. Lapang dada yang diberikan kepada
+Nabi Saw akan tetapi bukan menjadi pedoman beliau semata, akan tetapi juga
+diberikan kepada umatnya yang mengalami ujian hidup. Allah menjamin bahwa
+setiap orang yang mengalami ujian pasti akan ada keringanan dan pemecahan
+masalah kalau semua itu dihadapi dengan sabar dan tawakal pada Allah sehingga
+beliau diberi kelapangan dada.
+Pedoman yang diberikan Allah itu semua diulas dalam surah al-Insyirah,
+yang memuat tentang bagaiman seseorang menghadapi masalah dalam hidupnya
+dan sempitnya dada dikarenakan banyak masalah dan beban yang diembannya.
+Allah mengetahui bahwa manusia membutuhkan pertolongan, bantuan dan
+pengawasan dari Allah. Oleh karena itu Allah memberikan jaminan problem
+solving terhadap permasalahan manusia tersebut. Di samping itu, Allah senantiasa
+berlemah lembut dan berkasih sayang pada umatnya karena sesungguhnya Allah
+
+5
+
+Hendra Setiawan, Agar selalu di Tolong Allah., Ibid., hlm.106
+
+4
+
+memberikan kemudahan yang selalu mengiringi kesulitan serta menghilangkan
+beban beratnya di dada manusia yang senantiasa memohon pertolongan-Nya.
+“Sesungguhnya sesudah kesulitan ada kemudahan”.6 Kalimat ini
+mengisyaratkan pada Rasulullah bahwa setiap kesulitan, penderitaan ada
+kemudahan yang diberikan oleh Allah. Maka kerjakanlah suatu pekerjaan dengan
+sungguh-sungguh dan selalu mengharapkan ridla pada Ilahi. Manusia dituntun
+untuk senantiasa optimis dan pantang menyerah dalam kehidupan.
+Manusia menghadapi persoalan yang memberatkan jiwanya, akan
+membuat keadaan manusia tersebut menjadi stres dan cemas. Akan tetapi Allah
+telah menurunkan surah al-Insyirah sebagai pedoman dalam menghadapi berbagai
+macam persoalan kehidupan.7
+Ujian merupakan sarana dari Allah untuk membina orang mukmin
+membersihkan hati dari kotoran dan menyembuhkan jiwa dari penyakit. Dengan
+banyaknya ujian yang diberi oleh Allah, maka Allah menjanjikan pemecahan
+masalah seperti yang dijelaskan dalam surah al-Insyirah.
+Surah al-Insyirah menjadi acuan untuk memecahkan masalah. Surat alInsyirah} menekankan pada kelapangan hati dan jiwa seseorang yang sedang
+gelisah.8 Dalam al-Qur’an diterangkan bahwa nabi Saw pada saat itu menjumpai
+kaum musrikin yang menghina kaum muslimin karena kekafirannya. Dalam
+riwayat lain juga disebutkan bahwa Nabi bersabda: bergembiralah kalian, karena
+
+6
+
+QS. Al-Insyirah; 6 QS. Al-Insyirah yang menjelasan bahwa Allah selalu memberi jalan
+keluar bagi orang yang beriman. Dalam agar selalu di tolong Allah, hlm. 63
+7
+8
+
+Hendra Setiawan, Agar Selalu ditolong Allah (Yogyakarta: Jabal, 2004), hlm 18
+
+5
+
+akan datang kemudahan bagi kalian. Kesusahan tidak akan mengalahkan dua
+kemudahan.9
+Kesulitan-kesulitan hidup yang dihadapi oleh manusia memerlukan
+kearifan dan pengggunaan akal pikiran yang sehat serta diperkuat dengan tawakal
+pada Allah sehingga ketika menghadapi hambatan, manusia tetap berpegang teguh
+pada prinsip-prinsip, disertai dengan sikap optimis dan tabah maka berlakulah
+ketetapan Allah. Apabila kesulitan telah mencapai puncaknya maka, akan sirna
+10
+
+dan disusul dengan kemudahan.
+
+Dalam disiplin ilmu di dunia turut mencari upaya dalam permasalahan
+manusia, kesehatan mental dalam hal ini sangat berpengaruh untuk penyesuaian
+manusia terhadap dunia. Hal ini diulas dalam teori-teori psikologi yang berupaya
+membahas tentang keadaan yang dialami manusia seperti stres, depresi, cemas
+dan kejiwaan lainya ( schizophrenia ).11
+Masalah yang sering dihadapi oleh manusia pada zaman sekarang
+diakibatkan oleh timbulnya masalah sosial yang datang dari pencemaran alam
+akibat limbah industri dan krisis dalam pribadi keluarga. Akibatnya banyak
+menyebabkan penyakit dalam jiwa seseorang dan akan mengkibatkan beban
+psikologi, seperti gelisah dan keluhan lainya. Untuk mengatasi hal ini mereka
+melakukan berbagai upaya melakukan kegiatan yang berlebihan dan melarikan
+diri dari kenyataan hidup.
+9
+
+Shaleh dan Ahmad Dahlan, Asba||B A||N Nuzu||l (Bandung: Diponegoro, 1985) hlm 595
+
+10
+
+Hendra Setiawan, Agar Selalu di Tolong Allah, Ibid., hlm. 48
+
+11
+http//www.google.com, Reina Wangsadjaja, Stress Rumah belajar Psikologi diakses 4
+Agustus 2008
+
+6
+
+Banyaknya masalah yang dihadapi akan mengakibatkan timbulnya rasa
+cemas dan gelisah. Perasaan tersebut biasanya diakibatkan oleh ulah diri sendiri.
+Dalam pandangan psikologi, rasa cemas dianggap sebagai penyebab utama dari
+gangguan kejiwaan. Kecemasan sering disebut kehampaan hidup yang
+diakibatkan karena orang yang bersangkutan tidak berhasil menemukan makna
+hidup.12 Kecemasan bisa menjadikan rasa takut pada seseorang yang menjalani
+hidup yang penuh kesulitan. Gangguan kecemasan (anxiety disorders) merupakan
+gangguan psikologis yang dicirikan dengan ketegangan motorik ( gelisah, gemetar
+dan ketidak mampuan untuk rileks.13 Umumnya gangguan yang berlarut-larut
+akan menimbulkan perasan cemas, stres, gelisah dan takut. Keadaan cemas yang
+berat dan berlangsung lama akan menurunkan kemampuan efisiensi seseorang
+dalam menjalankan fungsi-fungsi hidupnya yang akhirnya akan menimbulkan
+gangguan jiwa.14
+Berbicara mengenai gangguan jiwa seseorang, keadaan ini berkaitan
+dengan teori psikologi yang berupaya membahas masalah stres. Seringkali stres
+didefinisikan dengan hanya melihat dari stimulus atau respon yang dialami
+seseorang. Definisi stres dari stimulus terfokus pada kejadian di lingkungan
+seperti misalnya bencana alam, kondisi berbahaya, penyakit, atau berhenti dari
+kerja. Definisi ini menyangkut asumsi bahwa situasi demikian memang sangat
+
+12
+
+Hanna Djumhana Bastman, Integrasi Psikologi untuk Islam: Menuju psikologi Islam,
+Pengantar. Jamaludin Ancok ( Yogyakarta: Pustaka Pelajar, 1997) hlm. 155-156
+13
+
+John W Santrock, Life Span Development; perkembangan masa hidup, alih bahasa
+Juda Damanik dkk (Jakarta: Erlangga, 2002) hlm. 230
+14
+
+http//www.google.com, Artikel Psikologi.htm. diakses tgl 6 Agustus 2008
+
+7
+
+menekan tapi tidak memperhatikan perbedaan individual dalam mengevaluasi
+kejadian. Sedangkan definisi stres dari respon mengacu pada keadaan stres, reaksi
+seseorang terhadap stres, atau berada dalam keadaan di bawah stres.15
+Stres sangat mempengaruhi pada iklim dan lingkungan, di mana
+perubahan ini dapat mengakibatkan stres karena sulit untuk menyesuaikan diri.
+Begitu juga karena bencana alam bisa mengakibatkan stres karena seseorang
+terganggu secara fisik dan psikologi.16
+Stres menimbulkan gangguan pada persepsi, sehingga stres dibagi menjadi
+beberapa hal yaitu; stres karena lingkungan, stres psikososial, stres kepribadian,
+kepribadian seperti ini bisa menimbulkan stres karena setiap suatu masalah dalam
+hidupnya dapat dianggap sebagai suatu yang menghambat keinginan dalam
+hidupnya.17
+Stres berkepanjangan akan menyebabkan ketegangan dan kekuatiran yang
+terus-menerus. Menurut istilah psikologi, stres berkepanjangan ini disebut stres
+kronis18. Stres kronis sifatnya menggerogoti dan menghancurkan tubuh, pikiran
+
+15
+
+http// www.google.com, Reina Wangsadjaja, Stres. Dalam Lazarus dan Folkman, 1984
+Diakses 5 Agustus 2008
+16
+
+Mark Durant dan David H Barlow, Psikologi Abnormal (Yogyakarta: Pustaka
+Pelajar,2006)
+17
+
+http//www.google.com
+
+18
+Menurut Miller (1997), seorang peneliti asal Amerika, akar dari stress kronis ini adalah
+dari pengalaman traumatis di masa lalu yang terinternalisasi, tersimpan terus dalam alam bawah
+sadar. Hal ini jadi berbahaya karena orang jadi terbiasa "membawa" stress ini kemana saja, dimana
+saja dan dalam situasi apapun juga; stress kronis ini dianggap sudah menjadi bagian dari
+kehidupan mereka sehingga tidak ada upaya untuk mencari jalan keluarnya lagi. Singkatnya, orang
+yang menderita stress kronis ini sudah hopeless and helpless. Tidak heran jika para penderita stress
+kronis akhirnya mengambil keputusan untuk bunuh diri, atau meninggal karena serangan jantung,
+stroke, kanker, atau tekanan darah tinggi. Jadi, amatilah diri Anda, apakah Anda termasuk orang
+yang suka membiarkan masalah tanpa dicari jalan keluar yang positif. Dalam www.epsikologi.com, Jacinta F. Rini, Stress Kerja, di akses 5 Agustus 2008
+
+8
+
+dan seluruh kehidupan penderitanya secara perlahan-lahan. Stres kronis umumnya
+terjadi di seputar masalah kemiskinan, kekacauan keluarga, terjebak dalam
+perkawinan yang tidak bahagia, atau masalah ketidakpuasan kerja dan lain-lain.
+Akibatnya, orang akan terus-menerus merasa tertekan dan kehilangan harapan.19
+Sejalan dengan itu, dalam hal ini ilmu Psikologi yang diakui sebagai
+disiplin yang mandiri ternyata telah menjadi cabang yang memperlihatkan
+sumbanganya dalam memecahkan problem serta meningkatkan sumberdaya
+manusia.20 Menurut Zakiyah Darajat, psikologi mempelajari kesadaran agama
+pada seseorang yang pengaruhnya terlihat dalam kelakuan dan tindakan orang
+dalam hidupnya.21 Kehidupan ini tidak akan pernah lepas dari berbagai masalah
+dan kesulitan. manusia pasti akan diuji keimanannya dengan berbagai kesulitan
+dan ketakutan ujian keimanan. Ini bisa dikaitkan dengan kecerdasan spiritual atau
+bersikap teguh.
+Dengan adanya Spiritual Quotient maka ditemukan salah satu God spot22
+seperti yang telah diterangkan dalam QS.as-Sajdah (9)23 dalam otak manusia.
+Ditemukan God spot dalam otak manusia menurut Danah Zohar tidak menemukan
+adanya tuhan, melainkan menunjukan perkembangan otak untuk memiliki dan
+19
+
+www.e-psikologi.com, Jacinta F. Rini, Stress Kerja, di akses 5 Agustus 2008
+
+20
+
+Jalaludin, Psikologi Agama (Jakarta: Raja Grafindo Persada, 1998), hlm. 9
+
+21
+
+Ibid., hlm 17.
+
+22
+
+God spot yaitu suara hati manusia itu pada dasarnya bersifat universal dengan catatan
+manusia tersebut telah mencapai titik fitrah dan terbebes dari segala paradigma dan
+belenggu.dalam Ari Ginanjar ESQ Berdasarkan 6 rukun Iman dan 5 rukun Islam (Jakarta: Arga
+2001), hlm 68
+23
+
+QS as-Sajdah “Kemudian Ia memberinya bentuk (dengan perbandingan ukuran yang
+baik) dan meniupkan kedalam Roh-Nya. Ia jadikan bagi kamu pendengaran, penglihatan dan
+perasaan hati.
+
+9
+
+menggunakan kepekaan terhadap makna. Kehidupan spiritual sangat berkaitan
+dengan ketenangan jiwa seseorang,
+Keimanan atau spiritualitas memiliki peran untuk mengatasi berbagai
+problem kejiwaan manusia modern. Dikatakan oleh Muhammad ‘Utsman Najati
+bahwa keimanan kepada Tuhan merupakan kekuatan luar biasa yang membekali
+manusia yang religius dengan kekuatan ruhaniah yang menopangnya dalam
+menanggung beban hidup, menghindarkannya dari keresahan yang menimpa
+banyak manusia modern yang didominasi oleh kehidupan materi dan persaingan
+keras guna meraih pendapatan materi, tapi pada saat yang sama ia membutuhkan
+hidangan ruhaniah.24
+Peran keimanan dalam mengatasi berbagai problem manusia jauh-jauh
+hari telah diperkenalkan oleh psikolog barat. Berbagai bukti empiris di barat dan
+di timur menunjukkan bahwa keberagaman, keimanan dan spiritualitas
+mengembangkan kepribadian seseorang dan sekaligus menurunkan problem
+psikologis yang dialaminya.
+Manusia membutuhkan psikoterapi. Dalam Kamus Bahasa Indonesia
+diartikan usaha penyembuhan secara psikologis dengan jalan memberikan
+nasehat. Pada dasarnya teknik psikoterapi Islami dapat dilakukan penggolongan
+pendekatan, yaitu pendekatan kognitif-behavioral, pendekatan yang menekankan
+pada penggunaan kesadaran atau akal pikiran manusia untuk membantu
+menyelesaikan masalah25
+
+24
+
+http//www.google.com, Sekilas Tentang Psikoterapi Islami, diakses tgl 4 Agustus 2008
+
+25
+
+http//www.google.com, Ibid.,
+
+10
+
+Psikoterapi Islami dapat diartikan sebagai upaya untuk mengatasi berbagai
+macam problem kejiwaan yang didasarkan pada pandangan dunia Islam.
+Psikoterapi Islam mempercayai bahwa keimanan dan kedekatan pada Allah akan
+menjadi kekuatan yang sangat berarti bagi upaya perbaikan problem kejiwaan
+seseorang, pencegah berbagai problem kejiwaan dan meyempurnakan kualitas
+hidup manusia. Di samping pendekatan psiko-spiritual (dengan keimanan dan
+kedekatan pada Allah), psikoterapi Islami juga disandarkan pada penggunaan akal
+dan usaha manusia, ini semua untuk memperbaiki kualitas kejiwaan seseorang.
+Pada dasarnya konsep tentang ilmu kejiwaan sudah dijelaskan dalam QS.
+Al-Insyirah. di dalam surat ini terkandung konsep problem solving dan
+memberikan pesan moral dalam memaknai hidup. Surah ini mengandung tentang
+anjuran bagi seseorang agar memiliki ketenangan jiwa dalam menghadapi setiap
+masalah dalam kehidupannya. Ketenangan jiwa adalah, sabar dan positif thinking,
+pantang menyerah akan segala kesulitan. Termasuk ke dalam sikap mental yang
+dimiliki manusia dalam menghadapi permasalahan. Jika dilihat dari psikologi,
+optimis dan sabar akan berpengaruh pada keberhasilan seseorang. Sedangkan
+konsep sikap jiwa yang diinginkan Allah telah ditegaskan lewat surah al-Insyirah
+yang didalamnya mengadung sisi problem solving. sikap jiwa yang dimaksud di
+sini adalah bagaimana cara seseorang dalam menghadapi masalah, yakni dengan
+menggunakan ketenangan jiwa. Di mana seorang mukmin ketika menghadapi
+ujian adalah dengan cara bertawakal pada Allah serta sabar. Maka dengan cara ini
+ia akan melihat hidup dengan lebih bermakna.
+B.
+
+Rumusan Masalah
+
+11
+
+Berdasar latar belakang di atas, penulis merumuskan beberapa
+permasalahan sebagai berikut:
+1. Apa kaitan surah al-Insyirah dengan pemecahan masalah dalam kehidupan
+manusia?
+2. Apa pesan moral surah al-Insyirah dalam kebermaknaan hidup?
+
+C.
+
+Tujuan dan Kegunaan Penelitian
+Dua batasan dan rumusan masalah di atas, dapat disimpulkan bahwa
+penelitian ini bertujuan untuk: Mengetahui bagaimana solusi dari permasalahan
+manusia yang terdapat dalam surah al-Insyirah
+Sedangkan kegunaan yang mungkin bisa diharapkan dari penyusunan skripsi ini:
+a. Memberikan sumbangan pemikiran kepada masyarakat luas tentang
+penjelasan dari surah al-Insyirah.
+b. Diharapkan dapat memberikan khazanah keilmuan dalam Islam, terutama
+dalam kajian tafsir.
+
+D.
+
+Telaah Pustaka
+Penelitian tentang tafsir surat al-Insyirah yang terletak pada juz ke-30 atau
+sering disebut dengan Juz’Amma dalam urutan ke 94, sepanjang pengetahuan
+penulis belum ada. Rujukan yang dipakai untuk mendukung penelitian ini adalah
+sebagai berikut:
+Mufasir al-Maraghi mengatakan surat al-Insyirah ini mengadung nikmatnikmat Allah yang diberikan pada Nabi Muhammad SAW, secara gamblang.
+
+12
+
+makna lapanglah dadamu. Lapang dada di sini tergantung dikaitkan dengan
+bagaimana seseorang dalam memaknai hidup.26
+Dalam Al-Quran dan terjemah Departemen Agama RI disebutkan surat alD{uha terdapat sebelum surah Al-Insyirah{. Ada tiga ayat yang senada dengan
+empat ayat surah Al-Insyirah. Setelah apa yang telah dipaparkan sebagian ahli
+tafsir, baik kalangan Syiah maupun Sunni, berpendapat bahwa Al-Insyirah} dan alD{uha adalah satu surah, bukan dua surah yang terpisah. Menurut beberapa riwayat
+dalam shalat fardlu diwajibkan membaca satu surah penuh setelah Al-Fatihah,
+akan tetapi Ahlus Sunah tidak mengenal syarat ini. Mereka menganggap bahwa
+membaca bagian ayat saja dari satu surah sudah dianggap cukup. Bahkan satu ayat
+setelah al-Fatihah dianggap telah memadai, kebiasaan yang kita saksikan para
+imam shalat jama’ah di Masjidil Haram dan Masjid Nabi. Sedangkan dalam fikih
+Syi’ah membaca surat setelah al-Fatihah itu wajib penuh. Oleh karena para
+mufasir lebih hati-hati dalam membaca surah al-Insyirah{ saja atau al-D{uha.27
+Sebagian dari mufasir28 yang menafsirkan surah ini di antaranya dalam tafsir
+Juz ‘Amma adalah Abduh. Buku ini mencoba membahas sepanjang orang yang
+mengalaminya memiliki jiwa untuk mencari cara penanggulanya menggunakan
+segala pikiran dan penelitian serta tindakan yang dapat dibenarkan oleh akal sehat,
+juga dengan tawakal kepada Allah. Sehingga tidak mudah melemah semangatnya
+ketika menjumpai suatu hambatan.
+26
+
+Ahmad Mustafa al-Maragi, Tafsir al-Maragi Juz 30 terj. ( Semarang: Rosda, 1987)
+
+27
+
+Lihat Al-Qur’an depag RI (Jakarta: Yayasan Penyelenggara Penterjemah al-Qur’an,
+1978), hlm 1071
+28
+
+Muhammad Ali-Ashabuni, Sofwah At-tafasir, ( Beirut Libanon: Dar al-Fikr,) hlm 547
+
+13
+
+Pembahasan tersebut yang tercakup dalam Al-Quran, di dalamnya yaitu:
+pertama, nikmat-nikmat Allah pada kaumnya. kedua, melaksanakan amal shaleh
+secara kontinyu. ketiga, tawakal dan sabar. keempat, selalu berpikiran positif.29
+Dalam Sepuluh Sikap Positif, Aa Qowi30 menyebutkan bahwa di balik
+suatu kesulitan pasti ada karunia kemudahan. Islam menyebutkan bahwa letak
+kemudahan itu ada di balik kesulitan. Dengan begitu jika ingin mengejar
+kemudahan seseorang harus berani menyongsong kesulitan. Akan tetapi kerap
+kesulitan dipandang dari sisi negatifnya, dan jarang orang berprasangka baik pada
+kesulitan tersebut padahal kalau dicermati banyak juga manfaatnya. Sedangkan
+kesulitan kadang diartikan sebagai kesialan atau nasib buruk. Adapun di sini
+banyak yang tidak tahu manfaat dari kesulitan. Dengan banyak kesulitan maka
+akan menimpa kesulitan pada diri manusia bahwa kesulitan akan membuat
+manusia jadi kuat.
+Tafsir F>i Z}hilalil Qur’an karya Sayid Qutub31 menyatakan dalam surah ini
+terdapat dua macam perasaan yang bercampur dalam jiwa, di antaranya perasaan
+tentang besarnya kasih sayang yang luhur yang berhembus ke dalam jiwa dan
+perasaan tentang kelemahlembutan terhadap diri sendiri. Dengan amanah yang
+berat maka terdapat pancaran cahaya Ilahi dan juga akan menghadapi kemudahan
+sesudah kesulitan.
+29
+
+Syekh Ahmad Mustafa al-Maraghi, Tafsir al-Maraghi, terj. (Bandung: CV. Rosda
+Karya, 1987). Juz 30.hlm 331
+30
+
+Lihat Aa Qowiy, Sepuluh Sikap Posiif, Menghadapi Kesulitan Hidup. (Bandung:
+Remaja Rosda Karya, 2001), hlm 10
+31
+Sayyid Quthb, Tafsir Fi Z\|ilalil Qur’an: di Bawah Naungan al-Qur’an. Jilid 24. Cet I.
+Terj. As’ad Yasin, (Jakarta: Gema Insani Press 2002), hlm168
+
+14
+
+Muhammad bin Hasan Uqail Musa as-Syarif dalam karya Agar Hati Lebih
+Hidup mengatakan, mengingkari usaha adalah ucapan terhadap orang yang tidak
+paham makna tawakal. Tawakal itu bukan diartikan dengan meninggalkan usaha
+dan tidak menggunakan anggota badan untuk bekerja. Akan tetapi tawakal itu
+amalan hati dan tidak meniadakan amal perbuatan badan. Jadi, maksudnya di sini
+bukan hanya bersantai-santai dalam hidup akan tetapi harus berurut-urut dalam
+mengerjakan pekerjaan.32
+Dalam tafsir al-Misbah karya Quraish Shihab33 menyebutkan ayat yang
+menggambarkan tentang anugrah ketenangan jiwa yang telah diperoleh Nabi
+Muhammad saw, serta di akhiri dengan petunjuk yang dapat mengantar seseorang
+guna memperoleh ketenangan itu. Quraish berpendapat bahwa kelapangan
+diberikan Nabi Muhammad dan Nabi Musa berbeda, permohonan Nabi Musa agar
+dipermudah untuk urusanya sedang Nabi Muhammad bukan sekedar urusan yang
+dumudahkan, akan tetapi beliau sendiri yang di anugrahi kemudahan.
+Ilmu jiwa dalam Tasawuf karya Amir-an Najar mengatakan tingkatan taqwa
+tidak terdapat pertentangan antara ketaqwaan manusia dan tawakalnya kepada
+Allah swt dengan pekerjaan yang dikerjakan berupa pekerjaan yang positif seperti,
+usaha untuk hidup dan mencari ilmu pengetahuan. Usaha dan tawakal mempunyai
+hubungan yang kuat sebab keduanya merupakan dua hal yang disyariatkan,
+dengan ucapan barang siapa yang meninggalkan usaha berarti meninggalkan
+sunnah, dan barang siapa meninggalkan tawakal berarti meninggalkan iman.
+32
+
+Muhammad bin Hasan bin ‘Uqail Musa Al-Syarif, Agar Hati Lebih Hidup. Terj.
+(yogyakarta: Pro-U Media) hlm132-133
+33
+
+Quraish Shihab, Tafsir Al-Misbah; Pesan,Kesan dan Keserasian Al-Qur'an ( Jakarta:
+Lentera Hati, 2003) hlm. 355
+
+15
+
+Sebuah ayat Qur’an mengatakan Allah akan memberikan kecukupan pada
+hambaNya, sehingga membuat dirinya selalu berada dalam kondisi ketenangan,
+kebahagiaan. Dengan tawakal akan merasa tenang dengan kekuasanNya sehingga
+akan membuat dirinya tidak merasa gelisah dalam menghadapi persoalan dirinya,
+baik kecil maupun besar, juga tidak merasa susah di saat menerima derita dan
+tidak lupa saat dalam keadaan gembira.34
+Dalam hal ini perlu adanya sikap optimisme, maka dengan adanya
+optimisme, dalam pandangan kehidupan akan memberikan kemampuan warna
+kehidupan menjadi indah.
+
+E. Metode Penelitian
+Penelitian ini memusatkan pada penelitian kepustakaan atau mengkaji buku
+yang di perpustakaan yang ada hubungannya dengan masalah yang dibahas.
+Sedangkan sumber lainya kitab-kitab, maupun buku, artikel dan juga dokumen
+yang berkaitan dengan topik yang dibahas.
+Adapun pendekatan di sini melalui pendekatan history.35 Di sini penulis
+mencoba menafsirkan surat al-Insyirah{ dengan apa yang ada dalam masyarakat
+melalui teori spiritual. Sedangkan langkah yang diambil dalam metode ini adalah
+sebagai berikut.
+
+34
+Amir An-Najar, Ilmu Jiwa dalam Tasawwuf : Studi Komparatif dengan Ilmu Jiwa
+Kontemporer. Terj. Hasan Abrari. al-Ilmu An-nafsi Ash-Shufiyah (Jakarta: Pustaka Azzam, 2001),
+hlm 243
+35
+Suharsini Arikunto, Prosedur Penelitian, Suatu Pendekatan Praktek (Jakarta: Rineka
+Cipta, 2002), Cet 12, hlm. 23
+
+16
+
+Pertama, jenis penelitian, skripsi ini adalah penelitian pustaka (library
+research) dengan mengumpulkan data-data dan meneliti dari buku kepustakaan
+dan karya-karya dalam bentuk lain.
+Kedua, pendekatan, penelitian ini menggunakan pendekatan historyfaktual yang berkaitan dengan buku yang menjadi rujukan penelitian dan
+bersangkutan dengan karya-karya lain yang bersangkutan. Dikumpulkan semua
+komentar dan pembicaraan mengenai buku itu.
+Ketiga, sumber data, pengumpulan data skipsi ini diperoleh dari literaturliteratur yang berkaitan dengan obyek penelitian skripsi ini. Obyek penelitian ini
+adalah Surah Al-Insyirah dan Pemecahan Masalah.36
+Literatur yang dikaji sebagai sumber data dalam penulisan skripsi ini
+terbagi dua, sumber primer dan sumber skunder. Data-data primer dalam
+penelitian ini adalah Al-Qur’an dan kitab tafsir, Sementara itu, buku, jurnal,
+ensiklopedi, majalah yang berkaitan dengan tema tersebut merupakan data
+skunder.
+Untuk mencapai maksud tersebut maka diperlukan metode-metode:
+Deskriptif, Adapun yang dimaksud dengan deskriptif adalah menguraikan
+secara teratur seluruh konsep buku.37 Dengan penelitian ini, penulis mencoba
+mendiskripsikan surah al-Insyirah yang berkaitan dengan unsur psikologi.
+
+36
+
+Anton baker dan Ahmad charris Zubair, Metodologi Penelitian Filsafat ( Yogyakarta:
+Kanisius, 1990) hlm. 69
+37
+
+Ibid., hlm. 71
+
+17
+
+Holistika, melalui metode ini, penulis hendak memahami konsep-konsep dan
+konsepsi buku yang bersangkutan dengan benar. Dilihat dari keseluruhan visi
+mengenai maksud buku
+Komparasi, yaitu sebuah isi buku dibandingkan dengan buku-buku lain
+dengan hal yang sama. Baik itu persis sama atau berbeda. Dalam perbandingan itu
+diperhatikan keseluruhan pikiran dengan ide-ide pokok, kedudukan konsep dan
+metode.
+
+F. Sistematika Pembahasan
+Agar penulisan skripsi ini lebih terarah dan sistematik, di sini penulis akan
+memberikan gambaran umum tentang tahapan-tahapan penelitian dengan
+sistematika sebagai berikut:
+Secara general penulisan skripsi ini terdiri dari lima bab.yaitu:
+Bab pertama, menguraikan latar belakang masalah, rumusan masalah,
+tujuan dan manfaat penelitian, kajian pustaka, metode penelitian dan sistematika
+pembahasan.
+Bab kedua, memaparkan tentang permasalahan kehidupan manusia, baik
+itu masalah sosial, ekonomi dan poitik, maupun rohani dan jasmani manusia. Pada
+sub kedua dipaparan masalah kemiskinan manusia yang ada dalam warga
+Indonesia secara menyeluruh.
+Bab ketiga, membicarakan penafsiran surah Al-Insyirah secara umum
+atapun ayat perayat, asbabun nuzul dan terjemahan surah. Sub bab membicarkan
+penafsiran secara umum dan kandungan surah, sub bab berikutnya berisi
+
+18
+
+penafsiran para mufasir di antaranya, al-Misbah, al-Azhar, al-Qurt}ubi dan
+pendapat-pendapat lain. Ada juga pesan kandungan surah yang termuat dalam AlQur’an.
+Bab keempat, peneliti mengerucutkan kajian tentang pemecahan masalah
+yang dijanjikan dalam surah al-Insyirah{ yang dikaitkan dengan psikologi yang
+berisi manusia dianjurkan mempunyai sifat positif, mempunyai kesabaran dalam
+menghadapi segala hal dan juga optimis dalam melakukan segala hal. Pada sub
+bab selanjutnya membahas tentang yang berkaitan dengan kebermaknaan hidup.
+Bab kelima, adalah penutup yang berisi kesimpulan dan saran. Dalam bab
+ini penulis mencoba menyimpulkan uraian-uraian yang telah dipaparkan dalam
+penelitian ini. Pada tahap selanjutnya, penulis mencoba menyusun saran-saran
+yang cukup relevan untuk disampaikan terkait dengan hasil penelitian yang telah
+dilakukan.
+
+19
+
+BAB II
+PROBLEM KEHIDUPAN MANUSIA
+
+Proses modernisasi sering mengagungkan nilai yang bersifat materi. Pada
+zaman global seperti sekarang ini simbol-simbol kemodernan sangat menonjol
+dan tumbuh sangat cepat jauh melampaui kemajuan manusia, sehingga terjadilah
+kesenjangan antara manusia itu sendiri dan tempat tinggal mereka yang sangat
+lebar. Kesenjangan itu melahirkan problem kejiwaan.
+Zaman modern ditandai dengan beberapa aspek, di antaranya adalah
+dengan menggunakan teknologi dalam berbagai aspek dan berkembangnya ilmu
+pengetahuan sebagai wujud dari intelektual manusia.1
+
+A. Problem Sosial - Ekonomi
+Sebelum melangkah untuk membahas rekayasa sosial maka biasanya
+orang harus mengetahui dulu apa itu problem sosial, karena adanya rekayasa
+sosial itu didahului timbulnya problem-problem (masalah) sosial. Problem adalah
+sebuah kondisi di mana terjadi perbedaan antara apa yang diinginkan (das Sollen)
+dan apa yang telah terwujud menjadi suatu kenyataan (das Sein)2
+
+1
+
+2
+
+16:37:14
+
+Ahmad Mubarok, Jiwa Dalam Al-Qur'an. ( Jakarta: Paramadina, 2000) hlm. 2
+Mahasiswa Dan Rekayasa Sosial, http//www.Google.com Dipublikasikan: 31/03/2003
+
+20
+
+Problem itu sendiri sebenarnya dibagi menjadi dua dimensi yakni bertaraf
+individu dan bertaraf sosial. Problem individu adalah masalah yang timbul dari
+individual qualities (kualitas-kualitas individu) atau dari lingkungan terdekat.
+
+1. Kemiskinan
+Kemiskinan merupakan masalah global yang sering dihubungkan dengan
+kebutuhan, kesulitan dan kekurangan di berbagai keadaan hidup. Sebagian orang
+memahami istilah ini secara subyektif dan komparatif, sementara yang lain
+melihatnya dari segi moral dan evaluatif, dan lainnya lagi memahaminya dari
+sudut ilmiah yang telah mapan. Istilah "negara berkembang" biasanya digunakan
+untuk merujuk kepada negara-negara yang "miskin".3
+
+Kemiskinan sebagai suatu penyakit sosial ekonomi tidak hanya dialami
+oleh negara-negara yang sedang berkembang, tetapi juga negara-negara maju,
+seperti Inggris dan Amerika Serikat. Negara Inggris mengalami kemiskinan di
+penghujung tahun 1700-an pada era kebangkitan revolusi industri yang muncul di
+Eropa. Pada masa itu kaum miskin di Inggris berasal dari tenaga-tenaga kerja
+pabrik yang sebelumnya sebagai petani yang mendapatkan upah rendah, sehingga
+kemampuan daya belinya juga rendah. Mereka umumnya tinggal di permukiman
+kumuh yang rawan terhadap penyakit sosial lainnya seperti: prostitusi,
+kriminalitas, pengangguran4.
+
+3
+
+"http://id.wikipedia.org/wiki/Kemiskinan 17:32, 17 Maret 2008.
+
+4
+
+http://www.pu.go.id/publik/P2KP/Des/memahami 99.htm
+
+21
+
+Berbagai persoalan kemiskinan penduduk memang menarik untuk disimak
+dari berbagai aspek sosial dan psikologi. Aspek sosial terutama akibat terbatasnya
+interaksi sosial dan penguasaan informasi. sedangkan aspek psikologi terutama
+akibat rasa rendah diri, fatalisme, malas dan rasa terisolir. Masalah sosial perlu
+diperhatikan, terutama kemiskinan dan sosial ekonomi.
+Persoalan kemiskinan adalah persoalan yang kompleks dan berdimensi
+ganda, spiritual dan material mempunyai berbagai pengaruh dalam aspek
+kehidupan. Kemiskinan sebagai realitas kehidupan selalu digambarkan sebagai
+suatu keadaan kehidupan yang serba kekurangan, lemah dalam hidupnya. Orang
+yang lemah dalam hidupnya mempunyai gambaran kemiskinan spiritual yaitu
+situasi kehidupan batin seseorang yang tak pernah merasa puas dengan apa yang
+dimiliki dan diperolehnya. Sedangkan kemiskinan material bersifat ekonomis,
+yaitu penghasilan yang diperoleh sangat rendah sehingga untuk dapat memenuhi
+kebutuhan fisiknya sangat minimum. Kemiskinan spiritual bisa saja terjadi pada
+kehidupan seseorang yang secara ekonomis mempunyai penghasilan yang
+mencukupi.5 Kehidupan spiritual cenderung pada apa masalah kehidupan yang
+dikaitkan dengan agama.
+Kehidupan orang mukmin sering berkaitan dengan agama, karena agama
+yang bisa menyeimbangkan antara kehidupan spiritual dan kehidupan sosial. Itu
+semua berkaitan dengan agama, dalam konteks kemiskinan, agama seharusnya
+memerangi kemiskinan, karena kemiskinan pada dasarnya merupakan ancaman
+dan tantangan bagi keberagamaan. Oleh karena itu institusi agama seharusnya
+5
+
+Musa Asy’ari, ”Ekonomi dan Kemiskinan Tinjauan Agama”, Unisia No. 21 tahun XIV
+triwulan I-1994. hlm 36
+
+22
+
+menjadi institusi yang secara konstisten melakukan pemberdayaan terhadap kaum
+miskin yang lemah. Membela orang yang miskin itu bukan hanya sekadar
+menyantuninya, bukan hanya menghiburnya akan tetapi melawan agar kemiskinan
+bisa ditata, agar penindasan pada kaum miskin atau lemah tidak semakin
+merajalela,6 seharusnya semua agama rasanya telah menegakan dan menetapkan
+kewajiban pada pemeluknya untuk menolong dan memperhatikan nasib
+sesamanya. al-Qur'an telah menyebutkan bahwa para pendusta agama adalah
+mereka yang menghardik anak yatim dan tidak mau memberi makan orang
+miskin7.
+Kekayaan itu kebaikan menurut agama, al-Qur’an juga menyebutkan
+bahwa anugerah (kekayaan) adalah janji tuhan, sedang kemiskinan (kekafiran)
+adalah janji setan8. Kekayaan itu kebaikan maka diperoleh dengan cara yang baik.
+kekayaan yang di peroleh dengan cara tidak baik itu mencerminkan pada
+kemiskinan ruhani. Kemiskinan ruhani inilah yang sering mendorong untuk
+berbuat tidak baik. Untuk menanggulangi kemiskinan dari sudut pandang agama
+terletak pada institusi agama sebagai pusat pelayanan dan pembelaan kaum yang
+lemah dan miskin, baik material maupun spiritual. Kemiskinan merupakan
+
+6
+
+Ibid., hlm 39
+
+7
+
+Lihat Al-Qur’an dan Terjemahnya Depag RI, QS. Al-Maun : 1-3, hlm. 1108
+
+8
+
+Ibid., QS. Al-Baqarah : 268, hlm. 67
+
+Islam sendiri telah mensyariatkan kepada pemeluknya untuk berusaha mencari dan menghasilkan
+harta benda atau kekayaan, serta membolehkan hubungan muamalah dan perdagangan. Begitu
+Islam mewajibkan untuk menjaga dan memelihara harta kekayaan dan mengharamkan perbuatan
+mencuri, penipuan.
+
+23
+
+masalah sosial yang selalu diperhatikan oleh semua kalangan, oleh karena itu
+perlu dilakukan perubahan dalam mengentaskan kemiskinan.
+Perubahan sosial perlu dipandang dari sudut pandang kehidupan internal
+institusi keagamaan yang memerlukan adanya kebebasan berekpresi. Tanpa
+adanya kebebasan berekpresi maka akan ada kesenjangan antara institusi agama
+dengan realitas perubahan. Kebebasan berekpresi bukanlah ancaman bagi iman,
+akan tetapi justru sebagai basis tumbuhnya iman yang sehat. Dengan adanya
+kebebasan kreatif yang dikembangkan secara internal dalam institusi keagamaan,
+dari sini maka akan tumbuh kreativitas dalam masyarakat. Kreativitas pada
+hakikatnya merupakan faktor yang mengatasi problematikanya, sedangkan
+masyarakat yang tidak kreatif adalah masyarakat yang sulit maju, apalagi untuk
+mengentaskan kemiskinan.9Pada sebagian masyarakat, kaya dan miskin itu
+dipandang sebagai takdir tuhan. Kemiskinan perlu ditanam dengan adanya etos
+kerja bukan hanya solidaritas semata akan tetapi dihubungkan dengan pekerjaan
+mereka, maka pada hakikatnya agama mempunyai andil yang cukup besar dalam
+merumuskan etos kerja bagi kaum miskin.
+Akibat ketidakseimbangan itu kemudian muncul dalam realitas kehidupan
+di mana banyak manusia yang sudah hidup dalam lingkungan modern. Manusia
+modern begitu sibuk dan bekerja keras melakukan penyesuaian diri dengan trend
+dan mode, padahal mereka sudah diperbudak oleh keinginan sosial. Dengan
+mengejar apa yang menjadi kepuasan sesaat yakni kepuasan yang akan
+dipertontonkan pada orang lain. Para sosiolog menyebut sebagai gejala
+9
+
+Ibid.,hlm 41
+
+24
+
+keterasingan dengan perubahan sosial yang berlangsung sangat cepat. Prinsip
+hidup yang dilakukan dengan tuntutan sosial sangatlah cepat sedangkan tuntutan
+sosial belum tentu berdiri di atas prinsip yang mulia.
+Sebaliknya masalah sosial bermula dari faktor dan lingkungan sosial.
+Philip Kotler menyebutkan bahwa problem sosial adalah kondisi tertentu dalam
+masyarakat yang dianggap tidak enak atau menganggu oleh sebagian anggota
+masyarakat dan dapat dikurangi atau dihilangkan melalui upaya bersama
+(kolektif). Ada 3 problem sosial yang bisa kita kemukakan di sini yang mana
+ketiga problem sosial tersebut menjadi sumber perubahan sosial yakni,
+kemiskinan,
+
+kejahatan dan
+
+konflik.10
+
+Kondisi-kondisi
+
+ini
+
+menyebabkan
+
+masyarakat menjadi miskin dan masyarakat yang berpendapatan tetap dan rendah
+semakin terimpit persoalan-persoalan ekonomi yang membuat mereka semakin
+tidak berdaya dan akhirnya mengambil jalan pintas. Fakta menyedihkan tersebut
+tecermin dari berita baru-baru ini dari Makassar yang menyatakan bahwa seorang
+ibu yang sedang hamil tujuh bulan beserta bayinya meninggal dunia akibat
+kelaparan
+
+setelah
+
+tidak
+
+makan
+
+selama
+
+tiga
+
+hari.
+
+Salah satu stasiun televisi Tanah Air belum lama ini juga menayangkan laporan
+tentang beberapa anak yang mengalami busung lapar yang terjadi di berbagai
+daerah di Indonesia. Meski fenomena ini mungkin pernah terjadi sebelumnya,
+paling tidak peristiwa-peristiwa ini sekali lagi membuka mata kita lebar-lebar
+bahwa kemiskinan bukan hanya data di atas kertas, tetapi sudah merupakan fakta
+yang mengkhawatirkan. Memang permasalahan ekonomi yang mendera
+
+10
+
+Mahasiswa dan Rekayasa Sosial, http//www.google.com, diakses 31 Maret 2003
+
+25
+
+masyarakat Indonesia tidak semata berasal dari persoalan ekonomi dalam negeri.
+Kenaikan harga minyak mentah dunia yang sudah melebihi USD109 per barel
+membuat ruang gerak fiskal pemerintah semakin terbatas karena beban subsidi
+melonjak sehingga penghematan harus dilakukan di sana-sini, termasuk untuk
+urusan-urusan
+
+yang
+
+menyangkut
+
+kesejahteraan
+
+rakyat.
+
+Penyebab lainnya adalah kenaikan harga-harga komoditas pangan pokok yang
+disebabkan tingginya permintaan dunia dan gagal panen akibat perubahan iklim
+global yang tidak kondusif. Tingginya permintaan beberapa komoditas pangan
+seperti minyak sawit (Crude Palm Oil/CPO) juga tidak terlepas dari upaya untuk
+mendapatkan energi alternatif menyusul tingginya harga minyak mentah dunia.11
+Kehidupan tidaklah segampang yang dibayangkan. sehingga banyak
+kemodernan yang akan menguasainya, sedang tidak semua orang bisa hidup
+dengan kemewahan. Banyak orang hidup dengan bermegah-megahan akan tetapi
+dalam hidupnya, mereka merasa tidak nyaman sehingga menyebabkan
+kegelisahan, di mana banyak yang melakukan KKN (kolusi, korupsi dan
+nepotisme). Permasalahan terhadap problem sosial yang ada di Indonesia adalah
+masalah yang ekternal, problem sosial diperoleh melalui aspek kenyataan yang
+berbentuk fakta dan kenyataan yang berbentuk gejala. Mengenai kenyataan
+berbentuk fakta adalah suatu kenyataan yang didasarkan pada suatu perbuatan
+atau kejadian. Kenyataan masalah sosial melalui gejala adalah suatu yang nampak
+atau suatu pertanda akan adanya suatu peristiwa maupun kejadian. Masalah sosial
+
+11
+
+Sudiro Pambudi, Dampak Resesi dan Inflasi, http//www.Economy-okezone.com diakses
+
+Selasa, 25 Maret 2008 - 10:34 wib
+
+26
+
+yang
+
+berkembang
+
+dalam
+
+kehidupan
+
+manusia
+
+perlu
+
+segera
+
+dilakukan
+
+penyelesaianya dengan tindakan inilah, maka akan dapat diketahui sejauh mana
+konsepsi yang telah ditumbuhkan melalui teks.
+Kemiskinan bisa membuat orang menjadi putus asa, maka orang mudah
+terpancing pada perbuatan yang bertentangan dengan norma-norma agama.
+Kemiskinan memberikan dampak negatif pada kehidupan keluarga ketika hidup
+yang selalu serba kekurangan.12 Seseorang menghadapi cobaan dengan
+ketidaktenangan jiwa sehingga banyak yang tidak menghasilkan keluasan, dengan
+bersikap sabar dan tawakal seseorang akan memperoleh suatu kemudahan dalam
+hidupnya.
+Hasil penelitian menunjukan bahwa kelompok orang miskin memiliki
+aspirasi harapan yang rendah. Salah satu penyebabnya yaitu rendahnya
+pendidikan Akan tetapi mereka tidak memikirkan itu karena dari segi ekonomi
+mereka belum tercukupi. Pada dasarnya Patologi sosial itu seperti, pelacuran,
+pencurian kalau sudah demikian parahnya maka akan timbul budaya miskin.
+Seseorang yang mudah putus asa akan mudah melakukan segala kemungkaran
+jika tidak diimbangi dengan tindakan positif.
+Al-Quran juga mengingatkan dalam ayat yang berisikan kewajiban untuk
+meringankan beban orang-orang miskin. Seperti dalam QS. An-Nisa’: 36, 13
+masalah kemiskinan masih mendominasi negara khususnya berkembang
+
+12
+
+Djamaludin Ancok dan Fuad Nashari, Psikologi Islam Solusi Islam atas ProblemProblem Psikologi, (Yogyakarta: Pustaka Pelajar, 2005), Cet.6, hlm. 51
+13
+
+Al-Quran in the word 2003, Surah An-Nisa : 36
+
+27
+
+Indonesia bahkan sampai sekarang belum juga ditemukan bagaimana cara untuk
+pemecahan masalah.
+Kemiskinan sering menimbulkan keputus-asaan pada manusia sesuai
+dengan hadis Rasul Saw ”bahwa kemiskinan bisa mendekatkan seseorang kepada
+kekafiran”, sehingga orang mudah terpancing dengan hal-hal yang bertentangan
+agama dan norma hukum. Kemiskinan dapat membuat hal negatif yang membuat
+rusaknya kesehatan mental, ini akan semakin tinggi angka keputus-asaan dan
+semakin subur bagi tumbuhnya segala macam kemungkaran. padahal dengan sisi
+yang jernih maka akan menemukan pemecahan masalah. Masalah dan ujian
+adalah bagian dari kehidupan yang harus dijalani untuk menyelesaikan dan
+menghadapi setahap demi setahap. Jika menyikapi setiap masalah dan peristiwa
+yang terjadi dengan hati yang jernih pikiran yang tenang. Agar dapat memahami
+dan memaknai, maka tidak boleh menghadapi setiap rintangan dengan pandangan
+yang negatif dan pesimis.14 Ini semua akan terasa jelas jika menatapnya dengan
+pikiran positif sehingga bisa menutupi situasi yang suram.
+Stress terjadi disebabkan seseorang mengalami pemasalahan kehidupan
+yang menimpa dirinya dinamakan stress manakala fungsi organ tubuh sampai
+terganggu sehingga depresi reaksi kejiwaan seseorang terhadap stesor yang
+dialaminya.
+Setiap manusia memiliki bermacam-macam kebutuhan yang harus
+dipenuhinya. Untuk memahami masalah kemiskinan dan segala problema yang
+menyertainya, maka harus dipahami apa saja kebutuhan manusia. Oleh sebab itu
+14
+
+1997)
+
+Usman Najati, Al-Qur’an dan Ilmu Jiwa terj. Ahmad Rofi 'Usman (Bandung: Pustaka,
+
+28
+
+kebutuhan manusia sangat banyak, sehingga ahli psikologi mengajukan
+pemikirannya di antaranya:
+Menurut Maslow,15 kebutuhan manusia pada dasarnya bertingkat-tingkat
+mulai dari tingkat yang paling bawah sampai tingkat yang paling tinggi.16
+Tingkatan
+
+yang
+
+dimaksud
+
+adalah:
+
+Pertama,
+
+Kebutuhan
+
+Fisiologis
+
+Contohnya
+
+adalah: Sandang/pakaian, pangan/makanan, papan/rumah dan
+
+kebutuhan biologis seperti buang air besar, buang air kecil, bernafas dan lain
+sebagainya. Kedua, Kebutuhan Keamanan dan Keselamatan Contoh seperti:
+Bebas dari penjajahan, bebas dari ancaman, bebas dari rasa sakit, bebas dari teror,
+dan
+
+lain
+
+sebagainya.
+
+Ketiga,
+
+Kebutuhan
+
+Sosial
+
+Misalnya adalah: memiliki teman, memiliki keluarga, kebutuhan cinta dari lawan
+jenis,
+
+dan
+
+lain-lain.
+
+Keempat,
+
+Kebutuhan
+
+Penghargaan
+
+Contoh: pujian, piagam, tanda jasa, hadiah dan banyak lagi lainnya. Kelima,
+Kebutuhan
+
+Aktualisasi
+
+15
+
+Diri
+
+Abraham Maslow dilahirkan di Brooklyn, New York, pada 1908 dan wafat pada 1970
+dalam usia 62 tahun. Maslow dibesarkan dalam keluarga yahudi dan merupakan anak tertua dari
+tujuh bersaudara. Masa muda Maslow berjalan dengan tidak menyenangkan karena hubungan
+yang buruk dengan kedua orang tuanya. Semasa anak-anak dan remaja Maslow merasa dirinya
+amat menderita dengan perlakuan orangtuanya, terutama ibunya. Keluarga Maslow amat berharap
+ia dapat meraih sukses melalui dunia pendidikan. Untuk menyenangkan kemauan ayahnya,
+Maslow sempat belajar di bidang hukum tapi gagal. Ia akhirnya mengambil bidang studi psikologi
+di University of Wisconsin, dan memperoleh gelar bachelor pada 1930, master pada 1931, dan
+PhD pada 1934
+
+16
+
+Fuad Nashari Surasa dan Jamaludin Ancok, Psikologi Islami: Solusi Islam atas
+Problem-Problem Psikologi ( Yogyakarta: Pustaka Pelajar 2005) cet ke 5 hlm. 48
+
+29
+
+Adalah kebutuhan dan keinginan untuk bertindak sesuka hati sesuai dengan bakat
+dan minatnya.17
+Dalam psikologi dampak dari kemiskinan seseorang ada tiga macam, yaitu
+rendahnya pendidikan, rendahnya aspirasi dan muculnya rasa putus asa. Rasa ini
+bisa membuat seseorang putus asa, sesuai dengan hadis Rasul Saw bahwa
+"kemiskinan mendekatkan seseorang kepada kekafiran".
+Akibat dari keadaan kemiskinan yang berkepanjangan akan terjadinya
+gangguan pada jiwa seseorang, bahwa gangguan jiwa disebabkan oleh karena
+ketidakmampuan manusia untuk mengatasi konflik dalam diri, tidak terpenuhinya
+kebutuhan hidup.18 Gangguan jiwa dan ketenangan jiwa seseorang bukan di lihat
+dari segi ekonomi maupun sosial, dari segi ruhaninya pun bisa, baik itu nafsu, akal
+dan hati. Seseorang yang dipengaruhi oleh nafsu, maka yang dirasakan hanya
+kesenangan sesaat. Pada dasarnya seorang mukmin yang mempunyai sifat selalu
+gelisah, mempunyai kegoncangan emosional akibat dari problem psikis yang
+sedang ia hadapi. Ketika manusia lebih memilih kenikmatan duniawi dengan
+berlindung dibalik syahwat dan hawa nafsunya serta melupakan Tuhan19 maka
+saat itulah hidupnya kurang bermanfat, dan hidupnya menjadi tidak berarti.
+Jiwa yang didorong oleh hawa nafsu dan tidak disertai dengan akal dan
+hati yang sehat itu merupakan problem yang banyak dialami oleh manusia dalam
+keseharianya. Pada zaman sekarang banyak masalah yang menimpa bangsa ini,
+17
+"Teori_Hierarki_Kebutuhan_Maslow_Abraham_Maslow_Ilmu_Ekonomi".htm
+http//www.google.com, diakses tgl 8 Agustus 2008
+
+hlm. 407
+
+18
+
+Ibid., hlm. 94
+
+19
+
+Musafir bin Zaid Az-Zahrani, Konseling Terapi ( Jakarta: Gema Insani Press, 2005)
+
+30
+
+sehingga dengan banyaknya masalah tersebut maka manusia semakin bingung,
+masalah manakah yang harus diatasi terlebih dahulu. Bahkan dengan naiknya
+BBM beban masyarakat semakin bertambah, belum lagi biaya pendidikan yang
+begitu melambung, padahal pendidikan yang tanpa biaya seharusnya disediakan
+bagi orang yang tidak mampu. Keadaan ini semua menyebabkan orang menjadi
+frustasi.
+Al-Qur’an menerangkan tentang sikap frustasi atas apa yang dialami
+manusia terdapat dalam surah, Ali-Imran: 139
+
+∩⊇⊂∪ tÏΖÏΒ÷σ•Β ΟçGΨä. βÎ) tβöθn=ôãF{$# ãΝçFΡr&uρ (#θçΡt“øtrB Ÿωuρ (#θãΖÎγs? Ÿωuρ
+Artinya: “janganlah Kamu bersikap lemah dan janganlah pula Kamu bersedih hati,
+padahal Kamulah orang-orang yang paling tinggi ( derajatnya ), jika Kamu orangorang yang beriman”.
+Sebagai akibat hipokrit20 yang berkepanjangan, maka banyak manusia
+yang mengalami gangguan kejiwaan yang berkepanjangan, di antaranya adalah
+pertama, kecemasan, yaitu perasaan cemas yang diderita manusia modern tersebut
+adalah bersumber dari hilangnya makna hidup. Secara fitri (fitrah) manusia
+mempunyai makna hidup. Makna hidup dimiliki oleh seseorang ketika ia memiliki
+kejujuran. Adapun manusia modern justru tidak memiliki makna hidup, karena
+tidak memiliki makna hidup hanya mengikuti trend dan tuntutan sosial. Orang
+yang hanya mengikuti kemauan sendiri akan merasakan kesenangan sesaat, dan
+akan merasakan kecewa bila gagal. Dengan ini semua, maka seseorang akan
+dilanda gelisah dan kecemasan, dan hanya akan menikmati kesenangan sesaat.
+
+20
+Dalam kamus bahasa Ilmiah Populer hipokrit maknanya munafik, lihat Pius A Partanto
+dan M. Dahlam Al Barry, Kamus Ilmiah Populer ( Surabaya: Arkola, 1994)
+
+31
+
+Maka kehidupan dijalani dengan penuh manfaat supaya hidupnya penuh dengan
+keberuntungan.21
+Kedua, Kebosanan, kebosanan diakibatkan karena hidup tidak bermakna
+dan hubungan dengan manusia lain terasa hambar karena ketiadaan ketulusan hati
+kecemasan yang selalu megganggu jiwanya dan kesepian yang berkepanjangan,
+menyebabkan manusia modern menderita gangguan jiwanya. Kebosanan bisa
+terjadi karena tidak variasi dalam menjalani hidup, karena hidup dalam
+masyarakat diperlukan variasi yang banyak. Kesepian dan kecemasan yang
+berkepanjangan bisa membuatnya menjadi bosan dan ini menjadi sumber
+ketegangan jiwa yang akhirnya dapat menimbulkan bermacam-macam problem
+sosial maupun individual. Tingginya angka kebosanan dalam masyarakat akan
+menyebabkan tingginya angka perceraian dalam keluarga karena suasana rumah
+yang tegang sehingga sebuah keluarga harus merelakan salah satunya ini akan
+menyebabkan seseorang menjadi depresi dan stres. Stres merupakan respon
+terhadap tekanan yang dirasakan dalam situasi-situasi itu, sejumlah tekanan bisa
+memberikan tekanan sehat akan tetapi kalau tekanannya terlalu banyak, bisa
+menimbulkan stres.22 Ketika mencoba mendapatkan masalah maka apa yang akan
+dilakukan sikap seseorang dan bagaimana cara menyikapinya. Seseorang yang
+mempunyai kesehatan mental yang wajar, memiliki ketenangan dalam hidupnya
+
+21
+
+Ahmad Mubarok, Jiwa dalam Al-Qu'an ( Jakarta: Paramadina, 2000) hlm. 9
+
+22
+Peter E Makin dan Patricia A Lindley, Mengatasi Stres Secara Positf (Jakarta:
+Gramedia Pustaka utama, 1994), hlm. 8
+
+32
+
+dan mampu menggunakan potensi dirinya secara optimal dalam mengerjakan
+tugas-tugas dalam hidupnya.23
+Ketenangan jiwa bisa disebabkan oleh emosi yang terhalang untuk
+mencapai apa yang diharapkan, perasaan kecewa bisa disebabkan oleh faktor
+jasmani dan intelektual, bisa juga disebabkan oleh faktor luar seperti, seseorang
+yang mengalami kegagalan. Orang yang mengalami kegagagalan dalam belajar
+atau dalam sekolah dapat menyebabkan hidupnya menjadi tidak semangat, begitu
+juga kegagalan dalam berdagang atapun berbisnis, seseorang bisa melakukan
+sesuai dengan nafsunya sendiri dan bisa merugikan diri sendiri.
+Peristiwa ini tidak hanya terjadi di Indonesia disemua Negara telah
+mengalaminya, contoh lain orang yang ditinggal mati oleh orang yang
+disekelilingnya serta yang dicintainya pasti akan merasa kehilangan, jika
+seseorang tidak menerima cobaan yang diberikan maka semuanya ada di luar
+kendali.
+Respon psikologi terhadap perasaan kecewa berbeda-beda, puncaknya
+pada tingkah laku agresif. Ada juga seseorang yang bisa menahan rasa kecewanya
+sehingga respon psikologinya bukan tingkah laku agresif.24
+Gangguan jiwa yang disebabkan oleh kerisauan, biasanya diikuti oleh
+perubahan-perubahan fisik pada orang tersebut. Seperti, tekanan darah tinggi,
+cepatnya debaran jantung. Banyak yang berpendapat tentang penyebab kerisauan,
+di antaranya, Mazhab psikoanalisa dan behaviorisme cenderung menyebut masa
+
+23
+
+Ibid, hlm. 14
+
+24
+
+Ibid., hlm. 18
+
+33
+
+lampau sebagai penyebab kerisauan, sedang mazhab humanisme sebaliknya
+menyatakan bahwa masa depanlah yang menyebabkan seseorang risau25.
+Sebagai cabang psikologi yang juga bersifat sekular, yaitu kriteria
+kesehatan mental yang ditawarkan berikut psikoterapi konseling yang tidak ada
+hubungan dengan keyakinan agama. Akan tetapi manusia membutuhkan agama
+sebagai pengendali dalam bertingkah laku. Psikologi dan agama merupakan dua
+hal yang sangat erat hubunganya, karena agama diajarkan untuk manusia dengan
+kondisi dan situasi psikologis.26
+Sebagai manusia yang mempunyai nafsu, hati dan akal, semua ini tidak
+dijadikan sebagai akar masalah, karena masalah kalau dilihat dari segi nafsunya
+tidak akan manfaat, sehingga tidak mengetahui pemecahan masalah. Masyarakat
+Indonesia telah mengalami berbagai krisis negeri, sampai-sampai banyak yang
+melakukan atas kehendak nafsu, yaitu, melakukan kepuasan sesaat.
+Krisis yang melanda negeri Indonesia dan membuat masyarakat menjadi
+stress, terutama kalangan modernis, yang memikirkan hidup untuk dunia dan
+terbiasa hidup bahagia, akan tetapi kalangan ini tidak pernah bersyukur pada
+Allah. Sebagai contoh para koruptor–koruptor di negeri ini yang semakin banyak,
+dan dengan seenaknya memakan uang rakyat, sehingga rakyat yang miskin
+semakin
+
+miskin,
+
+bahkan
+
+orang-orang
+
+yang
+
+status
+
+di
+
+atasnya
+
+tidak
+
+memerdulikanya.
+
+25
+
+Ahamad Mubarak, Jiwa dalam al-Qur'an ( Jakarta: Paramadina, 2000) hlm. 14 -17
+
+26
+Muhammad Miftahul Chalil, “Kepribadian Sebuah Komparasi Psikoanalisa Sigmund
+Freud”, Jurnal Cendekia, Vol 5 No.I Januari- Juni 2007, hlm. 22
+
+34
+
+Orang yang demikian kadang dari segi keimanan kurang bisa memahami,
+keimanan mempunyai pengaruh yang besar atas diri manusia, membuat manusia
+percaya pada diri sendiri, meningkatkan kemampuannya untuk sabar dan kuat
+menanggung derita kehidupan, membangkitkan rasa tenang dan tentram dalam
+jiwa, kedamaian hati, dan memberi perasaan bahagia.27
+Keimanan ada dalam Al-Qur’an, dan terdapat kekuatan spiritual yang luar
+biasa dan mempunyai pengaruh mendalam atas diri manusia, bisa membangkitkan
+pikiran, menggelorakan perasaan, menggugah kesadaran dan menajamkan
+wawasan28.
+2. Tingkat Pendidikan
+Di lihat dari tingkat pendidikan, manusia memahami kemiskinan berbedabeda, seseorang memandang kemiskinan dari tingkat dasar mereka memahami
+kemiskinan sebagai bentuk dari kesulitan hidup yang terpancar dalam hidupnya,
+miskin diartikan sebagai kehidupan yang rendah dan tidak berguna bahkan ada
+yang mengatakan hidup yang tidak berdaya untuk berubah pun menuju kehidupan
+yang lebih baik sangat sulit. Idealnya kemiskinan sering di lihat dari bentuknya
+sehingga banyak dari segi pendidikan menengah mengartikan bahwa kemiskinan
+hanyalah kehidupan sesaat dimana kehidupan yang terus berputar dan tidak stabil,
+seseorang bisa keluar dari kemiskinan kalau dapat melihat makna dan cara
+mengatasinya kehidupan agar menjadi hidup yang lebih baik, akan tetapi itu
+semua tergantung pada diri sendiri. Adapun yang berpendidikan lebih tinggi akan
+
+27
+
+Usman Najati, Al-Qur’an dan Ilmu Jiwa, terj. Ahmad Rofi 'Usman ( Bandung: Pustaka,
+1997), hlm 288
+28
+
+Ibid., hlm. 284
+
+35
+
+lebih bijaksana memahami arti dari kemiskinan, seseorang dapat melihat dari
+bagaimana cara orang mengatasinya.29
+Pada dasarnya dampak kemiskinan di sini ada berbagai macam sisi positif
+dan negatife tergatung pada penyikapanya masalah tersebut.
+B. Problem Budaya
+Kebudayaan mencakup masalah pertautan etika kerja, nilai-nilai kerja
+sama, dan nilai-nilai yang berkait dengan kesukuan, keagamaan dan kedaerahan.
+Kebudayaan memberi makna hidup, termasuk perubahan-perubahan akibat
+dahsyatnya kekuatan ekonomi dan teknologi dari negara-negara maju.30
+Perubahan cepat dalam teknologi informasi telah merubah budaya
+sebagian besar masyarakat dunia, terutama yang tinggal di perkotaan. Masyarakat
+di seluruh dunia telah mampu melakukan transaksi ekonomi dan memperoleh
+informasi dalam waktu singkat berkat teknologi satelit dan komputer. Pemerintah
+dan perusahaan-perusahaan besar mampu memperoleh kekuasaan melalui
+kekuatan militer dan pengaruh ekonomi. Bahkan perusahaan transnasional mampu
+menghasilkan
+
+budaya
+
+global
+
+melalui
+
+pasar
+
+komersil
+
+global.
+
+Perubahan budaya lokal dan sosial akibat revolusi informasi ini tidak dapat
+dielakkan. Masyarakat perkotaan yang memiliki akses terhadap informasi
+merupakan kelompok masyarakat yang langsung terkena pengaruh budaya global.
+Akses informasi dapat diperoleh melalui media massa cetak maupun elektronik,
+internet, dan telepon. Masyarakat perkotaan dipengaruhi terutama melalui
+29
+
+Amir an-najar, Ilmu jiwa dalam Tasawuf; Studi Komparatif Dengan Ilmu Jiwa
+Kontemporer, terj. Hasan Abrori ( Jakarta: Pustaka Azzam, 2001) hlm. 67
+30
+
+Juwono Sudarsono Pembangunan Ekonomi Sebagai Masalah Budaya, Kompas diakses
+Senin, 29 Maret 2004
+
+36
+
+reproduksi ’meme’ yang dilakukan oleh media massa (Chaney, 1996).
+Dalam konteks Indonesia, masyarakat konsumen Indonesia mutakhir tumbuh
+beriringan dengan sejarah globalisasi ekonomi dan transformasi kapitalisme
+konsumsi yang ditandai dengan menjamurnya pusat perbelanjaan bergaya seperti
+shopping mall, industri waktu luang, industri mode atau fashion, industri
+kecantikan, industri kuliner, industri nasihat, industri gosip, kawasan huni mewah,
+apartemen, iklan barang-barang mewah dan merek asing, makanan instan (fast
+food), serta reproduksi dan transfer gaya hidup melalui iklan dan media televisi
+maupun cetak yang sudah sampai ke ruang-ruang kita yang paling pribadi. Hal ini
+terjadi di banyak masyarakat perkotaan Indonesia.31
+
+Pada dasarnya budaya merupakan sebuah makna hidup, Kata budaya
+memiliki makna yang sangat dalam, sedalam pengertian budaya itu sendiri. Tidak
+hanya kekerasan, budaya seperti korupsi, malas, dll sudah mengakar pada
+sebagian besar warga Indonesia. Dan yang paling parah adalah ketika seseorang
+kesulitan di dalam memecahkan masalah budaya ini.
+
+Sebagai contoh, bila ada konflik sosial yang menyebabkan korban jiwa,
+para ahli dengan lantang memberikan pernyataan bahwa ini masalah budaya dan
+membutuhkan waktu untuk dibenahi. Jika demikian, masalah budaya masih
+menjadi titik sentral permasalahan bangsa kita. Budaya belum mampu kita
+kontrol.32 Pada dasarnya dampak dari masalah budaya yang mempengaruhi pada
+
+31
+
+Harry W, "Masalah Budaya Synaps", http//www.google.com diakses 7 Januari 2006
+
+32
+
+Irvan Tumbuan, "Masalah Budaya", http//www.google.com diakses 21 Juni 2008
+
+37
+
+hidup konsumerisme, gencarnya promosi gaya hidup modern yang sekarang
+menjadi dominan dalam hidup manusia modern, idealnya manusia bisa
+menghindari ini semua dengan hidup mandiri dan disiplin sehingga seseorang
+akan menentukan pilihanya secara tanggung jawab, serta inovasi yang kreatif
+untuk menunjang kemandirian.33
+
+33
+
+Ibid., diakses 21 Juni 2008
+
+38
+
+BAB III
+PESAN SURAH ALAL-INSYIRAH{
+INSYIRAH{
+
+A.
+
+Hal Yang Berkaitan Dengan Surah AlAl-Insyirah{
+Insyirah{
+Surah al-Insyirah{ terdiri dari 8 ayat yang terdapat dalam Al-Qur’an
+Departemen Agama RI, surah yang mengatakan tentang penegasan nikmat-nikmat
+Allah SWT diberikan pada Nabi Muhammad Saw dan umatnya, serta pernyataan
+Allah bahwa di samping kesukaran ada kemudahan oleh sebab itu diperintahkan
+kepada Nabi agar tetap melakukan amal-amal saleh dan bertawakal kepadanNya.1 Surah ini diturunkan di Mekkah yang diturunkan sesudah Al-D}uha yang
+dinamakan Alam Nasyrah{. Surah ini ada yang berpendapat satu surah dengan
+surah Al-D{uha, sehingga tidak membaca basmalah karena itu termasuk dalam satu
+surah.
+Asba>b Al-Nuzu>l adalah sesuatu hal di mana al-Qur’an diturunkan untuk
+menerangkan status (hukumnya), pada masa itu terjadi baik berupa pernyataan
+maupun peristiwa. Akan tetapi` Bintusy Syati’ berpendapat bahwa asba>b al-nuzu>l
+adalah hanya sekadar kondisi tersebut.2 Asba>b Al-Nuzu>l hanya dipakai untuk
+
+1
+
+Al-Qur'an dan Terjemah Depag RI, (Semarang: Kumudasmoro Grafindo, 1994) hlm.
+1072
+
+2
+Siti Nur Qodri, “Konsep Iffah Dalam Al-Quran”, Skripsi Fakultas Ushuluddin UIN
+Sunan Kalijaga Yogyakarta, hlm. 22
+
+39
+
+melihat dukungan yang mungkin diberikan oleh riwayat-riwayat (asba>b al-nuzu>l)
+bagi makna yang telah ditemukan tanpa bantuannya.3
+Tentang surah ini ada ulama yang menyebutkan turun di Makkah,
+termasuk surah Makki>yah, surah ini turun sesudah Al-D}uha dan dirangkai bahwa
+Al-D}uha dan Al-Insyirah{ termasuk dalam satu surah karena adanya munasabah
+(kaitan). Yaitu kaitan menghitung nikmat yang terdapat dalam surah Ad-D}uha:
+
+∩∉∪ 3“uρ$t↔sù $VϑŠÏKtƒ x8ô‰Égs† öΝs9r&
+
+Dengan firman-Nya di dalam surah Al-Insyirah}:
+
+∩⊇∪ x8u‘ô‰|¹ y7s9 ÷yuô³nΣ óΟs9r&
+
+Al-Zamakhsyari dan Al-Qurthubi tidak mengisyaratkan tentang masalah
+beriringannya kedua surah itu. Sedangkan menurut Abduh surah ini Makki>yah.
+Sebagian mufasir berpendapat bahwa surah itu Madani>yah.4 Al-Biqa’i
+mengatakan bahwa surah ini Madaniyah berdasarkan pemahaman dari ketetapan
+“kelapangan dada” dan sesudahnya. Riwayat lain mengatakan bahwa Rasulullah
+Saw pernah menyampaikan sebuah hadis ketika beliau memohon sesuatu dari
+Allah swt, kemudian beliau menyesal dan berangan-angan (alangkah baiknya)
+sekiranya tidak memohon itu kepada-Nya. Permohonan beliau itu berkaitan
+
+3
+
+Aisyah Abdurahman, Tafsir Bintusy Syathi’, terj. Mudzakir Abdussalam (Bandung:
+Mizan,1996), hlm.15
+4
+
+Ibid., hlm. 98
+
+40
+
+dengan sebagian dari pada yang telah Allah berikan kepada para Nabi yang
+terdahulu. Sehubungan dengan ini maka turunlah ayat ini.
+Ayat pertama
+
+∩⊇∪ x8u‘ô‰|¹ y7s9 ÷yuô³nΣ óΟs9r&
+“bukankah telah Kami lapangkan dadamu
+Ayat kedua
+
+∩⊄∪ x8u‘ø—Íρ šΖtã $uΖ÷è|Êuρuρ
+Dan Kami telah menghilangkan dari padamu bebanmu,
+Ayat ketiga
+
+∩⊂∪ x8tôγsß uÙs)Ρr& ü“Ï%©!$#
+yang memberatkan punggungmu?
+Ayat keempat
+
+∩⊆∪ x8tø.ÏŒ y7s9 $uΖ÷èsùu‘uρ
+Dan Kami tinggikan bagimu sebutan (nama)mu.
+Ayat kelima
+
+∩∈∪ #ô£ç„ Îô£ãèø9$# yìtΒ ¨βÎ*sù
+Karena sesungguhnya sesudah kesulitan itu ada kemudahan,
+Ayat keenam
+
+∩∉∪ #Zô£ç„ Îô£ãèø9$# yìtΒ ¨βÎ)
+sesungguhnya sesudah kesulitan itu ada kemudahan.
+Ayat ketujuh
+
+41
+
+∩∠∪ ó=|ÁΡ$$sù |Møîtsù #sŒÎ*sù
+Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan
+sungguh-sungguh (urusan) yang lain,
+Ayat kedelapan
+
+∩∇∪ =xîö‘$$sù y7În/u‘ 4’n<Î)uρ
+dan hanya kepada Tuhanmulah hendaknya kamu berharap.
+
+B. Penafsiran Surah
+1.
+
+Penafsiran Secara Umum
+
+∩⊇ ∪ 8
+x ‘u ‰
+ô ¹
+| 7
+y 9s y
+÷ u ³
+ô Σn Ο
+ó 9s &r
+Pada ayat ini Hamka menjelaskan bahwa sempit karena susah atau
+dukacita, sempit yang akan ditempuh sehingga Allah melapangkan dada. Lapang
+dada di sini sebagai ungkapan fikiran yang sempit.5
+Al-Qur'an juga telah menyebutkan dalam surah At-Thalaq (7)
+Artinya: Hendaklah orang yang mampu memberi nafkah menurut
+kemampuannya. Dan orang yang disempitkan rezekinya hendaklah memberi
+nafkah dari harta yang diberikan Allah kepadanya. Allah tidak memikulkan beban
+kepada seseorang melainkan (sekedar) apa yang Allah berikan kepadanya. Allah
+kelak akan memberikan kelapangan sesudah kesempitan.
+Sayyid Quthb mengatakan ayat ini mengisyaratkan ada kesempitan dalam
+jiwa Nabi dalam menghadapi urusan dakwah terdapat rintangan-rintangan yang
+sukar dijalaninya, bahkan merasa sangat berat dalam menjalani dakwah. Di sinilah
+sangat dibutuhkan pertolongan, bantuan dan bekal dari Allah. Maka siapkanlah
+perasaan Nabi Muhammad untuk merasakan nikmat, bukankah telah mendapatkan
+5
+
+Hamka, Tafsir Al-Azhar (Jakarta: PT. Pustaka Panji Mas, 1982), Juz XXX, hlm.196
+
+42
+
+kesenangan di samping kesengsaraan, kegembiran disamping kepayahan dalam
+menghadapi rintangan.6
+Firman Allah ini mengejawantahkan pada Rasulullah. Beliau seorang yang
+sederhana, teguh, optimis, semangat tinggi dan ringan kaki. Sehingga Al-Quran
+dengan singkat menggambarkan dirinya sebagai penunjuk jalan kemudahan.
+QS.al-A’raf : 157 menyebutkan ...”membuang dari mereka beban-beban dan
+belenggu yang ada pada mereka”7
+Allah telah melapangkan dadanya apa yang menjadi masalah dalam
+hidupnya senantiasa ringan dalam berpikir dan tidak mudah gelisah. Biasanya
+kegelisahan yang dirasakan berkenaan dengan keadaan hatinya yang kacau yang
+membuat hatinya menjadi sempit, akan tetapi dalam surah ini mengajarinya
+bagaimana agar bisa menembus dinding permasalahan.8
+Al-Qur'an telah memuat makna dari kelapangan dada. Salah satunya dalam
+surah Thaha: 25-27
+
+ÏiΒ Zοy‰ø)ãã ö≅è=ôm$#uρ ∩⊄∉∪ “ÌøΒr& þ’Í< ÷Åc£o„uρ ∩⊄∈∪ “Í‘ô‰|¹ ’Í< ÷yuõ°$# Éb>u‘ tΑ$s%
+
+∩⊄∠∪ ’ÎΤ$|¡Ïj9
+
+Maksud dari ayat ini waktu Nabi Musa as. Memohon kepada Allah agar
+dianugerahi kelapangan dada serta dipermudah untuknya segala persoalan
+
+Sayyid Quthb, Tafsir Fi Z}hilal Al-Qur’an di Bawah Naungan Al-Qur'an, terj. As'ad
+Yasin, Abdul Aziz Salim Basyarahil (Jakarta: Gema Insani Pres, 2002), Juz XXIV, hlm.169
+6
+
+7
+
+Aidh Al-Qarani, La-tahzan terj. Samson Rahman (Jakarta : Qisthi Press, 2004) Cet. 7,
+
+8
+
+Muhammad Abduh, Tafsir Juz’Amma terj. Muhammad Baqir (Bandung: Mizan 1999)
+
+hlm. 302
+
+hlm. 232
+
+43
+
+(Tuhanku, lapangkanlah untukku dadaku dan mudahkanlah untukku urusanku).
+Sedangkan Nabi Muhammad Saw memperoleh kelapangan dada tanpa
+mengajukan permohonan. Nabi Musa mengajukan permohonan agar dipermudah
+urusanya, sedangkan Nabi Muhammad dianugerahi kemudahan, apa pun kesulitan
+yang dihadapi maka dengan pertolongan Allah akan mampu menyelesaikannya.
+Dalam QS. al-A’la: 8 telah dijelaskan bahwa, “Kami akan mempermudahmu
+kepada kemudahan”.9
+Kelapangan dada yang dianugerahkan pada Nabi dan juga umatnya,
+dengan kapasitas yang berbeda yang dijelaskan dalam surah Al-An’am: 125
+
+ö≅yèøgs† …ã&©#ÅÒãƒ βr& ÷ŠÌãƒ tΒuρ ( ÉΟ≈n=ó™M∼Ï9 …çνu‘ô‰|¹ ÷yuô³o„ …çµtƒÏ‰ôγtƒ βr& ª!$# ÏŠÌãƒ yϑsù
+
+}§ô_Íh9$# ª!$# ã≅yèøgs† šÏ9≡x‹Ÿ2 4 Ï!$yϑ¡¡9$# ’Îû ß‰¨è¢Átƒ $yϑ‾Ρr'Ÿ2 %[`tym $¸)Íh‹|Ê …çνu‘ô‰|¹
+
+∩⊇⊄∈∪ šχθãΖÏΒ÷σãƒ Ÿω šÏ%©!$# ’n?tã
+
+Artinya: “barang siapa yang Allah menghendaki akan memberikan kepadanya
+petunjuk, niscaya dia melapangkan dadanya untuk memeluk agama Islam. Dan
+barang siapa yang dikehendaki Allah kesesatanya niscaya Allah menjadikan
+dadanya sesak lagi sempit seolah-olah ia sedang mendaki ke langit. Begitulah
+Allah menimpakan siksa kepada orang-orang yang tidak berman”.
+Kata “untukmu” di sini berfungsi mengisyaratkan bahwa kelapangan dada
+yang diperoleh Nabi itu suatu kekhususan, sehingga kelapangan serupa tidak
+didapatkan selain Nabi. Makna ini diperkuat lagi dengan kata sebelum shadraka.10
+
+9
+M. Quraish Shihab, Tafsir al-Misbah : Pesan, Kesan dan keserasian al-Qur’an, Vol 15
+(Jakarta: Lentera Hati,2002) hlm. 355
+10
+
+Ibid., hlm. 354
+
+44
+
+Kekhususan di sini bukan pada kapasitas akan tetapi dalam substansinya, melalui
+perbandingan antara dua ayat yang mengandung kelapangan dada, masing-masing
+pada Nabi Isa dan Nabi Muhammad Saw.
+Kehidupan yang dilalui dengan kecemasan dan kebingungan yang selalu
+menghantui pikiran Nabi dan ketika kebingungan mencari jalan untuk membawa
+ke jalan hidayah, maka ayat ini menerangkan sesungguhnya kami telah
+melenyapkan segala kebingungan dari dirimu supaya tidak khawatir dan bersusah
+hati. Jadikan hati yang berlapang jiwa dan percaya pada bantuan Allah.11 Sebagai
+manusia, tentunya seseorang selalu dihadapkan dengan berbagai masalah dan
+persoalan. Dalam hal ini maka menghadapi masalah haruslah dengan berlapang
+dada (hati), hati yang lapang berkaitan dengan iman seseorang. Karena itu apabila
+cahaya keimanan telah masuk dalam hati seseorang maka hatinya akan menjadi
+lapang. Maka apabila seseorang itu telah menyatakan beriman dan iman telah
+masuk dalam hatinya maka Allah akan menerima keimanan tersebut dan
+menjadikan hati orang itu lapang.
+
+∩⊄∪ x8u‘ø—Íρ šΖtã $uΖ÷è|Êuρuρ
+Dan kami telah menghilangkan daripadamu bebanmu,
+Beban di sini “risalah” agar bisa menyampaikan, Oleh karena itu Allah mudahkan
+Nabi dalam penyampaiannya. Sekalipun mendapat perlakuan jelek dan
+menyampaikanya dari orang-orang yang menjadi kewajiban risalahmu.12 Kaitan
+
+11
+
+A. Mustafa al-Maraghi, Tafsir al-Maraghi, terj. Bahrun Abubakar (Semarang: Toha
+Putra, 1986) Juz XXX, hlm. 332
+12
+
+Ibid., hlm.333
+
+45
+
+surah al-Insyirah} dengan ayat lain itu adalah pada do’a Nabi Musa kepada
+Tuhannya, ayat ini saling membenarkan satu sama lain. Musa berkata: ya Allah
+lapangkan dadaku dan mudahkanlah urusanku” serta memohon pertolongan untuk
+berdakwah di jalan Allah yang Memikul beban yang berat di atas pundaknya.
+Maka sebaliknya ketaatan pada Allah justru membawa kekuatan. Firman Allah:
+“minta tolonglah kalian dengan sabar dan shalat, sesungguhnya shalat itu berat,
+kecuali bagi orang-orang yang khusyuk”.13 Orang yang melakukan amal baik,
+maka seolah-olah akan mendapat rizki yang memberikan kekuatan. Sementara itu
+orang yang berbuat dosa maka seolah ada beban yang memberatkan pundaknya.
+Maka tugas menyampaikan risalah Allah kepada umatnya dan memimpin dengan
+petunjuknya itu sangatlah beban yang berat, namun bila dipimpin dengan yang
+haq tidak akan merasakan beban yang lebih berat dari itu.14
+
+∩⊂∪ x8tôγsß uÙs)Ρr& ü“Ï%©!$#
+"Dan memberatkan punggungmu"
+Maksud telah hilangkan beban Nabi yang memberatkan punggungnya sehingga
+hampir meretakanya karena beratnya, kemudian hilangkan beban itu dengan
+melapangkan dada sehingga terasa ringan dan enteng beban tugasnya.15 Seberat
+cobaan yang dirangkul dalam hidupnya maka Allah akan meringankan cobaannya,
+
+13
+
+Lihat Al-Qur’an dan Terjemahnya Depag RI, QS.Al-Baqarah : 45, hlm 16
+
+14
+
+Murthada Muthahari, Tafsir surah Pilihan, terj. Hasan Rahmat dan M.S Nasrullah
+(Bandung: Pustaka Hidayah), Cet. 3, Hlm 157
+15
+Sayyid Quthb, Tafsir F>i Z}.ilalil Qur’an di Bawah Naungan al-Quran, terj. As'ad Yasin,
+Abdul Aziz Salim Basyarahil (Jakarta: Gema Insani Pres 2002), Jilid. XXIV, hlm.169
+
+46
+
+dengan cara sabar dan tawakal pada Allah, dengan ini maka sesulit apa pun akan
+terasa ringan
+. ∩⊆∪ x8tø.ÏŒ y7s9 $uΖ÷èsùu‘uρ
+"Dan Kami tinggikan bagimu sebutan (nama)mu."
+Ayat ke empat menegaskan anugerah Allah yakni: di samping kemudahan
+dan keringanan beban juga meninggikan sebutan yakni nama Nabi16 ayat yang
+menceritakan nikmat Ilahi, kemudian Allah menjelaskan masalah filosofi. Sampai
+di sini ayat tersebut bersifat pribadi berbicara tentang masalah pribadi Nabi Saw17
+
+∩∈∪ #ô£ç„ Îô£ãèø9$# yìtΒ ¨βÎ*sù
+Karena sesungguhnya sesudah kesulitan itu ada kemudahan. Ini termasuk ayatayat yang menguraikan anugrah Allah swt. Kata al-‘usr (‫ )ا‬dalam al-Quran
+terulang 4 kali, dalam bentuknya 12 kali terulang. Kata yusr ( ) terulang
+sebanyak 6 kali, tiga di antaranya bergandengan secara langsung dengan ‘usr,
+sedang kata yusr sebanyak 44 kali.18
+Artinya, secara umum, sesungguhnya jika kesulitan itu datang, maka ia
+disertai dengan kemudahan. Oleh karena itu, kemudahan tersebut berada dalam
+kesulitan itu. Dua ayat tersebut mengisyaratkan akan misi Nabi Saw, "Betapa
+besar kesulitan yang Nabi hadapi, sehingga tulang-tulang punggung Nabi
+berderak. Ketika itu, musuh benar-benar (berusaha) untuk menghapus nama Nabi,
+
+Fikr) t.th
+
+16
+
+M.Quraish Shihab, Tafsir al-Misbah…, hlm.361
+
+17
+
+Ibid..hlm 159
+
+18
+
+Al-Ra>ghib Asfahani>y, Al-Mu’jam al-Mufahras li Alfadz Al-Qur’a>n, ( Beirut: Dar al-
+
+47
+
+akan tetapi yang terjadi adalah sebaliknya. Inilah aturan Allah".19
+Kelapangan yang diperoleh Nabi Muhammad Saw, keringanan beban yang
+selama ini dirasakan, itu semua disebabkan karena sebelum ini ia telah mengalami
+pucak kesulitan. Akan tetapi dihadapi dengan tabah, sabar dan optimis.20 Sabar
+menuntut ketabahan dalam menghadapi sesuatu yang sulit, berat dan pahit yang
+harus diterima dengan penuh tanggung jawab21. Seperti yang dijabarkan dalam
+QS.Luqman:17
+
+( y7t/$|¹r& !$tΒ 4’n?tã ÷É9ô¹$#uρ Ìs3Ζßϑø9$# Çtã tµ÷Ρ$#uρ Å∃ρã÷èyϑø9$$Î/ öãΒù&uρ nο4θn=¢Á9$# ÉΟÏ%r& ¢o_ç6≈tƒ
+
+∩⊇∠∪ Í‘θãΒW{$# ÇΠ÷“tã ôÏΒ y7Ï9≡sŒ ¨βÎ)
+
+Seseorang yang menghadapi rintangan dalam pekerjaannya, terkadang hati
+kecilnya membisikkan agar dia berhenti saja, walaupun apa yang diharapkan
+belum juga tercapai. Sedangkan bila mengikuti kehendak kata hatinya dan
+nafsunya maka akan menggerutu dan meronta. Akan tetapi bila bisa menahan diri,
+ia akan menerima dengan penuh kerelaan maka akan terasa terhibur. Kesulitan itu
+ada bersama kemudahan, apabila ingin memperoleh kemudahan, kesenangan dan
+kebahagiaan maka tidak mungkin mendapatkan begitu saja sebelum menyebrangi
+jalan yang penuh tantangan22.
+
+19
+
+, Dikutip dari “Durusun min al-Quran”, karya Syahid Ayatullah Murtadha Muthahari,
+http//www google.com dikutip 5 april 2008
+20
+
+Ibid, hlm. 362
+
+21
+
+M.Quraish Shihab, Secercah Cahaya Ilahi Hidup Bersama Al-Qur'an, (Bandung:
+Mizan, 2007), Cet.I hlm.166
+22
+
+Murthadha Muthahari, http//www google.com
+
+48
+
+∩∉∪ #Zô£ç„ Îô£ãèø9$# yìtΒ ¨βÎ)
+Sesungguhnya sesudah kesulitan itu ada kemudahan. Inilah sistem itu. Orang juga
+membacanya dalam surat al-Sajdah (ayat 24):
+"Dan Kami jadikan di antara mereka pemimpin-pemimpin yang memberi
+petunjuk dengan perintah Kami ketika mereka bersabar. Dan mereka meyakini
+ayat-ayat Kami".
+Dengan kata lain, Kami telah menentukan seorang pemimpin di antara
+mereka yang akan memberikan petunjuk tentang urusan Kami atas manusia.
+Karena mereka telah bersabar dalam (mengemban) berbagai kesulitan serta
+beriman kepada ayat-ayat Kami. Iman menyertai amal di dalam menghadapi
+kesulitan-kesulitan23. Yang disebutkan dalam al-Qur’an, seperti dalam surat Ali'Imrân (ayat 146-148):
+
+«!$# È≅‹Î6y™ ’Îû öΝåκu5$|¹r& !$yϑÏ9 (#θãΖyδuρ $yϑsù ×ÏWx. tβθ•‹În/Í‘ …çµyètΒ Ÿ≅tG≈s% %cÉ<‾Ρ ÏiΒ Éir'x.uρ
+
+(#θä9$s% βr& HωÎ) óΟßγs9öθs% tβ%x. $tΒuρ ∩⊇⊆∉∪ tÎÉ9≈¢Á9$# =Ïtä† ª!$#uρ 3 (#θçΡ%s3tGó™$# $tΒuρ (#θà4ãè|Ê $tΒuρ
+ÏΘöθs)ø9$# ’n?tã $tΡöÝÁΡ$#uρ $oΨtΒ#y‰ø%r& ôMÎm6rOuρ $tΡÌøΒr& þ’Îû $oΨsù#uóÎ)uρ $oΨt/θçΡèŒ $uΖs9 öÏ4øî$# $uΖ−/u‘
+
+=Ïtä† ª!$#uρ 3 ÍοtÅzFψ$# É>#uθrO zó¡ãmuρ $u‹÷Ρ‘‰9$# z>#uθrO ª!$# ãΝßγ9s?$t↔sù ∩⊇⊆∠∪ tÍÏ4≈x6ø9$#
+
+∩⊇⊆∇∪ tÏΖÅ¡ósçRùQ$#
+
+Artinya: Dan betapa banyak Nabi yang berperang bersama sejumlah besar dari
+pengikut(nya) yang bertakwa. Mereka tidak menjadi lemah karena bencana yang
+menimpa mereka di jalan Allah, dan tidak lesu dan tidak (pula) menyerah. Allah
+menyukai orang-orang yang sabar. Tidak ada do’a mereka selain ucapan, "Ya
+Tuhan kami, ampunilah dosa-dosa kami dan tindakan-tindakan kami yang
+berlebih-lebihan dalam urusan kami dan kuatkanlah pendirian kami, dan tolonglah
+kami terhadap kaum yang kafir." Karena itu Allah memberikan kepada mereka
+23
+
+Ibid
+
+49
+
+pahala dunia dan pahala yang baik di akhirat. Dan Allah menyukai orang-orang
+yang berbuat kebaikan.
+Akan tetapi betapa banyak di sepanjang sejarah, orang-orang tertindas
+yang menyembah Allah, dan betapa banyak pula para Nabi yang berperang
+bersama mereka di jalan Allah. Mereka tidak menjadi lemah karena bencana yang
+menimpa mereka di jalan Allah. Maksudnya, betapa banyak kesulitan-kesulitan
+yang mereka pikul, tetapi mereka tidak dikalahkan oleh kelemahan itu24.
+Mereka tidak menampakkan kesedihan hati, ketundukan, dan kehinaan.
+Jiwa-jiwa mereka tidak runtuh dan iman-iman mereka tidak guncang. Bahkan
+mereka mencari perlindungan serta memohon pertolongan kepada Allah. Mereka
+tidak mengatakan sesuatu kecuali hanya memohon kepada Allah agar memenuhi
+mereka dengan kesabaran serta istiqamah di jalan-Nya. Juga agar menolong
+mereka dari orang-orang kafir. Dengan ini mereka menerima semua kesulitan
+dengan sabar dan ikhlas juga tawakal Bahkan lapang dada.25
+
+∩∠∪ ó=|ÁΡ$$sù |Møîtsù #sŒÎ*sù
+
+"Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan
+sungguh-sungguh (urusan) yang lain". Maksudnya, Bukankah setelah selesai dari
+hal itu dan beban berat telah dihilangkan dari pundak beban, maka seharusnya Ia
+pergi tidur dan beristirahat. Apabila seseorang melakukan itu, maka sesungguhnya
+
+24
+
+Murtadha Muthahari, “Du>rusu>n min al-Qur'a>n”, karya Syahid Ayatullah Murtadha
+Muthahhari) www google.com, diambil 5 april 2008
+25
+
+Ibid., www google.com diakses 5 april 2008
+
+50
+
+seseorang telah mendatangkan nasib yang buruk. Sebab, nasib buruk akan datang
+karena kebiasaan bermalas-malasan. Tak ada suatu perkara yang merupakan
+musuh manusia, selain kenyamanan26.
+Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan
+sungguh-sungguh (urusan) yang lain.
+Semua pekerjaan telah terselesaikan, maka terjunkanlah ke dalam
+keletihan dan kelelahan lain. Carilah kesulitan-kesulitan lain dan jangan biasakan
+seseorang
+
+dalam
+
+kenyamanan.
+
+apakah
+
+kesulitan-kesulitan
+
+ibadah
+
+akan
+
+menghilang darinya Saat Nabi Saw menghadapi kesulitan-kesulitan sosial yang
+menyibukkan beliau, apakah beliau menghabiskan waktu malamnya dengan tidur
+sampai pagi hari? Akan tetapi beliau tidak melakukannya atas kehendak kata
+hatinya.
+"Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan
+sungguh-sungguh (urusan) yang lain".
+dan hanya kepada Tuhanmulah hendaknya kamu berharap.
+Terjunkanlah diri Anda ke dalam kesulitan-kesulitan yang sebenarnya.
+Dan jangan biarkan diri Anda tenggelam dalam kenyamanan, karena ini adalah
+musuh kemanusiaan. Karena itu apabila telah selesai mengerjakan suatu
+pekerjaan, berdirilah dan segera kerjakan yang lain dan harapkanlah rahmat
+tuhanmu.27
+
+∩∇∪ =xîö‘$$sù y7În/u‘ 4’n<Î)uρ
+"Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan
+26
+
+Ibid., www@google.com diakses 5 april 2008
+
+27
+
+Murthadha Muthahari.., hlm 163
+
+51
+
+sungguh-sungguh (urusan) yang lain, dan hanya kepada Tuhanmulah hendaknya
+kamu berharap".
+
+2. Kandungan Surah
+Pada dasarnya surah al-Insyirah} menguraikan beberapa hal berikut:
+Pertama, Menyuruh selalu bersabar dan bertawakal. Kedua, Selalu berfikir positif
+dalam semua hal ketiga, Mengadung nikmat-nikmat Allah. Namun setiap mufasir
+selalu ada perbedaan yang menunjukan karakteristik dan tingkat kajian yang
+berbeda, seperti al-Maragi, beliau mengatakan bahwa surah ini mengandung
+nikmat yang dimiliki oleh Rasulullah Saw sebagai hamba-Nya juga mempunyai
+nikmat yang diberi oleh Allah pada Rasulnya. Maka dari itu seseorang dikatakan
+beriman kalau masih ada sabar dan berani menghadapi cobaan dalam hidupnya
+karena dengan iman maka semua akan dapat dilalui dengan lancar. Sedangkan
+orang yang imannya lemah maka cobaan akan dirasakan dengan berat.28
+Kelapangan dada apabila dikaitkan dengan hati maka identik dengan
+putihnya mata. Dada (Ash-s{hadru) merupakan tempat masuknya godaan dan
+penyakit. Al-Insyirah} (kelapangan) selalu dikaitkan dengan kata Ash S{hadru,
+bukan dengan Al-qalbu, seperti dalam QS. Al-a’raf: 2
+“Maka dadamu jangan sampai merasa susah karenanya29”. Apabila
+seseorang merasakan kesempitan dalam hidupnya, maka kesempitan itu dirasakan
+tanpa batas. Juga apabila hati seseorang telah mengalami kelapangan, apabila
+
+28
+
+Ahmad Mustafa al-Maragi, Tafsir al- Maragi terj. Henry Noer Aly (Semarang: Toha
+Putra, 1987) juz xxx, hlm
+29
+
+QS. Al-a’raf; 2
+
+52
+
+dada merasa sempit terhadap kebenaran maka akan terbuka luas untuk kebatilan.30
+Sedangkan makna syarh} (melapangkan) para mufasir memandang secara umum
+bahwa syarh} ash-s{hadr adalah sa’ah ash-s{hadr.31 Ungkapan ini terdapat pada
+hadis, Untuk tanda pemimpin yang luasnya dada, maksudnya bukan orang yang
+lebar dada akan tetapi lapang dada di sini dapat memikul tugas dengan baik dan
+sabar. Ini merupakan ungkapan yang merujuk pada kemampuan seseorang dalam
+memikul beban yang berat serta kemampuanya bersabar.
+At-Thabari dalam tafsirnya mengatakan surah ini dinamai Alam Nasyrah{
+sedangkan mufasir lain menyebutkan surah Al-Insyirah{. Sedangkan maksud
+artinya ‘Al-Syarh{ adalah kelapangan, kelebaran dan keluasan. Pengertian ini
+sangat dekat dengan kebahasaan dari lafal32. Mufasir lain seperti Al-Zamakhsyari
+mengartikan “kami lapangkan dadamu” mencakup suka duka nubuwwah dan
+menghilangkan dari kesempitan dan kepicikan yang menyertai kebodohan.
+Sedangkan Al-Raghib cenderung pada pendapat ketika menggabungkan surah AlD{uha seperti QS. Tha>ha dan Al-Zumar (25:22).33 Surah Tha>ha berkenaan dengan
+Nabi Musa as, Allah berfirman,
+“dan mudahkanlah untukku urusanku. Dan lepaskan kekakuan dari lidahku,
+supaya mereka memahami perkataanku”34.
+
+30
+
+Amir An-Najar, Ilmu Jiwa Dalam Tasawuf : Studi Komparatif dengan Ilmu Jiwa
+Kontemporer, terj. Hasan Abrory (Jakarta: Pusataka Azzam, 2001), hlm.74
+31
+
+Perbedaan makna syarh ash-shadr dan sa’ah ash-shadr. Setiap syarh ash-shadr pasti
+mencakup sa’ah ash-shadr, tetapi tidak setiap sa’ah ash-shadr mencakup syarh ash-shadr. AlQuran tidak mengungkapkan dengan kata-kata Alam nuwassi’laka shadraka, tetapi memakai
+kalimat Alam nasyrah laka shadraka. Lihat Ibid., hlm 75
+33
+
+Al-Qur'an dan Terjemah Depag RI, hlm. 478
+
+34
+
+Ibid., QS. Az-Zumar: 22, hlm. 796
+
+53
+
+Ayat ini turun waktu Nabi Musa memohon pertolongan, kelapangan dan kekuatan
+jiwa pada saat menghadapi Fir’aun yang begitu zalim dan sangat besar
+kekuasaanya. Dari sini kita bisa menafsirkan bahwa ayat ini membahas
+kelapangan dada, bahwa Allah SWT telah memberikan kekuatan untuk
+menemukan kebenaran, kearifan untuk memaafkan kesalahan orang lain, serta
+kekuatan dalam menghadapi gangguan dalam hidup. Ayat ini merupakan cahaya
+Ilahi yang memiliki kearifan, kelapangan hati untuk menghadapi kesulitan serta
+memahami hakikat kehidupan.35
+C. Penafsiran Ulama
+Para ulama dalam menafsirkan suatu ayat atau surah menunjukan sebuah
+pengamatan, bahwa surah ini diikuti dengan al-Fatihah. Ada pula yang
+mengatakan bahwa surah ini dengan al-D{huha tidak perlu diselang dengan
+"basmalah" karena keduanya merupakan surah yang diturunkan Allah untuk
+menghibur Rasulullah Saw, dan dari surah ini juga bisa dijadikan penghibur bagi
+kaum muslimin. Sedangkan pendapat lain mengatakan kedua surah ini sebenarnya
+satu surah. Oleh karena itu para perawi membaca surah ini dalam satu rakaat dan
+tidak memisahkan keduanya dengan "basmalah". Akan tetapi berdasarkan riwayat
+yang mutawatir keduanya merupakan surah yang berdiri sendiri-sendiri sekalipun
+mempunyai kaitan makna yang erat. Keduanya menceritakan tentang perincian
+nikmat-nikmat Allah dan perintah bersyukur atas nikmatnya. Dalam surah AnNahl (16); 106 menafsirkan syarah{ pada kaum kafir akan kemungkaran pada
+Allah, sedangkan dalam QS. Al-Isra’:30 makna syarah} di sini memohon
+35
+
+hlm. 280
+
+Aam Aminudin, Tafsir al-Qur'an Kontemporer, (Bandung: Percik Press, 2004) Cet. 2,
+
+54
+
+kelapangan pada rezeki yang menyempitkannya. Kata syarah}{ dalam Al-Qur’an
+diulang sebanyak 25 kali36.
+Para mufasir dalam menafsirkan suatu ayat masing-masing mempunyai
+pendapat yang berbeda. Masing-masing penafsir mempunyai pendapat dalam
+penafsiran Al-Qur'an37
+1. Tafsir ayat pertama
+Pada ayat pertama Quraish Shihab mengatakan tentang pembedahan dada
+Nabi Muhammad Saw yang dilakukan oleh para malaikat, baik di kala beliau
+remaja atapun sebelum isra’ dan mi’raj. Di samping itu ayat yang berbicara
+tentang kelapangan dada, dalam pengertian immaterial yang dapat menghasilkan
+kemampuan menerima, menemukan dan memaafkan kesalahan orang lain.
+Kekhususan bukan dari segi kadar ataupun kapasitas kelapangan dada
+tetapi juga pada substansinya. Hal terakhir dapat terlihat mulai perbandingan
+antara dua ayat yang berbicara tentang kelapangan dada. Masing-masing
+dianugerahkan pada Nabi Muhammad dan Nabi Musa as. Nabi Musa yang
+memohon kepada Allah agar dianugerahi kelapangan dada serta dipermudah
+untuknya segala persoalan, seperti yang diterangkan dalam QS. Tha>ha: 25-26,
+sedangkan Nabi Muhammad tanpa meminta permohonan beliau memperoleh
+anugerah kelapangan dada.
+
+36
+
+Al-Ra>ghib Asfahan>y, Al-Mu’ja>m Al-Mufahras li> alfadz} Al-Qur’an, (Beirut: Dar al-
+
+Fikr) t.th
+37
+
+Nasirudin Baidan, Metodologi Penafsiran Al-Qur'an ( Yogyakarta: Pustaka Pelajar,
+1998), hlm, 101.
+
+55
+
+Dalam hal lain, permohonan Nabi Musa agar dipermudah semua
+urusannya, sedangkan Nabi Muhammad bukan sekadar urusan yang dimudahkan
+Allah bagi beliau, akan tetapi Nabi sendiri yang di anugerahi kemudahan sehingga
+sebesar apa pun sulitnya yang akan dihadapi, maka dengan pertolongan Allah
+Nabi akan segera menyelesaikan. Telah disebutkan pada QS. Al-A’la>: 8 …”Kami
+akan mempermudahmu kepada kemudahan…”
+Quraish Shihab dalam Tafsir al-Misbah juga menerangkan bahwa ayat
+pertama tentang kelapangan dada dalam pengertian immaterial yang bisa
+menghasilkan kemampuan menerima dan menemukan kebenaran, hikmah dan
+kebijaksanaan, serta kesanggupan menampung bahkan memaafkan kesalahan dan
+ganguan orang lain. Seperti dalam QS. Al-An’am; 12, Isi kandungan ayat ini
+merupakan kelapangan dalam memeluk agama Islam. Pada ayat pertama telah
+dijelaskan bahwa bukankah Allah telah melapangkan dadamu. Seseorang
+berkemampuan menerima berbagai kenyataan yang tidak menyenangkan dengan
+tenang dan terkendali. Orang yang berlapang dada mempunyai kekuatan jiwa
+untuk menahan dan tidak mudah putus asa manakala sedang menghadapi
+kesulitan baik psikis maupun fisik. Semakin tinggi kelapangan dada seseorang,
+maka akan semakin menerima realitas yang beragam38.
+Hamka menjelaskan arti kata ”melapangkan” di sini, hati manusia yang
+tadinya sempit disebabkan karena susah atau duka cita, atau karena belum
+menemukan jalan keluar yang akan ditempuh. Dikatakan juga bisa dimaknai
+dengan fikiran yang sempit karena banyaknya masalah dan beban.
+38
+Fuad Nashari,”Kelapangdadaan Mahasiswa Santri Dan Mahasiswa Regular”, Jurnal
+Psikologi Islami Vol. I No.2 Desember 2005. hlm 131
+
+56
+
+Menurut al-Maraghi kata syarh{ adalah luas dan lapang, maksudnya orang
+tersebut besar dan kuat cita-citanya, secara lahiriyah jika dada seseorang lapang,
+maka hatinya pun tidak akan pernah merasa sempit dalam menghadapi cobaan.
+Sesungguhnya Allah telah melenyapkan segala kebingungan dari dirimu agar
+tidak khawatir dan bersusah hati. Maka Jadilah orang yang berhati lapang yang
+melihat kesulitan seberat apa pun akan tetap lapang dan percaya akan bantuan
+Allah sehingga akan merasakan ketentraman dalam jiwanya. Ketentraman jiwa
+akan sangat berpengaruh dalam menjalankan kehidupan sehari-hari, karena kalau
+hatinya terdapat kerisauan maka seseorang tidak bisa merasakan kelapangan dada,
+kecuali dengan keimanan orang tersebut.
+Dalam tafsir Juz 'Amma karangan Abduh, disebutkan bahwa Allah telah
+melapangkan dada Nabi Saw berkenaan dengan keadaaan bangsanya itu yang
+merupakan beban amat berat bagi beliau. Maka Allah telah menghilangkan beban
+itu dari pundak beliau, dengan memberinya bimbingan menuju jalan keselamatan
+bagi mereka. Dan Allah senantiasa menurunkan wahyunya setiap kali Nabi Saw
+dalam keadaan bingung tentang sesuatu atau hatinya terasa sempit karena
+memikirkan sesuatu yang dihadapinya.39
+Lapang dada, di sini lebih menekankan pada dakwah yang dijalani Nabi,
+seperti yang dipaparkan dalam Tafsir an-Nur karya Hasbi ash-Shiddieqy, bahwa
+dengan berlapang dada, maka seseorang bisa menjalankan dakwahnya atau
+kehidupannya dengan baik, walaupun memikul beban akan terlampaui dengan
+
+39
+
+hlm. 232
+
+Muhammad Abduh, Tafsir Juz ‘Amma terj.Muhammad Baqir (Bandung: Mizan,1999)
+
+57
+
+jiwa yang rela dan hati yang tetap terjaga40. Apa pun bentuknya kalau dilakukan
+dengan jiwa yang tenang, maka akan menghasilkan hasil yang sempurna, karena
+jiwa sangat mempengaruhi keadaan psikologisnya setiap orang. Orang yang
+lapang juga dalam mengerjakan suatu kehidupan dengan lapang dan akan
+menyikapi kesulitan dengan tenang sehingga tahu akar masalah yang menjadi inti
+dari kesulitan itu.
+Adapun tafsir al-Kasyif menafsirkan bahwa Ar-rozi berkata: diriwayatkan
+Thawus dan Umar bin Abdul Aziz bahwa sesungguhnya surah al-Insyirah} satu
+surah dengan surah al-D{uha, dan dibaca dalam satu rakaat tanpa basmalah. “Alam
+Nasyrah{“ sama maknanya dengan "Alam ya>jidka”. Pada ayat pertama yang
+menerangkan tentang keadaan Nabi.
+Surah Al-Insyirah{ menurut Quraish Shihab menggambarkan anugerah
+ketenangan jiwa yang telah diperoleh Nabi Muhammad serta petunjuk yang bisa
+mengantar guna memperoleh ketenangan itu.41
+2. Tafsir Ayat kedua
+Ayat yang mengisahkan ”....telah menghilangkan bebanmu darimu....” ini ada
+beberapa perbedaan pendapat. Di antaranya: dalam tafsir al-Misbah anugerah
+kemudahan yang akan diperoleh Nabi Muhammad Saw. Ayat di atas melanjutkan
+bahwa: dan di samping itu Kami telah menanggalkan darimu bebanmu yang
+selama ini dipikul dan yang dirasakan saat memberatkan punggung.
+
+40
+
+Hasbiy Ash-shiddiqiey, Tafsir an-Nur (Jakarta: Bulan Bintang, 1996) hlm. 150-151
+
+41
+Quraish Shihab, Tafsir al-Misbah: Pesan, Kesan Dan Keserasian Al-Qur’an (Jakarta:
+Lentera Hati, 2002) vol. 15 hlm. 367
+
+58
+
+Dalam Al-Qur’an, beban yang dipikul tidak disebutkan secara rinci.
+Dengan hal ini beban yang dimaksud bukan sesuatu yang berat dipikul dengan
+kayu, akan tetapi wahyu yang diterimanya selalu merupakan wahyu yang berat
+sampai Nabi jarang mencucurkan keringat, bahkan menjadikanya rambut beruban.
+Ada pula yang berpendapat beban yang berat itu beban psikologis yang
+diakibatkan keadaan umat yang berada dalam jurang kebinasaan, tetapi tidak
+mengetahui jalan keluar yang tepat. Beban berat di sini ada dalam kandungan kata
+dha|llan terdapat dalam surah al-D{uha, sedangkan keringanan ada dalam surah
+yang sama.42
+Kata ( ‫ )و‬wad{ha’na yang berbentuk kata kerja lampau, Bentuk ini
+menjadi alasan yang kuat dari pendapat yang menyatakan bahwa pada ayat
+pertama bukan ”pertanyaan” akan tetapi penegasan bahwa telah melapangkan
+dada Nabi Muhammad Saw.43
+
+Wad{ha’a (‫ )و‬mempunyai banyak arti, antara lain: meletakan,
+merendahkan, meremehkan. Umumnya al-Qur’an menggunakan kata tersebut
+menyangkut sesuatu yang berkaitan dengan hal-hal yang berat, kemudian menjadi
+enteng. Seperti dalam Ali-Imran: 36.
+Ada juga kata wizr (‫ )وزر‬yang berarti gunung. Gunung yang memberi
+kesan besar dan berat. Hakikatnya makna yang berat diartikan sama dengan beban
+yang dijalaninya sebesar gunung. Misalnya pemimpin yang mempunyai tanggung
+jawab yang besar, dan amanah yang harus dilakukan dengan penuh bijaksana.
+
+42
+
+Ibid., hlm.357-359
+
+43
+
+Quraish Shihab, Tafsir al-Misbah…..hlm. 357
+
+59
+
+Kata wizraka (‫ )وزرك‬pada tafsir al-Azhar, beban diartikan tekanan dosa
+yang menimpa perasaan Nabi Saw. Tekanan yang dialami Nabi dengan beban
+yang besar, begitu juga dengan umatnya yang banyak masalah dalam hidupnya
+Di sini Al-Maragi menjelaskan orang yang lapang dada, orang yang besar
+dan kuat cita-citanya. Seberapa berat beban yang dipikulnya maka beban tersebut
+dianggap enteng, karena dilalui dengan energi positif maka hanya nikmat yang
+dirasa. Setelah nikmat diperoleh maka datanglah kemudahan di mana setelah
+kesulitan, maka datang kemudahan jalan keluar, sekalipun dengan cara yang
+sederhana maka akan mendapatkan yang akan dicapai jika dilakukan dengan
+tawakal dan sabar. Sesungguhnya tidak ada kesulitan yang tidak teratasi, jika jiwa
+seseorang semangat keluar dari kesulitan dan mencari jalan pemecahan masalah
+menggunakan akal pikiran yang matang dengan bertawakal pada Allah, niscaya
+akan keluar dari kesulitan dengan selamat, sekalipun rintangan selalu menghadang
+akan tetapi pada akhirnya kemenangan akan menujunya.
+Abduh juga mengatakan bahwa dengan adanya jaminan petunjuk
+(hidayah), Allah telah meringankan beban Saw, pada ayat kedua dan ayat ketiga.
+Kalimat a>nqad{a d{ahrak beban yang karena beratnya dapat menimbulkan suara
+gemeretak pada tulang punggung seseorang yang mengangkat beban tersebut.
+Kalimat ini merupakan kiasan, karena beban berat berupa pikiran tentang keadaan
+buruk kaumnya dan sempitnya hati beliau akibat berhadapan dengan begitu
+banyaknya problem yang harus beliau pecahkan, sebelum turunya wahyu yang
+memberikan bimbingan bukanlah beban fisik yang dapat menimbulkan gemeretak
+pada tulang punggung yang memikulnya. Akan tetapi kegelisahan jiwa yang jauh
+
+60
+
+lebih memberatkan dari pada beban fisik yang diperumpamakan. Perupamaan ini
+mengungkapkan tentang kegelisahan amat kuat yang menguasai seluruh jiwa Nabi
+Saw.44
+Kandungan yang mencakup dalam tafsir Al-Maraghi, pertama, perincian
+nikmat-nikmat Allah pada Nabinya. Kedua, janji Allah kepada Nabinya untuk
+melenyapkan segala bencana dan cobaan yang menimpa dirinya. Ketiga, perintah
+Allah pada Nabinya agar melaksanakan amal saleh secara berturut-turut.
+Hasbi Ash-Shiddieqy dalam tafsirnya mengatakan Allah telah menyingkirkan
+segala yang memberatkan pundak yang dipikul yang dijadikan sebagai usaha
+menyampaikan agama kepada ummatnya, sehingga jiwanya selalu tenang dan
+bahagia dalam melaksanakan tugas, hingga beban yang berat akan dirasakan
+ringan.
+3. Tafsir ayat ketiga
+Kata a>nqad{a ( ‫ )ا‬diambil dari kata naqi>d{ (
+
+) yaitu beban berat yang
+
+dipikul dengan menggunakan kayu atau bambu, seringkali melahirkan suara yang
+terdengar bersumber dari alat pikul. Beban berat yang dipikul oleh Nabi
+Muhamad sampai-sampai punggung beliau berbunyi, itu berarti beratnya beban
+yang dipikul oleh beliau. Akan tetapi Al-Qur’an tidak menjelaskan secara rinci,
+oleh karena itu timbul beberapa pendapat antara lain: pertama, beratnya beban
+wahyu al-Qur'an yang beliau terima. Kedua, keadaan masyarakat pada masa
+jahiliyah. Akan tetapi beban yang disebutkan di atas merupakan beban yang
+
+44
+
+Muhammad Abduh., Tafsir Juz 'Amma.., hlm 233
+
+61
+
+cukup berat, akan tetapi jika dibandingkan dengan anugerah yang didapat, beban
+itu tidak sebanding dengan yang didapat.45
+Pendapat kedua menurut Abduh, beban yang berat adalah beban psikologis
+yang diakibatkan oleh umat yang diyakini beliau berada dalam jurang kebinasaan,
+tapi beliau tidak mengetahui apa jalan keluar yang tepat. Beban menurut
+psikologis adalah suatu hal yang diembanya sangat berat yang menjadi beban
+rohani dalam kehidupan manusia. Kegelisahan jiwa yang dirasakan oleh manusia
+mempengauhi beban fisik, beban berat yang dirasaan Nabi berupa pikiran tentang
+keadaan buruk kaumnya dan sempitnya hati akibat berhadapan banyaknya
+masalah yang harus dipecahkan.
+4. Tafsir Ayat keempat
+Abduh mengatakan bahwa kalimat wa> rafa’na laka Z{ikrak, susunan kata
+”bagimu” dan ”darimu” dalam ayat tersebut, Allah mendahulukannya sebelum
+kata ”sebutan nama-mu” dan ” bebanmu” tentunya dimaksudkan untuk lebih
+menguatkan serta lebih cepat menggembirakan Nabi Saw. Semua anugerah
+diberikan pada Nabi Muhammad yang berupa pelapangan dada, peringanan beban
+dan peninggian sebutan namamu. sebelumnya telah diliputi kesempitan hati dan
+berlanjut kesulitan yang menimpa Nabi pada awal perjuangan, ini merupakan
+sunnah (kebiasaan) untuk makhluk46.
+Maksudnya kesulitan yang dialami Nabi tidak seberapa jika dibandingkan
+dengan anugerah yang telah didapat. Di samping itu anugerah dan beban bukan
+45
+
+Quraish Shihab, Tafsir al-Misbah: Pesan, Kesan dan Keserasian al-Qur'an, (Jakarta:
+Lentera Hati, 2002) hlm 357
+46
+
+Muhammad Abduh, Tafsir Juz 'Amma.., hlm. 233
+
+62
+
+hanya Nabi, tapi hamba Allah yang meminta pertolongan pada-Nya. Jadi siapa
+pun hambanya yang dalam keadaan sedih pasti ada pertolongan dari Allah.
+Al-Qur’an menyebutkan bahwa telah mengangkat derajat Nabi-Nya,
+kemudian meninggikan kedudukanya dan memperbesar pengaruhnya. Beban yang
+ditanggung Nabi sangatlah berat. Beliau berdakwah pada umatnya sampai beliau
+mengucurkan air keringat. Dengan menjalani beban yang berat Nabi tetap
+bersabar dan tawakal pada Allah, sehingga Allah telah mengangkat derajatnya dan
+meninggikan sebutan nama-mu, Ini maksud tafsir Al-Qur’an al-Karim. Selain itu
+Nabi telah membebaskan umat manusia dari perbudakan, kebodohan dan
+kerusakan pikiran sehingga membawa manusia pada fitrahnya, yang menjamin
+akan kebebasan berpikir dan berkehendak. Beliaulah yang menyingkirkan dari
+mereka awan-awan kegelapan serta menerangi jalan yang harus ditempuh untuk
+menuju jalan kejayaan dan kebahagiaan.47
+Kata (‫ )ر‬rafa’a menurut Quraish Shihab berarti mengangkat atau
+meninggikan, baik objeknya material ( bukit dan gunung ) maupun immaterial
+(derajat dan kedudukan), sedangkan kata z|ikr ( ‫ )ذآ‬menurut bahasa menghadirkan
+sesuatu yang ada dalam benak, lebih jauh kata d{ikr berkembang maknanya
+menjadi nama atau sebutan. Dalam Al-Qur’an kata ini dinisbatkan pada Allah,
+seperti kata dzikrullah akan tetapi kata ini sering digunakan menyangkut hal-hal
+yang tinggi, agung dan mulia. Para ulama tafsir menjelaskan bahwa ketinggian
+nama Nabi tercermin mana kala digandengkan dengan pengakuan tentang
+kerasulan Nabi Muhammad Saw. Sementara ulama lain menambahkan dalam
+47
+
+Al-Qur’an dan Terjemahan Depag RI, ( Semarang: CV, Wicaksana, 1993) hlm. 737
+
+63
+
+kitab sebelum al-Qur’an, tercantum nama dan sifat-sifat Nabi Muhammad.
+Ketinggian dan keagungan Nabi sangat diakui, akan tetapi bukan berarti
+ketinggian nama beliau tidak dapat dibuktikan dengan logis dan ilmiah. Tokoh
+barat pun menilai bahwa Nabi Muhammad manusia yang amat agung sepanjang
+sejarah manusia.
+Ayat pertama menggunakan kata laka (), mengadung isyarat bahwa
+anugerah yang dilimpahkan itu merupakan kekhususan bagi beliau. Sedangkan
+kata rafa’na (‫ )ر‬mengganti nama yang berbentuk jamak sebagai pertanda
+adanya pihak-pihak lain selain Allah, pihak lain itu adalah ilmuan-ilmuan yang
+beraneka ragam disiplin ilmu.48
+5. Tafsir ayat kelima dan enam
+Al-Maragi menegaskan apabila Nabi dihimpit oleh kesedihan sebab ulah
+kaumnya, akan tetapi Nabi tetap sabar dan tawakal pada tuhan-Nya dan Nabi
+menggoyahkan tekad dan tidak mengendorkan semangat beliau dalam berdakwah,
+beliau tetap bersabar demi mengharapkan pahala-Nya dan rela menghadapi
+segalanya demi membela agama Allah.
+Sesungguhnya tidak ada kesulitan yang tidak teratasi, jika jiwa seseorang
+bersemangat untuk keluar dari kesulitan dan mencari jalan pemecahan
+menggunakan akal pikiran yang benar dengan bertawakal pada Allah, niscaya
+akan keluar dari kesulitan. Meskipun berbagai rintangan datang silih berganti,
+namun pada akhirnya akan menemukan kemenangan.49
+
+48
+
+49
+
+Quraish Shihab., Tafsir Al-Misbah; Pesan,Kesan Dan Keserasian Al-Qur'an, , hlm. 360
+
+Ahmad Mustafa Al-Maraghi, Tafsir al-Maraghi, terj. Bahrun Abubakar (Semarang:
+Toha Putra, 1986) Juz XXX, hlm 335
+
+64
+
+Dalam tafsir al-Qur’an al-karim bahwa sesungguhnya setiap kesempitan di
+situ terdapat kelapangan dan didalam setiap kekurangan sarana untuk mencapai
+keinginan di situ pula terdapat jalan keluar, jika seseorang dalam menuntun
+sesuatu tetap tawakal dan sabar kepada tuhan-Nya, itulah yang dilakukan Nabi
+waktu menghadapi kaumnya.50
+Pada ayat keenam terdapat pengulangan arti yang terkandung dalam ayat
+terdahulu, yakni bila kesulitan itu dihadapi dengan tekad yang sungguh-sungguh
+dan berusaha sekuat tenaga dan pikiran, untuk melepaskan diri dari padanya,
+tekun dan sabar serta tidak mengeluh akan kelambatan datangnya kemudahan.51
+Pada ayat keenam terdapat pengulangan kata antara ayat keenam dan
+kelima yang telah diulang dua kali, karena waktu itu banyak kaum yang masih ada
+keragu-raguan. Tafsir al-Misbah menjelaskan ayat di atas menyatakan jika telah
+mengetahui dan menyadari anugerah Allah, maka dengan demikian sudah jelas
+bahwa sesungguhnya bersama atau sesaat atau sesudah kesulitan ada kemudahan
+yang besar, sesungguhnya bersama kesulitan ada kemudahan yang besar. Dalam
+Al-Qur’an kata al-‘Usr
+
+terulang sebanyak 4 kali, Kata ini digunakan untuk
+
+sesuatu yang sangat keras atau sulit dan berat. Sedangkan Yusr sebanyak 6 kali,
+tiga di antaranya bergandengan secara langsung dengan kata ‘usr.
+Di kamus bahasa kata ini digunakan untuk menggambarkan sesuatu yang
+mudah, lapang, berat kadarnya. Ayat ini menjelaskan sunnah-Nya yang bersifat
+umum dan konsisten seperti dalam ungkapan “sesudah kesulitan pasti ada
+
+50
+
+Hasbi Ash-Shiddieqy, Tafsir an-Nur (Jakarta: Bulan Bintang, 1999) hlm
+
+51
+
+Al-Qur’an Al-Karim., hlm, 738
+
+65
+
+kemudahan” contoh konkrit yang telah dialami Nabi yaitu beliau ditantang,
+dianiyaya dan berbagai masalah yang berat, namun akhirnya kelapangan dan jalan
+keluar menghampirinya.
+Dengan kesulitan yang telah dilalui maka keluarlah jalan keluar yang telah
+di nanti-nanti, ayat yang menjelaskan kesulitan, cobaan, kelapangan yang selama
+dirasakan namun tetap tabah dan optimis dalam menjalankanya maka ketetapan
+Allah, ”apabila kesulitan telah mencapai puncaknya, pasti akan sirna dan disusul
+dengan kemudahan”. Pada ayat ke kelima dan keenam di sana ada pengulangan
+makna, banyak para ulama yang memahami arti () ma’a dalam ayat yang arti
+harfiahnya bersama dipahami oleh sementara ulama dalam arti sesudah, arti
+sesudah merujuk pada firman Allah yang sama dengan makna () ba’da, QS, AtThalaq: 7 ”Allah memberi kelapangan sesudah kesempitan”.
+Kata ( ‫ )ا‬al-’usr pada ayat kelima dan keenam berbentuk definit
+(memakai alif dan lam ) berarti kesulitan pada ayat kelima sama maknanya pada
+ayat keenam, sedangkan kata ( ‫ )  ًا‬yusron pada ayat kelima yang artinya
+kemudahan berbeda dengan kata kemudahan ayat keenam, hal ini menunjukan
+bahwa kedua ayat tersebut mengadung makna ”setiap satu kesulitan akan
+dibarengi dua kemudahan”.
+6. ayat ke tujuh
+Pendapat sebagian ulama mengatakan surah ini memberi kesan adanya
+kecemasan dalam jiwa Rasul Saw, akan menyangkut dakwah beliau dengan
+hambatan-hambatan menghadang perjalanan Rasul. Kesan dalam surah ini penuh
+dengan keluh kesah dan beban yang dipikul oleh beliau dengan mengharap
+
+66
+
+bantuan sehingga Allah menurunkan surah ini.52 Di sisi lain surah ini turun ketika
+Rasul Saw lapang dan jiwa tenang. Riwayat lain seperti Ibnu Katsir mengatakan
+pada ayat kedua dan ketiga bahwasanya Nabi pada waktu itu membandingbadingkan keadaanya dengan Nabi terdahulu setelah itu mengajukan permohonan
+”kecil” jika dibandingkan dengan anugrah yang diperoleh. Pendapat Ibnu Katsir
+berbeda dengan Sayyid Qutb menyatakan bahwa tidak ada keluh kesah waktu
+Nabi berdakwah. Lafad laka () dimaksudkan anugerah yang telah diperoleh
+Nabi itu merupakan kekhususan dan melebihi apa yang telah diberikan pada
+sebelum Nabi. Ini menguatkan kesan pendapat Ibnu Katsir.
+Ayat selanjutnya yang menyatakan apabila engkau telah selesai berada
+dalam keluangan setelah sibuk, maka bekerjalah dengan sungguh-sungguh hingga
+letih hanya kepada tuhanmu hendaknya berharap untuk mendapatkan bantuanya
+dalam menghadapi kesulitan. Kata faraghta (b) dan faragha () secara
+material dan immaterial berarti kosong setelah sebelumnya penuh. Kedua kata
+tersebut digambarkan dalam QS. Al-Qashas; 10
+
+$oΨôÜt/§‘ βr& Iωöθs9 ÏµÎ/ ”Ï‰ö7çFs9 ôNyŠ$Ÿ2 βÎ) ( %¸ñÌ≈sù 4†y›θãΒ ÏdΘé& ßŠ#xσèù yxt7ô¹r&uρ
+
+∩⊇⊃∪ šÏΖÏΒ÷σßϑø9$# zÏΒ šχθä3tGÏ9 $yγÎ6ù=s% 4’n?tã
+
+“seseorang yang telah memenuhi waktunya dengan pekerjaan, kemudian ia
+menyelesaikan pekerjaan tersebut maka jarak waktu antara selesainya pekerjaan
+pertama dan dimulainya pekerjaan selanjutnya dinamai ()”.
+Surah Alam Nasyrah pada ayat ketuju memberi petunjuk bahwa seseorang
+harus memiliki kesibukan. Bila telah berakhir suatu pekerjaan maka, harus
+Lihat Sayyid Qutb, Tafsir fi Z}ilal Al- Qur’an, terj.As'ad Yasin dan Abdul Aziz Salim
+Basyarahil (Jakarta: Gema Insani Pres, 2002) juz. XXIV, hlm. 168
+52
+
+67
+
+memulai lagi dengan pekerjaan yang lain, sehingga ayat ini tidak akan pernah
+menyiayiakan waktu. Ayat kedelapan menggunakan kata penghubung ( ‫ ) و‬yang
+diterjemahkan dan. Kata ini menghubungkan ayat ketuju dan kedelapan
+menunjukan seseorang selalu menghubungkan antara kesungguhan berusaha
+dengan harapan serta kecenderungan hati kepada Allah SWT,53 bisa dinilai
+dengan ungkapan bekerja sambil berdo’a. Sesungguhnya berusaha diartikan
+dengan tenaga, akal pikiran, pengetahuan, etika pergaulan serta semangat yang
+pantang menyerah. Perintah berusaha dan bekerja telah dijelaskan pada ayat di
+atas kemudian perintah untuk menggantungkan harapan kepada Allah. Betapa
+kuatnya manusia, potensinya sangat terbatas sehingga hanya harapan yang
+tercurah pada yang dapat menjadikan bisa bertahan menghadapi hempasan ombak
+kehidupan yang tidak mengenal kasih.
+7. Ayat Kedelapan
+Tafsir al-Kasyif menafsirkan setelah semua telah selesai, maka janganlah
+bersantai akan tetapi kerjakanlah pekerjaan lain. Maksudnya dalam kehidupan
+tidak ada putus asa sehingga hidup yang penuh dengan masalah akan terus di
+jalani sampai berhasil melewati, karena masalah datang silih berganti. Tafsir AnNur berpendapat setelah semuanya masalah diselesaikan dengan baik, maka
+kepada Allah engkau hadapkanlah pengharapan54.
+Abduh mengatakan bersungguh-sungguhlah dalam mengerjakan, sebab
+dengan ini manusia akan merasakan enaknya istirahat setelah bersungguh53
+
+Ibid., hlm 365.
+
+54
+
+Hasbi ash-Shiddieqy, Tafsir An-Nur…, hlm 152
+
+68
+
+sungguh dalam menyelesaikan tugas dan menerima hasilnya. Makna pada ayat
+terakhir janganlah engkau mengharap kepada siapa pun dalam hasil usahamu
+selain pada Allah.
+Atas dasar ini bahwa pelapangan dada adalah wujud dari kembalinya
+wahyu pada beliau, serta dalam rangkaian terbuka berita gembira yang diberitakan
+dalam surah al-D{uha.55 Hendaknya harapan dan kecenderungan yang mendalam
+itu hanya tertuju pada Allah swt. Kadang seseorang mengharapkan harapan pada
+orang lain, keinginan dan kecintaan tertuju pada selain Allah, ini semua tidak
+terlarang, akan tetapi kecenderungan hati dan kecintaan yang mendalam hanya
+ditujukan pada Allah. Kecintaan pada Allah serta berjuang demi ridhan-Nya,
+harus melebihi kecintaan pada selain-Nya.56 Rasulullah Saw diperintahkan untuk
+menyampaikan QS. At-Taubah: 24
+
+îΑ≡uθøΒr&uρ óΟä3è?uÏ±tãuρ ö/ä3ã_≡uρø—r&uρ öΝä3çΡ≡uθ÷zÎ)uρ öΝà2äτ!$oΨö/r&uρ öΝä.äτ!$t/#u tβ%x. βÎ) ö≅è%
+
+«!$# š∅ÏiΒ Νà6ø‹s9Î) ¡=ymr& !$yγtΡöθ|Êös? ßÅ3≈|¡tΒuρ $yδyŠ$|¡x. tβöθt±øƒrB ×οt≈pgÏBuρ $yδθßϑçGøùutIø%$#
+
+tΠöθs)ø9$# “Ï‰öκu‰ Ÿω ª!$#uρ 3 ÍνÍ÷ö∆r'Î/ ª!$# š†ÎAù'tƒ 4®Lym (#θÝÁ−/utIsù Ï&Î#‹Î7y™ ’Îû 7Š$yγÅ_uρ Ï&Î!θß™u‘uρ
+∩⊄⊆∪ šÉ)Å¡≈x4ø9$#
+
+Al-Insyirah mempunyai hubungan dengan surah sebelumnya seperti yang
+ditawarkan Tawus bin Abdul Aziz bahwa surah al-Insyirah dan Al-D{uha itu satu,
+sehingga dibaca satu surah dalam satu rakaat tanpa "basmallah" surah ini
+menunjukan bahwa kedua surah ini menyebutkan beberapa nikmat agar meminta
+55
+
+Muhammad Abduh., Tafsir Juz ‘Amma terj.Muhammad Baqir (Bandung: Mizan,1999) ,
+
+56
+
+Quraish Shihab., Tafsir al-Misbah: Pesan, Kesan dan Keserasian.., hlm 366
+
+hlm. 238
+
+69
+
+mensyukurinya. Contoh lain Rasulullah dilapangkan dadanya dalam menghadapi
+tantangan kaumnya, akan tetapi beliau tidak pernah gelisah dan tidak mengubah
+tujuan dengan bersabar dalam menghadapi kaumnya dan terus berdakwah serta
+bertawakal pada Allah. Dalam ayat kelima menjelaskan apabila keadaan terlalu
+darurat, maka dengan sendirinya akan keluar dengan selamat dari keadaan melalui
+jalan tawakal pada Allah sebab dengan ini akan menemui ketenangan jiwa dan
+hati. Sedangkan ayat selanjutnya janganlah cepat mengeluh pada apa yang telah
+dijalani, karena jalan keluar pasti akan ditempuhnya. Allah telah melapangkan
+dada dengan meringankan kebingungan yang membuat sempitnya hati,
+kegelisahan yang dirasakan Nabi akibat keadaan bangsanya yang mengemban
+beban amat berat itu untuk menyelamatkan bangsanya.57
+Dari sini dapat dipetik bahwa orang yang pandai memanfaatkan potensi,
+serta memanfaatkan akal yang diberikan Allah kepada mereka untuk
+menyingkirkan berbagai kesulitan, pasti akan menemukan kemudahan.
+Kata lapang dada dalam al-Qur’an disebutkan sebanyak 2258 kali yang
+digunakan untuk memaafkan kesalahan dan gangguan orang lain serta
+melapangkan dada yang sedang tertimpa masalah baik itu jasmani maupun rohani.
+Keadaan ini banyak diperlukan pada kehidupan dengan kondisi ekonomi,
+pendidikan dan keadaan jiwa seseorang, ketenangan jiwa akan terasa jika semua
+keadaan bisa teratasi dan akan menjadi kesenangan tersendiri.
+
+57
+
+58
+
+Muhammad Abduh, Tafsir Juz A’mma. terj, Muhammad Baqir.., hlm 232
+
+Hamid Hasan Qolay, Indek Terjemah al-Qur'an al-Karim ( Jakarta: Halimatus
+Sa'diyah, 2000) Jilid-3, hlm. 366
+
+70
+
+Situasi yang menyenangkan bisa terjadi karena faktor sosial baik personal
+maupun kelompok. Contoh lain, siswa yang sedang menghadapi kesulitan, ketika
+seorang siswa mendengar bahwa dirinya telah di keluarkan dari sekolah, akibat
+dari perbuatan sendiri maka kondisi jiwa sesorang langsung terombang-ambing,
+menjadi stress, bimbang bahkan ada yang frustasi. Kepribadian lapang dada ini
+lahir dari keberanian siswa untuk mencapai suatu tujuan. Kelapangan dada,
+kondisi psiko-psikologi adalah keadaan yang berada dalam diri seseorang yang
+berkaitan dengan perasaan dan pemikiran sebagai makhluk Allah. Ada beberapa
+ciri pribadi yang lapang dada. Pertama, kesadaran spiritual (spiritual awareness)
+kesadaran bahwa keadaan yang tidak menyenangkan merupakan ujian dari Allah.
+Orang yang lapang dada itu seorang yang menghadapi berbagai kenyataan hidup
+dan memandang kenyataan hidup sebagai ujian.
+Kedua, kesiapan psikologi (psychological preperatory) yaitu kesiapan
+untuk menerima stimulasi yang tidak menyenangkan.
+Ketiga, keyakinan akan kesanggupan diri menanggung beban yaitu
+keyakinan bahwa kesulitan yang ditanggung tak akan melebihi kesanggupan
+dirinya untuk menerima beban itu. Apapun ujian yang bakal atau dijalani
+seseorang pasti telah tersedia kemampuan psiko-spiritual dan kemampuan fisik
+dalam diri seseorang untuk menerima beban. Firman Allah ”Allah tidak
+membebani seseorang melainkan sesuai dengan kesanggupanya”.
+Keempat pertaubatan, kadang kesulitan yang merupakan ujian akibat dari
+kesalahan manusia maka dengan sadar melakukan taubat59.
+
+59
+
+Fuad Nashari.., hlm. 134
+
+71
+
+kelima, pemaaf seperti yang dilakukan Nabi Muhammad selalu
+memberikan maaf terhadap seseorang yang menyakitinya. Waktu berdakwah
+terhadap masyarakat Thaif ternyata tidak menerima beliau, sampai akhirnya Nabi
+diusir dan dilempari dengan batu akibatnya Nabi kembali dalam keadaan berdarah
+akan tetapi Nabi memaafkan masyarakat Thaif sambil mendoakan mereka.
+QS. An-Nahl (16): 106 menjelaskan kata "kelapangan" hanya untuk
+perbuatan kekafiran, maka kemungkaran Allah menimpanya, begitupun juga
+sebaliknya. Dalam suatu riwayat dikemukakan, ketika Nabi Saw hendak hijrah ke
+Madinah, kaum Musyrikin menahan Bilal, Khabab dan Amar bin Yasir. Amar bin
+Yasir dapat menyelamatkan diri dengan kata-kata yang mengaggumkan mereka.
+Ketika sampai pada Rasulullah Saw Ammar menceritakan kejadian itu. Nabi
+bertanya: ”Apakah hatimu lapang di kala berkata demikian itu? Ia menjawab
+”tidak”. Ayat ini turun berkenaan dengan peristiwa tersebut, yang menegaskan
+bahwa Allah tidak akan mengutuk orang yang dipaksa kufur tapi tetap dalam
+keimanan60.
+Riwayat lain mengatakan bahwa ayat ini turun ketika orang-orang Mekkah
+yang beriman dikirimi surah oleh para sahabat dari Madinah agar mereka
+berhijrah. Mereka berangkat ke Madinah akan tetapi dapat disusul oleh (orang
+kafir) Quraisy. Kemudian orang kafir Quraisy itu menganiaya mereka, sehingga
+mereka mengucapkan kata-kata kufur. Ayat ini turun berkenaan dengan peristiwa
+tersebut yang menegaskan bahwa orang-orang yang terpaksa mengucapkan kata-
+
+60
+
+Al-Qur’an dan Terjemah Depag RI, hlm.380
+
+72
+
+kata kufur akan diampuni oleh Allah, asalkan hatinya tetap beriman.61 Begitu juga
+yang telah disebutkan yang mana seseorang akan lebih bermakna akan mendapati
+hidup dengan penuh semangat dan juga akan semakin bermakna jika dihadapi
+dengan sabar, bahkan akan semakin lega dengan keadaan yang maju.
+Allah membukakan ruh manusia sehingga dapat menerima cahaya-Nya.
+inilah syarh{ as{h-s{hadr li al-Islam itu, syarh{ ash-s{hadr al-ilahi sehingga cahaya itu
+mengalir pada lisan seorang yang ummi, melahirkan butir-butir hikmah yang
+sangat mulia62.
+QS.Thaha (20): 25 menjelaskan waktu Nabi Musa memohon pada Allah
+agar dianugrahi kelapangan dada serta dipermudah untuknya segala urusanya
+untuk menghadapi Fir’aun yang terkenal kejam. Dalam al-Quran Allah
+memerintahkan Musa ”pergilah engkau pada Fir’aun sesungguhnya dia telah
+melampaui batas”. (Thaha: 24) Dalam firman ini disebutkan Musa berjuang
+dakwah dalam menghadapi Fir’aun yang sangat kejam akan tetapi Musa tetap
+menjalankan yang telah diperintahkan Allah. Jadi, seberat apapun cobaan itu
+harus tetap dijalani jangan pernah putus asa. Padahal Nabi Musa mengetahui
+seberapa jahatnya Fir’aun yang membunuh bayi laki-laki dan kaisar yang kejam.
+Maka seberat apapun kesulitan yang dihadapi, kadarnya tidak akan melebihi
+kesulitan yang tidak pernah dihadapi Musa, jika Nabi Musa saja tidak melemah,
+mengeluh atau protes pada Allah. Layakkah seseorang sombong dengan kesulitan
+yang dihadapinya. Oleh karena itu jangan takutlah pada kesulitan, prestasi hidup
+61
+
+Saleh dan Ahmad Dahlan, Asbab An-Nuzul Latar Belakang History Turunya Ayat-Ayat
+al-Qur'an, (Bandung: Dipenegoro, 2000) hlm. 316
+62
+
+Murthadha Muthahri, Tafsir Surah Pilihan, terj.Hasan Rahmat dan M.S Nasrullah
+(Bandung: Pustaka Hidayah), Cet ke-3 hlm. 154
+
+73
+
+akan bermakna jika bisa melewati tahapan-tahapan kesulitan. Janganlah bermalasmalasan dalam menghadapi hidup ini karena tidak akan menemukan apa-apa. kita
+sebagai manusia biasa harus bisa menghadapi cobaan yang seberat papun dan
+meminta pertolongan pada Allah. Ketika mengalami kesulitan manusia sering
+berkeluh kesah tiada henti, kalau seseorang mau berpikir maka akan menemukan
+bahwa hanya dalam kondisi sulitlah dan benar-benar menjadi manusia yang
+sesungguhnya. Menjadi manusia hidup, karena hanya manusia matilah yang tidak
+mendapatkan kesulitan hidup.63 Janganlah merasa sedih atas suatu musibah,
+karena musibah yang ditakdirkan Allah merupakan sebuah ujian yang telah
+disiapkan imbalanya berupa pahala besar. Biasakan untuk melihat sisi positif yang
+ada dibalik musibah.
+D. Pesan Kandungan Surah AlAl-Insyirah}
+Insyirah}
+Sesungguhnya surah al-Insyirah{ ini, dialamatkan pada Rasulullah Saw,
+terdiri dari dua bagian: pertama, mengingatkan akan anugerah Allah dan
+pertolongan-Nya kepada Rasulullah. Kedua, bagian pengajaran, yakni inayah dan
+penjelasan tentang suatu sebab.
+Al-Insyirah{ ( kelapangan) selalu dikaitkan dengan kata Ash S{hadru, bukan
+dengan Qalbu. Allah berfirman tentang ucapan Musa as,”Wahai Rabbi,
+sesungguhnya aku takut mereka mendustakan diriku dan dadaku menjadi sempit
+karenanya”.64 Apabila mengalami kesempitan, maka kesempitan itu dirasakan
+tanpa batas, dan kesempitan dada seseorang bertingkat-tingkat sesuai dengan
+63
+
+Hendra Setiawan, Cara Nabi Menghadapi Kesulitan Hidup (Jabal: Bandung, 2006),hlm
+
+64
+
+Lihat QS. As-Syura’ 12-13 al-Qur’an dan Terjemah Depag RI
+
+15
+
+74
+
+kebodohan dan kemarahan. Demikian juga apabila hati seseorang mengalami
+Insyirah{ (kelapangan) maka kelapangan itu akan tanpa batas juga. Allah telah
+melapangkan dada Rasulullah dengan cahaya Islam. Sehingga dadanya menjadi
+sempit dari kebatilan.65 Seseorang kadang merasa sempit dada disebabkan oleh
+sikap kemurungan ketika mendapatkan musibah. Seorang jika mendengar
+kebatilan akan merasa sempit karena di dalamnya terdapat cahaya Islam.
+Sedangkan kaum kafir dan munafik penuh dengan kegelapan kekafiran, syirik
+sehingga tidak ada cahaya Islam di dalamya.
+Surah ad-D{huha terdapat sebelum surah al-Insyirah{. Ada tiga yang senada
+dengan surah al-Insyirah, yaitu ayat (6-8) dan (9-11) Seakan ayat "bukanlah telah
+kami lapangkan dadamu” dikaitkan dengan bukankah dia mendapati dirimu
+sebagai seorang yatim, lalu dia melindungimu.66 Selanjutnya diterangkan bahwa
+Lapang dada di sini berarti dapat menyelenggarakan tugas yang dipikul dengan
+baik dan sabar. Ini merupakan ungkapan yang merujuk pada kemampuan
+seseorang dalam memikul beban yang berat serta kemampuanya bersabar. Orang
+yang tidak berlapang dada maka akan cepat bangkit emosinya.67 Penelitian
+menunjukan bahwa kecerdasan emosi seperti, ketrampilan sosial, ketangguhan
+bekerja, loyalitas, komitmen dan optimisme, sehingga dapat membentuk karakter
+seseorang, jauh lebih penting bagi faktor keberhasilan seseorang dibandingkan
+
+65
+
+Ibid… Ilmu Jiwa dalam Tasawuf. hlm 76
+
+66
+
+Ibid., Tafsir Surah Pilihan. Hlm 146
+
+67
+Murthadha Muthahari, Tafsir Surah Pilihan: mengungkap hikmah Al-Quran, terj.
+Hasan Rahmat dan M.S Nasrullah ( Bandung: Pustaka Hidayah, 2000) Cet. 3, hlm. 148
+
+75
+
+dengan ranah kognitif yang diukur melalui kecerdasan otak.68 Kecerdasan emosi
+sangatlah berperan dalam mencapai kesuksesan. Sesungguhnya keberhasilan
+sangat ditentukan faktor usaha yang dilakukan. Setiap usaha tidak selalu
+membuahkan hasil karena keberhasilan sangat dipengaruhi oleh beberapa faktor,
+faktor keterbatasan dan kelemahan manusia.
+Dalam Al-Qur'an terdapat ayat-ayat yang menguraikan tentang emosi
+sedih dan menyesal, gembira dan bahagia yang dirasakan manusia pada hari
+akhir.69 Kegoncangan emosi yang timbul dari problem psikis yang sedang
+dihadapi dengan cobaan dan kesulitan, yang dibutuhkan di sini terapi psikis untuk
+melepaskan kegelisahan.70 Selain itu al-Qur'an juga berharap untuk bisa
+mengendalikan emosi sedih dan gembira, karena berlebih dalam gembira ataupun
+kesedihan adalah tidak baik. Setiap ada kesulitan, berserah diri pada Allah dan
+tawakal. Untuk dapat berserah diri diperlukan sikap mental yang positif, yakni
+harus selalu berprasangka baik pada-Nya.71 Barang siapa yang menyerahkan
+dirinya kepada Allah, maka sesungguhnya ia telah berpegang pada buhul tali yang
+kokoh.72
+
+68
+
+Ahmad Taufik Nasution, Metode Menjernihkan Hati: Melejitkan Kecerdasan Emosi
+Dan Spiritual Melalui Rukun Iman, ( Bandung: PT Mizan Pustaka, 2005) hlm. 46
+69
+M. Ustman Najati, Al-Quran dan Ilmu Jiwa terj. Ahmad Rafi’i Usmani, (Bandung:
+Penerbit Pustaka, 1997) hlm.120
+70
+
+Lihat, Ali Imran: 133 -134
+
+71
+
+Permadi Alabasyah, Renungan Kalbu: Penghantar Mencapai Perenungan Jiwa
+(Bandung: cahaya makrifat, 2005) hlm. 81
+72
+
+Lihat Al-Baqarah : 22
+
+76
+
+Berserah diri adalah salah satu perintah Allah yang harus dilaksanakan
+oleh
+
+setiap orang muslim, bukan hanya dalam cobaan saja seseorang akan
+
+berserah diri akan tetapi dalam semua hal. Kadang orang menghadapi musibah
+dengan gelisah bukan dihadapi dengan sabar, karena musibah diartikan dengan
+peristiwa yang menakutkan. Padahal musibah itu tanda cinta Allah (peringatan)
+agar seseorang segera melakukan perbenahan diri, janganlah mengharapkan yang
+manis dalam hidup akan tetapi merasakan pahitnya hidup.73 Kehidupan tidak
+selalu berjalan mulus karena banyak hambatan yang menghadang baik itu
+gangguan di dalam rohani maupun di luar rohani. Kesehatan rohani sangat
+dibutuhkan, manakala seseorang menghadapi masalah, apa pun yang akan
+dilakukan pasti akan dipikir dengan matang.
+Relevansi surah al-Insyirah{ dengan psikologi terletak pada sama-sama
+mempelajari ilmu pemecahan masalah, karena surah al-Insyirah{ mengandung
+unsur penenang jiwa, serta memberikan tuntunan agar bagaimana seseorang bisa
+menenangkan dan memenejemen hati manusia sendiri dalam menghadapi
+persoalan hidup. Al-Insyirah{ yang merupakan bagian surah dalam al-Qur'an
+menerankan tentang kelapangan dada yang diberikan pada umatnya, karena
+manusia yang selalu menghadapi permasalahan hidup, di sini al-Insyirah{ menjadi
+pedoman untuk menghadapi masalah manusia. Begitu juga dalam psikologi juga
+mempelajari ilmu jiwa, psikologi yang merupakan cabang dari ilmu barat yang
+mempelajari tentang kesehatan mental manusia. Konsep psikologi dalam
+memahami problem solving menggunakan metode barat, salah satunya dengan
+
+73
+
+Permadi Alabasyah, Renungan Kalbu.., hlm. 87
+
+77
+
+berfikir positif, ketenangan jiwa. Sedangkan dalam al-Qur'an dianjurkan untuk
+selalu ingat pada Allah serta dzikir seperti yang dipaparkan dalam surah alInsyirah{. Dengan mengingat Allah seseorang akan merasakan ketenangan dalam
+jiwanya, sehingga tidak merasakan kegelisahan dalam menghadapi masalah.
+
+78
+
+BAB IV
+
+AL-INSYIRAH}
+INSYIRAH} DAN PEMECAHAN MASALAH
+SURAH AL-
+
+Surah Al-Insyirah} menurut sementara ulama sebagai ajaran Nabi
+Muhammad dalam al-Qur’an termasuk surah yang ke-94 sesudah surah Al-D{huha.
+Ayat ini berkaitan dengan sikap mental dalam menghadapi kenyataan hidup dan
+mempersiapkan batin dalam menerima fakta dari hasil yang diraih, sehingga apa pun
+yang terjadi tetap diterima dengan lapang dada. Ketika hasil tidak sesuai dengan
+harapan, maka tetap lapang dada dan tawakal pada Allah.1 Seorang muslim dituntut
+untuk berusaha, tetapi pada saat yang sama berserah diri pada Allah swt. Perintah
+bertawakal disebutkan sebanyak sembilan kali, salah satunya QS.Al-anfal: 61
+“Dan jika mereka condong kepada perdamaian, maka condonglah kamu kepadanya
+dan bertawakal kepada Allah”.
+A. Kesulitan dan Kemudahan
+Dalam ayat ketuju dan kedelapan dijelaskan bahwa sesudah kesulitan pasti ada
+jalan keluar, maka dapat disimpulkan kemudahan akan datang dua kali dalam
+kesulitan. Kesulitan bukanlah hal yang sangat menakutkan, janganlah memandang
+cobaan sebagai malapetaka, akan tetapi dilihat sebagai nikmat atas pemberian Allah
+karena kasih sayang. Kata (  ) pada ayat ketujuh mempunyai Makna “bersama,”
+
+1
+
+Tawakal maksudnya berserah diri pada Allah akan tetapi dengan usaha manusia
+sebelumnya.
+
+79
+
+Di sini tidak diartikan setelah. Makna dari sini jelas sekali bahwasanya antara
+kesulitan dan kemudahan itu datangnya bersamaan, datangnya kemudahan tidak
+menunggu kesulitan atau kemudahan muncul setelah kesulitan usai. Intinya hanyalah
+tergantung pada bagaimana cara memandang suatu masalah apabila dipandang
+dengan hati sempit maka dipahami kemudahan muncul bersama kesulitan. Karena
+dibalik kesulitan ada kemudahan. Kehidupan itu pasti ada cobaan dan ujian berhasil
+ataupun tidak itu tergantung pada yang melakukan. Kalau ujian itu dijalani dengan
+penuh keimanan dan kebijaksanaan maka akan merasa ringan begitu juga sebaliknya.
+Sebagaimana firman Allah QS. Al-Baqarah : 185
+“...Allah menghendaki kemudahan bagimu, dan tidak menghendaki kesukaran
+bagimu”
+Hanya dengan ujian, hidup dapat membentuk sikap mental, kebesaran jiwa
+yang optimal, ujian yang akan menentukan keimanan dan kualitas hidup ini.2
+Kehidupan sebagai ujian Hidup. Ujian itu yang menunjukan adanya suatu kehidupan.
+Dengan ujian, terbentuk pribadi yang ulet serta tahan banting, kreatifitas juga
+menjadikan pengalaman hidup dalam pemahaman makna hidup. Realitas manusia
+sering mengkondisikan batiniyah untuk menghadapi yang mudah, tidak pernah
+merasakan sulitnya hidup. Sikap batin seperti inilah yang akan mengakibatkan
+berfikir negatif ketika menghadapi kesulitan, baik itu kehilangan jabatan ataupun
+bentuk ujian lain. Biasanya dihadapinya dengan gampang putus asa, semangat hidup
+
+2
+
+Roza Ramadhina, Don't Wory; Bersama Kesulitan Ada Kemudahan (Yogyakarta, Uswah,
+2007) hlm. 20
+
+80
+
+lemah dan tekanan kesehatan mental. Sikap seperti ini yang mendorong untuk berbuat
+buruk seperti, merampok, mencuri bahkan ada yang lari dengan cara gaib agar
+kesulitan cepat berakhir.3
+Ujian
+
+hidup
+
+seseorang tidak
+
+selamanya
+
+berbentuk
+
+kesusahan
+
+atau
+
+kesengsaraan, tetapi kesenangan merupakan cobaan dari Allah. Dengan kesengsaraan,
+seseorang diuji apakah bisa menerima ujian dengan sabar, sebaliknya dengan
+kesenangan apakah dapat bersyukur atau tidak. Orang beriman pasti diuji Allah untuk
+melihat ukuran kualitas kedekatan pada Allah, dilihat dari derajat iman. Allah
+berfirman QS. al-Hujurat:14
+“kami telah beriman katakankanlah kamu belum beriman tapi katakanlah kamu telah
+tunduk, karena iman itu belum masuk dalam batinmu...”.4
+Al-Qur’an menyebutkan bahwa orang beriman akan diberi cobaan dan ujian,
+karena Allah menyayangi hambanya dan menghadapkan pada kesulitan. Dengan
+iman yang kuat dalam menghadapi kesulitan maka iman seseorang bisa terbukti.
+Manusia cenderung menghindari kesulitan apalagi penderitaan, karena hal
+semacam itu hanya akan mendatangkan kerugian dan kesengsaraan, sedangkan
+manusia pada umumnya hanya ingin hidup enak, takut akan kemiskinan, harta yang
+berkurang. Semua ini dianggap akan merengut kesenangan dan kebahagiaan hidup.
+Murthada Muthahari menjelaskan bahwa pada dasarnya kemalangan, kesengsaraan
+merupakan pendahulunya bagi tewujudnya sesuatu yang bahagia. Di dalamnya
+3
+
+Rusli Amin, Pencerahan Spiritual (Jakarta: al-Mawardi Prima, 2002) hlm. 122
+
+4
+
+Al-Qur’an dan Terjemahanya Depag RI, Lihat QS. Al-Hujurat: 14, hlm 848
+
+81
+
+kesulitan terdapat kemudahan yang tersembunyi.5 Will Durrant dalam “The Story Of
+Philosophy” bahwa konflik dan kejahatan bukanlah dua hal yang imajiner dan
+negatif, tetapi merupakan dua hal yang realistis dan keduanya untuk mencapai
+kebaikan dan kesempurnaan.
+Ujian bagi jiwa adalah sesuatu yang biasa, akan tetapi jiwa juga perlu
+ketenangan. Dan cobaan memiliki ciri khas dalam pergantian esensi yang dapat
+mengubah jiwa dan mereka yang menghadapinya. Cobaan hidup dalam bentuk
+kesulitan, termasuk kemiskinan telah melahirkan pribadi yang ulet dan kaya akan
+kreativitas yang telah terlatih mencari solusi ketika menghadapi kesulitan agar bisa
+bertahan.
+
+B. Cara Pemecahan Masalah Dalam Psikologi
+Setiap manusia dalam perjalanan hidupnya sering menghadapi berbagai
+permasalahan yang perlu dipecahkan seperti, sering menghadapi masalah yang
+dilematis sering memikirkan apa yang akan dilakukan untuk mengatasi masalahnya.6
+Cara menghadapi masalah atau cobaan menurut Al-Qur’an disebutkan dalam
+surah Ali-Imran: 200 dan Al-Baqarah: 45
+
+5
+
+6
+
+Ibid., hlm. 129
+
+M. Usman Najati, Psikologi Qurani: Psikologi Dalam Perspektif Al-Qu'ran ( Surakarta:
+Aulia Press, 2008), hlm 164.
+
+82
+
+öΝä3ª=yès9 ©!$# (#θà)¨?$#uρ (#θäÜÎ/#u‘uρ (#ρãÎ/$|¹uρ (#ρçÉ9ô¹$# (#θãΨtΒ#u šÏ%©!$# $yγ•ƒr'‾≈tƒ
+∩⊄⊃⊃∪ šχθßsÎ=øè?
+Artinya: “hai orang-orang yang beriman bersabarlah Kamu dan kuatkanlah
+kesabaranmu dan tetaplah bersiap siaga (diperbatasan negerimu)dan bertakwalah
+kepada Allah supaya Kamu beruntung”. (Q.S Ali-Imran: 200)
+
+∩⊆∈∪ tÏèÏ±≈sƒø:$# ’n?tã āωÎ) îοuÎ7s3s9 $pκ¨ΞÎ)uρ 4 Íο4θn=¢Á9$#uρ Îö9¢Á9$$Î/ (#θãΖŠÏètFó™$#uρ
+Artinya: “dan mintalah pertolongan ( kepada Allah) dengan sabar dan shalat, dan
+sesungguhnya yang demikian itu sungguh berat, kecuali orang-orang yang khusyu’”.
+(Q.S Al-Baqarah: 45)
+1. Berfikir Positif
+Hidup memang memiliki segi baik dan buruk. Baik dan buruk suatu
+kehidupan dapat dilihat dari cara menyelesaikannya. Salah satunya adalah Berpikir
+positif akibat menyikapi segala peristiwa atau kejadian dengan sudut pandang yang
+baik. Berprasangka baik meliputi berbaik sangka pada orang lain, pada diri sendiri
+dan pada Allah. Dalam kondisi apa pun, dalam kehidupan selalu berprasangka baik
+terhadap persoalan yang dihadapi. Al-Qur’an menganjurkan manusia agar selalu
+berprasangka baik7, firman Allah QS. Al-Hujurat :12
+Artnya:“Wahai orang-orang yang beriman jauhilah kebanyakan dari prasangka
+karena sesungguhnya sebagian prasangka adalah dosa, dan janganlah kamu mencaricari kesalahan orang lain”.
+Selalu berfikir positive thinking, hindarkan dari segala buruk sangka terhadap
+masalah yang dihadapi. Dengan positif akan mempunyai semangat dalam
+7
+
+Roza Ramadhina.., hlm.234
+
+83
+
+menjalankan hidupnya, hal positif bisa menimbulkan efek yang luar biasa mungkin
+akan mudah ketika dalam kondisi yang ringan. Akan tetapi ketika dihadapkan pada
+peristiwa yang besar maka akan lupa pada semuanya.8
+Setelah melakukan positive thinking, maka seseorang akan merasakan hidup
+lebih berarti sehingga tidak akan ada buruk sangka terhadap masalah yang dihadapi.
+Pikiran sering kali sebagai magnet yang akan menggerakan fisik, emosi dan semangat
+untuk bergerak ke arah yang dipikirkan, apabila sering memusatkan pada kegagalan
+maka pasti akan mengundang datangnya kegagalan. Sebaliknya jika memusatkan
+pada kesuksesan akan mengundang datangnya kesuksesan dan memusatkan untuk
+meraih hal positif yang dipikirkan.9 Dalam ayat ke 5 Allah mengungkapkan bahwa
+sesungguhnya di dalam setiap kesempitan di situ terdapat kelapangan dan di dalam
+setiap kekurangan untuk mencapai suatu keinginan di situ pula terdapat jalan keluar,
+jika tetap berpegang pada kesabaran dan tawakal. Ayat ini seakan-akan menyatakan
+bahwa bila keadaan telah terlalu darurat dengan sendirinya akan keluar dari
+kedaruratan sambil bertawakal dan berfikir positif akan mencapai kemenangan.
+Sebagaimana disebutkan dalam hadis:
+“Aku senantiasa mengikuti prasangka hambaku terhadap diriku. Jika berprasangka
+baik maka kebaikan pula yang mengikutinya. Demikian jika berprasangka buruk,
+maka keburukan pula yang mengikutinya”.
+Positive thinking tentang masa depan itu berkeyakinan akan adanya perbaikan
+keadaan setelah berlangsungnya keadaan yang tidak menyenangkan. Kenyataan yang
+8
+
+Hendra Setiawan, Agar Selalu Ditolong Allah (Bandung : Jabal, 2007) Cet. 14, hlm. 82
+
+9
+
+Ibid…hlm. 83
+
+84
+
+tidak menyenangkan pasti akan berlalu dan akan datang keadaan yang
+menyenangkan, tentu dengan usaha. Sesungguhnya sesudah ada kesulitan itu ada
+kemudahan.
+Untuk menghadapi masalah hidup, maka seseorang harus mampu membangun
+sikap mental positif. Cara pandang positif secara tidak langsung akan mempengaruhi
+kualitas hidup dan nilai hidup, karena jika mempunyai cara pandang positif seseorang
+bisa mengasah kreatifitas, kegigihan dan sikap pantang menyerah dalam menghadapi
+hidup. Sebaliknya berpikir negatif akan memperoleh hasil yang negatif, jika masalah
+dihadapi dengan negatif, maka masalah itu akan semakin menumpuk.
+Mengatasi masalah dengan positif perlu berbagai cara, di antaranya: seseorang
+harus menentraman hati terlebih dahulu, seperti dalam kalimat “la> hawla wala> quwata
+
+illa billa>hil aliyyil ad{zim” (tiada daya dan upaya kecuali karena pertolongan Allah).
+Sikap ini mengandung energi yang memberikan kekuatan terhadap masalah, yang
+terasa berat menjadi terasa ringan10. Keimanan seseorang akan mampu membentuk
+jiwa yang positif, disebabkan jiwa dan sikap dalam menjalani setiap peristiwa dan
+keadaan merupakan faktor yang bisa menentukan keberhasilan hidup. Berkaitan
+dengan hal ini Ibnu Jauzy mengatakan “barangsiapa yang mendapat musibah,
+hendaklah yang bersangkutan membayangkan musibah yang jauh lebih berat dari
+padanya, niscaya musibah itu akan terasa ringan olehnya. Hendaklah orang
+
+10
+
+Roza Ramadhina.., hlm. 237
+
+85
+
+memandang bahwa musibah akan cepat berlalu, karena sesungguhnya kalau ada
+tekanan dalam musibah, niscaya tidak akan diharapkanlah saat kelapangan”.11
+2. Optimis
+Beberapa saat setelah terjadi krisis di Indonesia, banyak orang yang
+mengalami stres akibat dari dampak ekonomi. Sehingga banyak yang melakukan
+jalan pintas seperti bunuh diri, padahal jalan pintas yang demikian adalah jalan yang
+diarahkan oleh setan, sebagaimana sabda Nabi, “ Ketenangan adalah dari Allah dan
+ketergesa-gesa didorong oleh setan”.
+Telah dijelaskan dalam surah al-Insyirah{. kehidupan di dunia ini silih
+berganti, ada kesulitan ada kemudahan, baik dan buruk, semua ini peringatan dari
+Allah untuk menguji keimanan seseorang. Pesan dari surah tersebut agar selalu
+bersikap optimis dalam menghadapi hidup. Sikap yang senantiasa mengharap
+(optimis) terdapat dua pokok ajaran Islam: pertama, selalu mengharapkan rahmat dan
+nikmat illahi meskipun dalam kondisi apapun. Kedua, selalu mengharapkan ampunan
+Allah. Hal ini dapat memupuk dan meningkatkan harapan (optimisme) dalam
+menghadapi berbagai keadaan yang terasa sulit. Dalam Al-Quran terdapat beberapa
+ayat yang mendorong agar selalu bersikap optimis dalam menghadapi setiap masalah
+dan persoalan dalam hidup. Dalam Menghadapi hidup jiwa manusia dibagi menjadi
+dua : pertama, optimis yang selalu mengharap (Raja’). Kedua, pesimis yang selalu
+
+11
+
+Ibid., hlm. 238
+
+86
+
+mempunyai pandangan negatif12. Kesulitan sering terjadi karena kemalasan untuk
+bekerja maksimal, padahal di depannya masih ada jalan keluar untuk mengatasinya
+akan tetapi karena rasa malas telah dihadapan maka hidupnya penuh dengan
+kepasrahan. Dalam hidupnya hanya ada sikap pesimis13
+Peristiwa kehidupan yang menyenangkan dan tidak menyenangkan pada
+seorang mukmin itu semua pasti ada hikmahnya. Untuk itu, hendaklah menghadapi
+setiap kesulitan harus dengan sikap tenang, akal sehat. Sesulit apa pun cobaan
+menghadang jika menyikapinya dengan baik, maka akan mampu menghadapinya
+dengan penuh keyakinan dan optimisme. Sesulit apa pun cobaan yang Allah berikan,
+pasti terkandung hikmah di dalamnya.
+Hidup yang dihadapi penuh dengan kejutan yang sangat menyenangkan dan
+membahagiakan, tapi terkadang menyedihkan dan membahagiakan. Segala kesusahan
+yang terjadi itu semua pasti ada hikmah di balik semuanya, sesungguhnya satu
+kesulitan diapit oleh dua kemudahan. Allah berfirman dalam QS. Ath-Thalaq (65) :7.
+“Allah kelak akan memberikan kemudahan setelah kesulitan”.
+Sikap sedih dan bahagia yang penuh dengan optimis dalam menjalani
+kehidupan sangat mempengaruhi emosi seseorang. Emosi menurut kamus bahasa
+
+12
+
+13
+
+Ibid., hlm. 112
+
+AA.Qowiy, 10 Sikap Positif menghadapi kesulitan hidup, peng. AA Gym (Bandung:
+PT,Remaja Rosdakarya, 2001) Cet. I, hlm. 106
+
+87
+
+Indonesia bisa diartikan sebagai perasaan, kemampuan jiwa untuk merasakan gejala
+sesuatu yang disebabkan rangsangan dari luar (rasa sedih, susah, marah)14
+Titik pandang kecerdasan emosional, optimisme merupakan sikap yang
+menyangga agar orang jangan sampai terjatuh pada kebodohan dan depresi bila
+dihadang kesulitan. Optimisme menurut Seligman didefinisikan bagaimana orang
+memandang keberhasilan dan kegagalan.15 Kadang orang optimis cenderung
+menyikapinya dengan respon yang aktif dan tidak putus harapan, merencanakan
+tindakan dan melihat kegagalan suatu yang dapat diperbaiki. Sikap optimisme
+dipandang sebagai cerdas dalam emosional karena orang yang optimis bisa
+mengkondisikan emosinya.
+Emosi yang tak terkendali hanya akan melelehkan, menyakitkan dan
+meresahkan diri sendiri. Allah memberikan kesempatan pada seseorang agar
+meningkatkan kualitas kehidupanya dan kedekatan pada-Nya. Emosi dan perasaan
+akan bergolak dikarenakan dua hal: kegembiraan yang memuncak dan musibah yang
+berat. Hadis Rasulullah bersabda: ”Sesungguhnya aku melarang dua macam ucapan
+yang bodoh lagi tercela”
+Orang yang mempunyai kenikmatan hanya orang yang mempunyai keimanan
+dan keteguhan keyakinan dan senantiasa bersyukur tatkala mendapat kesenangan dan
+bersabar tatkala berada dalam kesusahan.
+
+14
+
+Pius A Patranto dan M Dahlan al-Barry, Kamus Ilmiah Populer ( Surabaya: Arkola, 1994)
+
+15
+
+Daniel Goleman, Emotional Intelligence (Jakarta: Pustaka Gramedia : 1996) hlm. 123
+
+88
+
+Berbicara masalah optimis berarti sangat dekat dengan emosi karena optimis
+dan emosi menyangkut pada keadaan jiwa manusia. Seseorang menggunakan emosi
+waktu menghadapi masalah dan emosi yang sering meluap seringkali digunakan
+waktu menghadapi masalah padahal dengan bersikap demikian tidak akan mudah
+berhasil apa yang akan dicapai, malah akan menambah kesulitan yang dihadapi dan
+tidak bahagia.
+Untuk mencapai keberhasilan dalam persoalan hidup, maka janganlah takut
+akan kegagalan. Salah satu ciri optimis yaitu bersikap gigih, tangguh berani
+menghadapi kesulitan sampai mencapai keberhasilan. Dengan optimis membuat
+selalu bersyukur kepada Allah atas karunia yang telah diberikan.
+Optimis menandakan pikiran yang jernih dan iman yang kuat, karena hanya
+dengan optimis semua pekerjaan, masalah, cobaan akan dilalui dengan baik. Sikap
+optimis terdapat kombinasi antara keyakinan dan harapan. Jika berpikir demikian,
+maka akan memiliki keyakinan bahwa segala sesuatu dalam kehidupan akan
+mengalami perubahan, sehingga tidak akan meninggalkan hidup dalam keadaan
+banyak masalah.16 Jiwa yang mempunyai sikap optimis dapat menumbuhkan
+kekuatan, meningkatkan motivasi dan semangat seseorang untuk keluar dari belenggu
+kesedihan. Ketika menghadapi berbagai persoalan yang dihadapi dengan sikap
+antusias dan optimis dapat mencapai jalan keluar dari masalah. Sikap antusias dalam
+
+16
+
+Roza Ramadhina, Don't Wory; Bersama Kesulitan Ada Kemudahan (Yogyakarta, Uswah,
+2007) hlm. 115
+
+89
+
+menjalani hidup dapat membuat seseorang mensyukuri karunia Allah, sehingga
+semua masalah akan terasa ringan.17
+C. Sabar Menerima Ujian
+Kata s{abr (sabar) secara bahasa berarti menahan, baik itu fisik maupun
+material seperti, menahan jiwa dalam menghadapi suatu yang dinginkan. Sedangkan
+secara istilah menuntut ketabahan dalam menghadapi sesuatu yang sulit, berat yang
+harus di hadapi dengan tanggung jawab18.
+Keindahan akhlak seorang muslim itu sabar dan tahan uji, karena itu sabar
+diartikan dengan menahan jiwa atas hal-hal yang tidak disukai atau menanggung
+yang tidak disukai dengan pasrah juga rela.19 Saat musibah datang bertubi-tubi maka
+diterima dengan sabar dan lapang apa pun bentuk cobaanya, bahkan misalnya dalam
+ujian atau lagi sibuk mengerjakan yang serumit pun.
+Kesabaran akan mudah dilakukan apabila dikaitkan dengan sikap berbaik
+sangka pada Allah. Suatu riwayat mengatakan Allah mendampingi orang yang
+senantiasa sabar menghadapi cobaan, sebagaimana ayat al-Qur’an “sesungguhnya
+Allah bersama orang-orang yang sabar”. Hidup yang dilakukan dengan sabar tanpa
+keluh kesah itu merupakan akhlak yang diusahakan dan di peroleh melalui berbagai
+macam latihan dan perjuangan agar di anugerahi rizki dan diilhami kesabaran dan
+
+17
+
+Ibid., hlm. 118
+
+18
+
+Quraish Shihab, Secercah Cahaya (Bandung: Mizan 2006) hlm. 165
+
+19
+
+Abu Bakar Jabir Al-Jazaini, Minhajul Muslim (Jakarta: Darul-haq, 2006) hlm. 192
+
+90
+
+pahala. Sabar disebutkan dalam al-Qur’an dan hadis. Firman Allah QS. Al-Baqarah
+(153)
+
+∩⊇∈⊂∪ tÎÉ9≈¢Á9$# yìtΒ ©!$# ¨βÎ) 4 Íο4θn=¢Á9$#uρ Îö9¢Á9$$Î/ (#θãΨ‹ÏètGó™$# (#θãΖtΒ#u zƒÏ%©!$# $yγ•ƒr'‾≈tƒ
+Hai orang-orang yang beriman, jadikanlah sabar dan shalat sebagai penolongmu,
+Sesungguhnya Allah beserta orang-orang yang sabar.
+Riwayat Bukhari mengatakan “siapa yang berusaha menjaga diri, Allah menjaganya,
+siapa yang berusaha merasa cukup Allah mencukupinya. Siapa yang berusaha sabar
+Allah akan menjadikanya sabar dan seseorang tidak dianugerahi sesuatu yang baik
+dan paling luas melebihi kesabaran”.20
+Dengan penjelasan di atas sabar bukan berarti pasrah, akan tetapi lebih pada
+kegigihan untuk tetap berpegang teguh pada ketetapan Allah. Kesabaran merupakan
+suatu proses aktif yang menggabungkan ikhtiar dan ridha yang melibatkan pada akal,
+tubuh dan keimanan hati.21 Kesenangan dan kesabaran yang dialami kebayakan
+seseorang merupakan cobaan. Dengan bersabar seberat apa pun cobaan akan berubah
+menjadi karunia yang indah. Karunia yang paling penting itu sabar, karena sabar itu
+orang yang beruntung, ketika musibah datang dari Allah, ketika musibah dan cobaan
+semua akan di kembalikan pada-Nya dengan gigih akan tetap berbaik sangka serta
+mempunyai ketabahan hati menghadapi bahaya dan kesulitan tanpa berkeluh kesah.
+Janganlah mempunyai sikap pesimis sedikit pun dalam menjalani kesulitan, yakinlah
+bahwa Allah akan membalasnya.
+
+20
+
+Cd mausu’ah, kutubuttis’ah
+
+21
+
+Roza Ramadhina., hlm. 164
+
+91
+
+Kehidupan tidaklah luput dari persoalan, sehingga persolan akan silih berganti
+dalam kehidupanku. Hidup tidak selamanya indah, kadang terasa menyedihkan dan
+penuh dengan kepahitan. Ini semua adalah ujian dari Allah adapun berat ringanya
+cobaan tergantung pada cara menyikapinya. Sabar merupakan ciri orang yang
+menghadapi berbagai kesulitan dengan lapang dada, serta ketabahan yang besar.
+Sabar akan bisa memikul beban, cobaan, penderitaan juga melawan hawa nafsu maka
+akan menjadi kepribadian yang matang sehingga akan menghilangkan kecemasan
+diganti dengan rasa aman.22
+Al-Quran juga menyeru orang-orang yang beriman untuk berhiaskan
+kesabaran. Ini karena ia mempunyai berbagai manfaat yang besar dalam hidup,
+memperkuat kepribadian dan meningkatkan kemampan manusia dalam menanggung
+kesulitan, dalam menghadapi masalah dan beban kehidupan serta cobaan. Ketika
+menghadapi masalah seorang mukmin dianjurkan untuk bersabar dan memberitahu
+bahwa apa yang menimpa dalam kehidupan adalah cobaan dari Allah23. Kesabaran
+mengajari manusia kekuatan dalam bekerja agar bisa merealisasikan tujuan-tujuan
+praktis dan ilmiahnya, karena manusia dalam hidupnya membutuhkan banyak waktu
+agar semuanya bisa tercapai dan terlealisasi. Kesabaran dan ketangguhan erat
+kaitannya dengan kehendak yang kuat, karena itu orang yang sabar mempunyai
+kekuatan yang besar. Meskipun dalam menghadapi berbagai kesulitan dan
+22
+
+23
+
+M. Usman Najati, Psikologi Qurani.., hlm. 363
+
+M. Usman Najati, Al-Quran Dan Ilmu Jiwa,Terj. Ahmad Rofi’ Usmani ( Bandung: Penerbit
+Pustaka, 1997) hlm. 320-321
+
+92
+
+hambatannya, maka kemauannya tidak akan melemah dan akan bekerja sampai apa
+yang diharapkan tercapai.24
+Kesusahan dan kesenangan merupakan cobaan dari Allah bahkan kehidupan
+di dunia sekarang ini merupakan cobaan yang harus dijalani. Memahami hakekat
+kehidupan dunia ini dan mengambil bekal utama dalam menjalaninya, bekal untuk
+menjalani kehidupan dengan sabar dan berserah diri pada Allah. Jika seseorang bisa
+menghadapi cobaan dan masalah yang berat dengan sabar, maka Allah telah
+menjelaskan dalam QS. Az-Zumar: 10
+Artinya: “sesungguhnya hanya orang-orang yang bersabarlah yang dicukupkan
+pahala mereka tanpa batas”. Juga Allah akan mengangkat derajat bagi orang yang
+bersabar.25
+Tidak semua orang mengalami kesulitan dalam hidup, akan tetapi silih
+berganti karena ujian dan musibah adalah bentuk kasih sayang Allah pada umatnya
+agar selalu beriman kepada-Nya. Janganlah merasa sedih kalau sedang tertimpa
+masalah akan tetapi bersukurlah terhadap apa yang diberikan. Dengan adanya
+masalah, hendaknya seseorang untuk lebih dekat pada Allah, sesungguhnya orang
+yang selalu enak belum pernah mendapat cobaan justru merekalah yang bersedih.
+Kesabaran yang dituntut oleh al-Qur’an adalah kesabaran dalam usaha
+mencapai apa yang dibutuhkan. Kesabaran ini menuntut usaha yang tidak kenal lelah,
+tidak memerdulikan rintangan yang dihadapi sampai tercapainya apa yang
+
+24
+
+Ibid., hlm. 324
+
+25
+
+Roza Ramadhina,. hlm. 166
+
+93
+
+dibutuhkan. Sabar dalam menghadapi malapetaka atau masalah bisa menerima
+dengan jiwa yang besar dan lapang untuk memperoleh hikmahnya.26
+Orang sabar tidak memandang status sosialnya, semua orang diharapkan
+kesabaran dalam menghadapi kesedihan dalam hidupnya. Karena Hati manusia
+adalah samudera yang tidak bertepi, maka semakin menyelaminya, seseorang
+mengerti kedalamanya. Maksudnya semakin bersabar dalam menghadapi rintangan,
+maka seseorang tidak akan merasa takut menghadapinya, karena ia tahu cara
+menghadapinya.
+Sabar merupakan kecerdasan emosi, kecerdasan merupakan ciri keunggulan
+manusia dalam memahami, memutuskan dan mengantisipasi, sedangkan emosi
+adalah perubahan jasmani langsung mengikuti persepsi mengenai kenyataan yang
+menggairahkan. Menurut psikologi, sabar tabah hati tanpa mengeluh dalam
+menghadapi godaan dan rintangan dalam jangka waktu tertentu dalam rangka
+mencapai tujuan27. Dengan sabar seseorang bisa mengendalikan emosi, apa pun
+bentuk masalah dilihat dari cara penyikapanya, hingga seseorang dapat mengatasinya.
+Sabar belum tentu konotasinya positif, tergantung pada apa inti masalah.
+Sabar dalam psikologi termasuk kecerdasan qalbiah, ini dikenal dengan
+sebutan emotional intelegence, bahwa kesuksesan rasio, tetapi kebanyakan ditentukan
+oleh kecerdasan emosi. Kecerdasan emosi diukur dari kemampuan mengendalikan
+26
+
+27
+
+Quraish Shihab, Secercah Cahaya ( Bandung: Mizan, 2005 ) hlm. 169
+
+Mubarak-Instute.Blogspot.com, "Sabar Kunci Kecerdasan Emosi", www.google.com,
+(dikutip 10 Juni 2008) Pukul 16:00
+
+94
+
+emosi dan menahan diri. Allah membekali manusia dan hewan dengan emosi yang
+membuatnya mampu melangsungkan kehidupanya. Misalnya mendorong kita untuk
+menghindar dari bahaya yang mengancam.
+
+D. Surah Al-Insyirah Dalam Kebermaknaan Hidup
+Kehidupan manusia yang penuh masalah di Zaman dulu maupun kini
+diharapkan dinaungi suasana yang positif. Masalah manusia menyangkut pada
+Kesehatan mental manusia, yang mana Kesehatan oleh para ahli didefenisikan
+sebagai terwujudnya keharmonisan yang sungguh-sungguh antar fungsi-fungsi jiwa
+serta mempunyai kesanggupan untuk menghadapi problem-problem biasa yang
+terjadi dan merasakan secara positif kebahagiaan dan kemampuan dirinya. Ini semua
+yang menjadi masalah adalah kehidupan kekinian.28 Modernisasi juga menimbulkan
+perubahan-perubahan sosial yang sangat cepat, sehingga dapat menimbulkan
+kebingungan, kecemasan, ketakutan dan frustasi. Frustasi bisa menimbulkan
+ketegangan batin dan gangguan emosional yang menjadi persemaian bagi timbulnya
+ketidaksehatan mental.29
+Frankl mengungkapkan bahwa kebermaknaan hidup sebagai keadaan yang
+menunjukan sejauh mana seseorang telah mengalami dan menghayati kepentingan
+hidupnya menurut sudut pandang dirinya. Kebermaknaan hidup muncul ketika
+28
+
+Baidi Bukhari,” Kesehatan Mental Mahasiswa ditinjau dari Religiusitas dan Kebermaknaan
+Hidup”, Jurnal Psikologika, Nomor. 22 Tahun XI-Juli 2006
+29
+
+Ibid., hlm. 93
+
+95
+
+individu mulai pematangan spiritual.30 Waterhot berpendapat bahwa kebermaknaan
+mempunyai dua arti dasar. Pertama, Kebermaknaan lebih menunjuk pada interpretasi
+terhadap pengalaman atau hidup pada umumnya, Kedua, kebermaknaan lebih
+merujuk pada tujuan-tujuan dan motivasi yang membuat individu memiliki respek
+terhadap pengalaman hidupnya.31
+Sedangkan menurut Ancok kebermaknaan hidup yaitu sebuah kekuatan hidup
+manusia untuk memiliki sebuah komitmen kehidupan. Makna ini bermula bahwa
+hidup ini bermula dari adanya visi kehidupan, harapan dalam hidup. Dengan adanya
+visi kehidupan dan harapan hidup itu seseorang akan tangguh dalam menghadapi
+kesulitan. Prinsip hidup ini bermakna menjadi penuh keoptimisan karena hidup ini
+cukup berharga untuk dijalani dengan kesungguhan.32
+Dari beberapa pendapat di atas dapat disimpulkan bahwa kebermaknaan hidup
+adalah kualitas penghayatan individu terhadap keberadaan dirinya, yang memuat halhal yang dianggap penting yang dapat memberikan arti khusus yang menjadi tujuan
+hidup. Seseorang menjalani kehidupan sehari-hari dengan penuh semangat dan
+mempunyai tujuan yang jelas, juga menyadari bahwa kehidupan tidak selamanya
+lancar, bahwa makna hidup dapat ditemukan dalam kehidupan betapapun buruknya
+keadaan. Kalau suatu saat mengalami penderitaan, maka akan dihadapi dengan rasa
+tabah karena semua itu ada hikmah dibalik penderitaan.
+30
+
+Neneng Anggriyani,:” Motif Sosial dan Kebermaknaan Hidup Remaja Pagaralam”, Jurnal
+Psikologika, Nomor. 21 Tahun XI-Januari 2006, hlm. 51
+31
+
+Ibid., hlm. 53
+
+32
+
+Baidi Bukhori, Jurnal Psikologika.. .Ibid., hlm.97
+
+96
+
+Bahaya atau kesukaran seberat apa pun akan dilaluinya dengan sabar, karena
+kesukaran dalam hidup itu merupakan bagian dari cobaan Allah kepada hamba-Nya.
+Setiap kesukaran tidak dipandang sebagai ancaman terhadap dirinya dengan cara
+negatif, akan tetapi sebaliknya melihat bahwa dicelah kesukaran ada harapanharapan. Dipandang dari sudut agama, Zakiyah mengatakan dengan pelaksana agama
+dalam kehidupan bisa membentengi orang dari gangguan jiwa dan dapat pula
+mengembalikan kesehatan jiwa bagi orang yang gelisah, karena kegelisahan yang
+tidak berujung akan mengakibatkan pada kekecewaan. Sedangkan agama dapat
+menolong dengan cara memohon pada Allah, sebagaimana disebutkan dalam AlInsyirah{ di atas.
+Problem kehidupan yang menyangkut ketenangan jiwa dan kesehatan mental
+antara lain kondisi psikologi dalam menghadapi problema hidup dan keseimbangan
+dalam berfikir. Adapun faktor ekternalnya: keadaan ekonomi, budaya dan
+lingkungan. Sesungguhnya ketenangan hidup, ketentraman jiwa tidak tergantung
+pada faktor-faktor luar seperti: sosial, ekonomi, politik dan adat kebiasaan akan tetapi
+pada bagaimana cara sikap kita menghadapi persoalan hidup.
+Keterkaitan antara surah ini dan kebermaknaan hidup terletak pada aliran
+psikologi yang memusatkan pada makna hidup, yaitu perjuangan dalam menghadapi
+problem kehidupan.33 Tanpa adanya kepercayaan pada tuhan, tidak akan mungkin
+orang mendapatkan ketenangan jiwa dalam kebermaknaan hidup. Semakin sabar dan
+
+33
+
+Ibid., hlm.98
+
+97
+
+tawakal pada Allah, maka akan semakin tentram jiwanya serta mampu dalam
+menghadapi kekecewaan dan kesukaran dalam hidup. Dengan beriman dan bertakwa,
+manusia mampu bersikap tenang dan sabar dalam menghadapi problema hidup dan
+mampu berpikir secara seimbang. Berbagai penelitian psikologi telah menunjukan
+pentingnya kebermaknaan hidup sebagai faktor yang berpengaruh kuat bagi
+kesehatan fisik dan kesehatan mental.34
+Dalam pembahasan sebelumnya telah diterangkan bahwa: dalam kehidupan
+sehari-hari Nabi diperlukan keimanan dan keyakinan yang kuat. Dampak dari
+kesulitan yang terjadi dalam kehidupan sehari-hari, dari hasil penelitian tentang
+masalah manusia menunjukkan bahwa yang menjadi penyebab utamanya adalah
+kurangnya sikap pemahaman seseorang pada masalah itu sendiri dan bagaimana cara
+menyelesaikannya.
+Dalam Islam upaya untuk mengatasi seseorang dalam menghadapi kesulitan
+dilakukan dengan pendekatan preventif, yakni dengan menanamkan nilai-nilai agama
+dan ayat al-Quran yang ada didalamnya. Dalam Al-Quran banyak sekali ayat tentang
+masalah-masalah manusia. Ayat tersebut dapat dijadikan dasar untuk memberikan
+pemecahan masalah. Beberapa ayat berikut ini dapat dijadikan pegangan. QS. AtThalaq : 2 dan 7. “Barang siapa yang bertakwa kepada Allah, Dia pasti memberikan
+jalan keluar”......Allah kelak akan memberikan kelapangan sesudah kesempitan...
+Allah menjadi jalan keluar dari segala permasalahan orang yang bertawakal sebagai
+balasan pahala yang nyata. Allah juga menjadikan dirinya sebagai jaminan bagi yang
+34
+
+Ibid., hlm. 52
+
+98
+
+bertawakal dan Allah juga akan mencukupi segala kebutuhan. Begitu juga dalam
+QS.Thaha:27
+Fenomena permasalahan muncul silih berganti dalam dinamika kehidupan.
+Dalam berbagai kehidupan sosial yang ada di masyarakat selalu dijumpai masalah
+yang beragam. Mulai dari yang miskin sampai yang kaya raya. Permasalahan yang
+dialami oleh seorang individu dalam komunitas masyarakat adalah yang unik dan
+khas. Hal inilah yang disebut sebagai kasus. Namun permasalahan yang ada dalam
+masyarakat apabila dicermati terdapat kemiripan satu dengan yang lainya sehingga
+dapat dikategorikan menjadi tema besar suatu masalah.
+Cobaan yang diberikan Allah pada manusia hampir dapat dianalogikan
+sebagai permasalahan yang kemudian dihadapi oleh manusia adalah sedikit
+ketakutan, bahaya kelaparan dan hilangnya jiwa.35 Allah berfirman
+“Maka Allah akan merasakan padanya busana kalaparan dan ketakutan”.
+Quraish Shihab dalam tafsir Al-Misbah mengemukakan bahwa hakikat hidup di dunia
+antara lain ditandai oleh kemungkinan terjadinya cobaan yang beraneka ragam. Ujian
+atau cobaan yang dihadapi pada hakikatnya sedikit, besar kecilnya itu relatif, jika
+dibandingkan dengan imbalan dan ganjaran yang akan diterima. Salah satu proses
+psikologi agar manusia selalu bersyukur dengan apa yang pernah didapat di dunia,
+
+35
+
+Mordiningsih, “Proses Psikologi Sabar Ketika Menghadapi Masalah”, Humanitas, Vol 5
+No.1 Januari 2008. hlm. 29
+
+99
+
+sebagaimana Allah berfirman “..dan bersyukurlah padaku dan janganlah mengingkari
+nikmat-ku..”36.
+Al-Quran telah memberikan tuntunan bahwa orang yang pandai bersyukur
+adalah orang yang semata-mata menjadi orang yang mampu bersikap positif ketika
+menghadapi ujian. Orang yang bersyukur selalu mengukur dirinya dengan orang yang
+kurang beruntung darinya, bahkan lebih menyedihkan sekalipun. Syukurilah nikmat
+yang telah didapatkan misal sehat, janganlah melampaui batas dalam makan dan
+minum yang telah tertera dalam al-Qur’an. Firman Allah “ jika engkau bersyukur
+kepada-Ku niscaya Allah akan menmbahkan nikmatnya. Namun jika engkau
+mengingkari, sesungguhnya azab-Ku sangat pedih”.37 Dengan bersyukur hidup akan
+terasa lebih nikmat, tentu bukan kenikmatan yang menjadi beban akan tetapi tidak
+bersyukur itu akan menjadi beban tersendiri. Indah, bahagia dalam kehidupan perlu
+bersyukur dan itu bukan sesuatu yang rumit. Kesederhanaan merupakan bagian dari
+syukur karena jika menginginkan bahagia, maka hiduplah dengan sederhana, apa
+yang dikaruniakan patut di syukuri. Pencarian hikmah yang terkandung dalam
+musibah bisa melebihi manfaat dari sebuah karunia.38 Allah sudah menjanjikan
+apabila ada kesedihan bergembiralah karena sesudah kesedihan ada kegembiraan.
+Syukur akan membawa pada keimanan, karena kalau selalu bersyukur berarti
+akan juga ingat Allah. Rasa syukur itu merupakan anugerah dari Allah mengingat
+36
+
+Al-Qur’an dan Terjemah Depag RI, Lihat QS. Al-Baqarah; 152
+
+37
+
+Ibid., hlm. 380 Lihat QS. Ibrahim: 7
+
+38
+
+Palgunadi P Setiawan, Daun Berserakan: Sebuah Renungan hati, ( Jakarta: Gema Insani
+Press,2004) hlm. 3
+
+100
+
+akan nikmat-nikmat yang diberikan, baik itu dalam jasmani maupun rohani. Besarnya
+cobaan yang dihadapi kalau dijalani dengan rasa syukur, maka cobaan itu tidak akan
+terasa berat.
+
+101
+
+BAB V
+
+PENUTUP
+
+A. Kesimpulan
+Dari pembahasan terdahulu, penulis menyimpulkan sebagai berikut:
+Manusia senantiasa menghadapi masalah dalam hidup, idealnya manusia
+mengetahui bahwa kesulitan yang datang dari Allah itu untuk menguji manusia.
+Berbagai macam masalah yang dihadapi manusia baik itu segi ekonomi, sosial,
+budaya juga masalah internal keluarga yang menyebabkan seseorang menjadi stress,
+cemas dan depresi serta gangguan kejiwaan lain. Akan tetapi semua ini tidak bisa
+terselesaikan dengan baik tergantung pada masalah manusia itu sendiri tergantung
+pada cara memecahkan masalah dan cara menyikapi. Ujian dan masalah sering terjadi
+pada masyarakat modern (zaman sekarang) disebabkan banyaknya masalah yang
+sering dihadapi oleh manusia modern, idealnya manusia modern itu berpikir logis dan
+pengetahuan yang luas.
+Kaitan surah al-Insyirah dengan pemecahan masalah sebagai pedoman bagi
+manusia yang menghadapi kesulitan, karena dalam hal ini Allah telah menunjukan
+bagaiman surah al-Insyirah itu sangat berpengaruh bagi manusia, salah satunya
+dengan berpikir positif, sabar akan kesulitan akan tetapi disamping itu ada usaha dan
+tawakal pada Allah. Dalam surah al-Insyirah telah disebutkan bahwa seberat apapun
+cobaan pasti akan ada kemudahan karena itu janji Allah.
+
+102
+
+Sedangkan
+
+pesan
+
+moral
+
+yang
+
+ditujukan
+
+surah
+
+al-Insyirah
+
+dalam
+
+kebermaknaan hidup seseorang dilihat dari kadar keimanan mereka, karena kadar
+keimanan bisa dilihat dari bagaimana sikap seseorang itu dalam menghadapi masalah
+dan kesulitan. Sehingga akan mencapai kebermaknaan hidup yang baik.
+Adapun pesan moral dalam surah ini, agar seseorang bisa menjadi insan yang
+berkualitas dalam menjalani hidup. Dengan berbagai rintangan dan masalah dalam
+hidupnya.
+Dengan cara ini, penulis akan mengenalkan bahwa setiap masalah jangan
+dilihat dari masalahnya akan tetapi di lihat dari bagaimana cara seseorang
+menyikapinya, karena masalah itu sebagian dari ujian kehidupan mansia. Dianjurkan
+manusia selalu berpikir positif dalam segala hal.
+Demikian surah al-Insyirah{ yang menggambarkan anugerah ketenangan jiwa
+yang telah diperoleh Nabi Muhammad saw, serta diakhiri dengan petunjuk yang
+dapat mengantar seseorang guna memperoleh ketenangan itu.
+
+B. Saran-saran
+Penulis menyadari bahwa skripsi ini jauh dari sempurna dan belum
+representative dikatakan memadai. Di samping karena pengetahuan penulis yang
+dangkal tentang tema ini, penulis juga menghadapi kesulitan mencari main side dari
+pendapat para mufasir. Oleh karena itu penulis mempunyai catatan khusus sebagai
+berikut:
+
+103
+
+Kajian tentang surah al-Insyirah{ yang menerangkan penggugah jiwa manusia
+merupakan
+
+bagian
+
+terpenting
+
+kehidupan
+
+sehari-hari
+
+dalam
+
+menghadapi
+
+masalah.kehidupan manusia. Oleh karena itu pemahaman yang cukup tentang hal ini
+akan dapat membantu terlaksanannya kesejahteraan dan ketentraman manusia dalam
+hidupnya. Maka penelitian dari segmen lainya perlu untuk dilakukan.
+Kaitan surah al-Insyirah{ dalam psikologi, penelitian dari pendekatan ilmu
+lainnya juga penting. Sebab masalah kehidupan manusia adalah suatu persoalan yang
+tidak dapat diselesaikan melalui suatu disiplin ilmu, akan tetapi perlu dibaca dari
+berbagai perspektif sehingga kita bisa menemukan solusi untuk keluar masalah
+kehidupan manusia yang menjadi beban beratnya yang semakin hari semakin
+kompleks yang dilanda manusia. Oleh karena itu masalah harus selesaikan dengan
+baik, bukan untuk ditinggalkan. Janganlah dilihat dari masalahnya akan tetapi lihat
+cara menyikapi masalah itu.
+
+DAFTAR PUSTAKA
+
+Abduh, Muhammad. Tafsir Juz 'Amma, pengant. M Quraish Shihab. Bandung:
+Mizan, 1999
+Abdurahman, Aisyah. Tafsir Bintusy Syathi’, terj. Mudzakir Abdusalam.
+Bandung: Mizan, 1996
+Agustian, Ary Ginanjar. ESQ Berdasarkan 6 Rukun Islam. Jakarta: PT Arga, 2001
+Alibasyah, Permadi. Bahan Renungan Kalbu: Penghantar Mencapai Pencerahan
+Jiwa, Bandung: Cahaya Makrifat, 2005
+Amin, Rusli. Pencerahan Spiritual. Jakarta: Al-Mawardi Prima, 2002
+Aminudin, Aam. Tafsir Al-qur'an Kontemporer, Bandung: Percik Press, 2004
+Ancok, Djamaludin dan Fuad Nashari. Psikologi Islam Solusi Islam atas Problem
+Psikologi, Yogyakarta: Pustaka Pelajar, 2005
+Asfahani>y, Al-Ra>ghib. Mu’jam al-Mufahras li Alfadz al-Qur’an, Beirut: Dar alFikr, t.th
+Arikunto, Suharsimi. Prosedur Penelitian, Suatu Pendekatan Praktek. Jakarta:
+Penerbit Rineka Cipta, 2002
+Al-Bagdadi, Abdurahman. Beberapa Pandangan Mengenai Penafsiran Alquran.
+Terj. Abu Laila M. Thahir. Bandung: Al-Ma’arif, 1998
+Baker, Anton (dkk). Metode Penelitian Filsafat. Yogyakarta: PT Kanisius, 1990
+Daradjat, Zakiyah. Do’a Menunjang Semangat Hidup, Bandung: Rosda Karya,
+1996
+E. Malkin, dan Patricia A Lindley. Mengatasi Sterss Secara positif, Jakarta:
+Gramedia Pustaka Utama, 1994
+Goleman, Daniel. Emotional Inteligence, Jakarta: Gramedia, 1996
+Hamka. Tafsir Al-Azhar Juz XXX, Jakarta: Panjimas, 2006
+Hasan, bin ’Uqail Musa Al-Syarif Muhammad. Agar Hati Lebih Hidup.
+Yogyakarta: Pro-U Media
+
+104
+
+Hasan Qalay, A. Hamid. Indek Terjemah Al-Qur’an al- Karim, Jakarta: Halimatus
+Sa’diyah 2000
+Hawwa, Sa’id. Mensucikan Jiwa: Intisari Ihya Ulumuddin, Alih Bahsa: Ainur
+Rafik. Jakarta: Rabbani Press, 1998
+Al-Maraghi, Ahmad Mustafa. Al-maraghi, juz XXX. Terj. Henry Noer Ali.
+Bandung: CV. Rosda,1987
+Mubarak, Ahmad. Jiwa dalam Al-Quran, Jakarta: Paramadina, 2000
+Mujtaba, Musa Ali Sayyid. Psikologi Islam: Membangun Kembali Moral
+Generasi Muda. Bandung: Pustaka Hidayah, 1990
+Murthahari, Murtadha. Tafsir Surah Pilihan, Mengisi Hidup Dengan Surah Penuh
+Berkah. Bandung: Pustaka Hidayah, 2000
+An-Najar, Amir. Ilmu Jiwa Dalam Tasawuf, Studi Komparatif dengan Ilmu Jiwa
+Kontemporer. Jakarta: Pustaka Azzam, 2001
+Najati Usman, M. Al-Qur’an dan Ilmu Jiwa, Bandung: Pustaka, 1997
+--------------------, Psikologi Qur’ani, Surakarta: Aulia, 2008
+Nashari, Fuad. Psikologi Sosial Islam, Bandung: Refika Aditama,2008
+Nasib Ar-rifa’i, Muhammad. Tafsir Ibnu Kasir Jilid 4, Jakarta: Gema Insani, 2000
+Nur Qori, Siti. "Konsep Iffah Dalam Al-Qur'an" Skripsi Fakultas Ushuluddin UIN
+Sunan Kalijaga Yogyakarta, 2008
+Al-Qarni, Aidh. La - tahzan Jangan Bersedih, Terj.Rahman Samson. Jakarta:
+Qisthi Press, 2004
+Al-Qur’an dan Terjemah Departemen Agama. Jakarta: Depag RI, 1993
+
+Qowiy, Aa. Sepuluh Sikap Positif: Menghadapi Kesulitan Hidup. Bandung:
+Remaja Rosda Karya, 2001
+Quthub, Sayyid. Tafsir Fi Zhilalil Qur’an, Di Bawah Naungan Al-quran, Jilid 24,
+Jakatra: Gema Insani Press, 2002
+
+105
+
+Rahmat, Jalaludin. Psikologi Agama. Cet.3. Jakarta: PT Raja Grafindo Persada,
+1998
+As-S{habuni, Muhammad Ali. Sofwah Al-Tafa>sir, Juz III. Libanon Beirut: Dar alFikr, 1997
+As-Shiddieqy, Hasbhi. Tafsir al-Qur-anul Majied ”An-Nur”, juz 28. Jakarta:
+Bulan Bintang, 1999
+Setiawan, Palgunadi. Daun Berserakan: Sebuah Renungan hati, jakarta: gema
+Insani Press, 2004
+Shaleh dkk, Qamaruddin. Asbabun Nuzul: Latar Belakang Historis Turunya Ayatayat Al-Qur’an, Bandung: CV: Diponegoro, Cet X, 2007
+Shihab, M. Quraish. Membumikan Al-qur’an: Fungsi dan Peran Wahyu dalam
+Kehidupan Masyarakat. Bandung: Mizan, 2005
+-----------------------, Tafsir Al-misbah: Pesan, Kesan dan Keserasian Al-qur’an.
+Jakarta: Lentera Hati, Vol 15, 2002
+-----------------------, Secercah Cahaya Ilahi: Hidup Bersama Al-Quran, Bandung:
+Mizan, 2005
+Tasmara, Toto. Kecerdasan Ruhani, Membentuk Kepribadian yang Bertanggung
+jawab, Profesional dan Berakhlak. Jakarta: Gema Insani Press, 2001
+Taufik Nasution, Ahmad. Metode Menjernihkan Hati, Bandung: Mizan Pustaka,
+2005
+W. Santrock, John. Life Span Development. Perkembangan Masa Hidup, Jakarta:
+Erlangga, 1995
+Warson Munawwir, Ahmad. Kamus Al-Munawwir: Arab-Indonesia, Surabaya:
+Pustaka Progresif, 1997
+Al-Zamakhsyari, Abi Qasim Mahmud bin Umar. Al-kasyaf, Juz IV. Teheran:
+Antasyarat Aftab, 1982
+Zohar, Danah dan Ian Marshall. SQ: Memanfaatkan Kecerdasan Spiritual dalam
+Berpikir Integralistik dan Holistik Untuk Memaknai Kehidupan. Terj.
+Rahmani Astuti, Bandung: Mizan, 2001
+
+106
+
+Jurnal
+Anggreani, Neneng. "Motif Sosial dan Kebermaknaan Hidup", Psikologika, No
+21, Tahun XI, Januari 2006, hlm 51
+Asy’ari, Musa. "Ekonomi dan Kemiskinan Tinjauan Agama", Unisia, No 21,
+Tahun XIV Triwulan I,1994, hlm 36
+Bukhori, Baidi. "Kesehatan Mental Mahasiswa Di Tinjau Dari Religiusitas dan
+Kebemaknaan Hidup", Psikologika, No 22, Tahun XI, Juli 2006, hlm 93
+Miftahul Choiri. Muhammad, "Kepribadian: Sebuah Komparasi Psikoanalisa
+Sigmund Freud dan Islam", Cendekia, Vol 5. No 1 Januari-Juni 2007
+Moordiningsih. "Proses Psikologi Sabar Ketika Menghadapi Masalah",
+Humanitas, Vol 5 No I, tahun Januari 2008, hlm 28
+Nashari, Fuad. "Kelapangdadaan Mahasiswa Santri dan Mahasiswa Reguler",
+Psikologi Islami, Vol I, No 2, Desember 2005, hlm 131
+----------------, "Sufisme dan Psikoterapi Islam", Tazkia: Mengembangkan
+Psikologi berwawasan Islam, Vol 3 No. khusus, Desember 2003, hlm 10
+Umar, Mustafa. "Graduasi Turunya Al-Quran Tinjauan Antropologi dan psikologi
+dalam Potret Pluraritas Budaya", Studi Ilmu Al-Quran dan Hadis, Vol 6,
+No I, Tahun Januari 2005, hlm 2
+Ensiklopedi
+Hs, Fachrudin. Ensiklopedi al-Quran, Jilid I, hlm 226-227
+Jabir al-Jaizini, Abu Bakar. Minhajul Muslim, Jakarta: Darul-Haq, 2006, hlm193
+Data Internet
+www.google.com Mahasiswa Dan Rekayasa Sosial Dipublikasikan: 31/03/2003
+16:37:14
+http://id.wikipedia.org/wiki/Kemiskinan 17:32, 17 Maret 2008
+http://www.pu.go.id/publik/P2KP/Des/memahami 99.htm
+www.google.com (Dikutip dari “Durusun min al-Quran”, karya Syahid Ayatullah
+Murtadha Muthahhari)
+http//www.google.com e-psikologi. Diaksese 4 agustus 2008
+
+107
+
+Pambudi, Sudiro, http//www.Economy-okezone.com, "Dampak Resesi dan
+Inflasi". Diakses 25 Maret 2008
+http//www.google.com, "Teori Hirarki Kebutuhan Maslow Abraham Maslow Ilmu
+Ekonomi". Diakses 8 Agustus 2008
+
+108
+
+CURRICULUM VITAE
+Nama
+: Ichda Nauvilla
+Tempat, tanggal lahir : Pemalang, 15 Agustus 1984
+Agama
+: Islam
+Alamat lengkap
+: Jl. Raya Moga Pulasari, Banyumudal, Moga, Pemalang
+Telepon, HP
+: 0813 9224 2374
+E-mail
+: Nauvil05@telkom.net
+Pendidikan
+ Formal
+1991 − 1997 : MI Dewi Masyitoh Banyumudal
+1997 – 2000 : MTs Ihsaniyah Banyumudal
+2000 – 2003 : MAN Pemalang
+2003 – 2008 : UIN Sunan Kalijaga Yogyakarta
+o Non Formal
+2003 Pondok-Pesantren Al-Munawwir Krapyak Komplek Q Yogyakarta
+Pengalaman Organisasi
+o Tahun 2003 Kopma UIN Sunan KaIlijaga
+o Tahun 2003 KAMMI
+o Tahun 2004 Kopotren Al-Munawwir
+Pengalaman
+1. Seminar Nasional Eco Life
+2. Magang di Kopma UIN Sunan Kalijaga
+3. Panitia Pelatihan Komputer di UIN Sunan Kalijaga
+
+

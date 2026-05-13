@@ -1,0 +1,562 @@
+Mohon baca keseluruhan dokumen ini sebelum mengerjakan tugas.
+
+Research Paper (Draft Research proposal)
+(PRPR801) (Spring 2025)
+A.​ Buatlah Draft Research Proposal dengan ketentuan di bawah ini!
+
+Research paper pertama adalah draft research proposal dengan deadline UTS
+yang memfokuskan pada penulisan Bab-1 dan Bab-2
+Tujuan: Setelah menyelesaikan tugas ini mahasiswa diharapkan mampu
+a.​ Memahami dan mengidentifikasi permasalahan penelitian yang relevan dengan
+bidang Psikologi dan Konseling Islam.
+b.​ Menyusun latar belakang penelitian secara logis dan sistematis dengan
+dukungan literatur yang relevan.
+c.​ Merumuskan pertanyaan penelitian, tujuan, dan manfaat penelitian dengan
+jelas serta berbasis pada gap penelitian yang telah ditemukan.
+d.​ Melakukan kajian literatur secara komprehensif dan menyusun kerangka teori
+atau konsep yang mendukung penelitian.
+e.​ Mengembangkan keterampilan akademik dalam menulis proposal penelitian
+yang sesuai dengan standar ilmiah dan kaidah penulisan akademik.
+
+Batas maksimal jumlah kata (word limit): Upayakan untuk tidak lebih 2000
+kata (tidak termasuk semua jenis catatan dan daftar referensi).
+
+Perhatian: Jika jumlah kata melebihi batas tidak masalah jika memang
+membutuhkan penjelasan yang lebih dalam.
+
+Mohon perhatikan juga penjelasan pengajar tentang soal tugas dan teknis
+pengerjaannya di pertemuan langsung atau rekamannya untuk mendapatkan
+nilai maksimal.
+Ekspektasi:
+1)​ Mengikuti format berikut :
+
+Page 1 of 11
+
+a.​ Spasi : 1
+b.​ Jenis huruf : Times New Roman, ukuran 12
+2)​ Menggunakan APA referencing style (7th edition) untuk penulisan
+
+referensi dan catatan. Petunjuk penggunaan APA ada di halaman
+matakuliah. ​
+3)​ Petunjuk Penulisan Paper
+-
+
+Paper
+
+terdiri
+
+dari
+
+format:
+
+Pendahuluan
+
+(latar
+
+belakang
+
+masalah,
+
+identifikasi masalah, manfaat/kegunaan, tujuan).
+- Gunakan hasil karya akademik sebagai referensi penelitian anda, dan
+hindari situs internet atau artikel random yang mungkin tidak memenuhi
+kriteria penulisan akademik.
+- Sertakan daftar pustaka atau bibliography yang benar menggunakan gaya
+“Konvensi APA”.
+- Dilarang mengcopy/paste tanpa menyebutkan sumbernya.
+- Jangan terlalu banyak menggunakan kutipan langsung, akan tetapi tulislah
+dengan bahasa anda sendiri (paraphrase) sebaik mungkin.
+- Jika dibutuhkan kutipan langsung, misalnya dari ayat Al Qur’an atau
+Hadist, hendaknya cukup mengutip bagian yang dibutuhkan atau mendukung
+pernyataan. Jika ingin mengutip secara utuh hendaknya diberi kalimat
+pengantar agar pembaca memahami relevansi kutipan tersebut. Dan agar
+tidak terlalu banyak mengutip ayat al-Quran atau Hadits.
+- Jangan keluar dari topik hanya untuk memenuhi persyaratan batas kata.
+- Jika Anda tidak jelasan tentang topik atau memiliki pertanyaan, hubungi
+dan komunikasikan dengan dosen Anda untuk memastikan bahwa tulisan
+Anda sesuai dengan yang diharapkan.
+
+Page 2 of 11
+
+- Jika tidak dikumpulkan dalam waktu revisi yang telah ditentukan, maka
+nilai akan disesuaikan dengan hasil pengerjaan paper yang telah terkumpul
+sebelumnya. Kebijakan revisi akan diserahkan kepada masing-masing dosen
+pengampu.
+
+B.​ FORMAT PENULISAN RESEARCH PAPER & PENJELASANNYA
+Bab I. Pendahuluan
+Latar Belakang Masalah
+Bagian ini sering disebut sebagai pendorong penelitian. Uraian dari paragraf ini sebisa
+mungkin harus bisa menarik minat pembaca untuk terus membaca.
+Pada bagian ini perlu diuraikan fenomena yang muncul yang merupakan masalah yang
+pantas untuk diteliti secara naratif, dan diakhiri dengan pernyataan peneliti mengenai
+ketertarikan peneliti pada area masalah yang dimaksud.
+
+1.​ Konsep topik apa yang diteliti
+2.​ bukti adanya masalah di lokasi penelitian
+3.​ seharusnya bagaimana
+4.​ apa dampaknya
+5.​ kenapa diteliti
+6.​ diskusikan hasil literature review dengan temuan/fakta dilapangan
+7.​ (critical thinking dan writing)
+8.​ simpulkan
+9.​ kalimat tanya
+10.​judul
+Konsekuensi dari penggunaan narasi ini kemudian adalah penggunaan metode penelitian.
+Jika menggunakan narasi deduktif, maka metode penelitian yang selaras adalah metode
+kuantitatif, sementara jika menggunakan narasi induktif, maka metode penelitian yang
+selaras adalah metode kualitatif. Penggunaan narasi dan metode penelitian yang berbeda
+mesti dalam persetujuan pembimbing.
+​Identifikasi Masalah
+Indentifikasi masalah adalah aspek abstraksi dan pemilihan yang tepat terhadap aspek
+yang akan di teliti. Identifikasi masalah harus merupakan ujung kerucut yang merupakan
+inti permasalahan yang sebelumnya telah diuraikan pada latar belakang masalah.
+
+Page 3 of 11
+
+Masalah disini adalah adanya kesenjangan antara hal yang sifatnya ideal dengan
+kenyataan di lapangan, atau adanya kesenjangan antara yang disampaikan di teori dengan
+kenyataan di lapangan.
+Kesenjangan yang menjadi masalah ini dapat merujuk pada salah satu dari 7 tipe
+kesenjangan sebagai berikut:
+Tabel 2.1. Penjelasan Gap Penelitian Yang Bisa Dijadikan
+Acuan Identifikasi Masalah
+NO
+
+Tipe research
+gap
+
+Penjelasan
+
+1
+
+Evidence Gap
+(Contradictory
+Evidence Gap)
+
+Evidence gap merupakan kesenjangan atau permasalahan
+penelitian yang didapatkan ketika (1) peneliti mendapati bahwa
+hukum, hipotesa dari sebuah teori ternyata bertolak belakang atau
+kontradiktif dengan hasil-hasil penelitian yang dilakukan, atau (2)
+jika hasil-hasl penelitian dalam topik yang sama saling bertolak
+belakang satu sama lain [Jacobs, 2011; Müller-Bloch & Kranz, 2014;
+Miles, 2017].
+Misal: teori mengatakan bahwa orang yang kesepian ada kaitannya
+dengan konsep diri yang rendah (Peplau, Russel, & Goldston,
+1984), tapi ternyata fakta penelitian membuktikan sebaliknya
+(missal: Duggan & Brennan, 1996; McGuire & Clifford, 200;
+Permana & Gilmore, 2020).
+
+2
+
+Knowledge Gap
+(Knowledge Void
+Gap)
+
+Jika hal-hal yang diharapkan untuk bisa menjelaskan ternyata
+belum ditemukan penjelasan dan bukti ilmiahnya, maka hal
+tersebut masuk pada knowledge gap
+[Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].
+Misalnya, populer istilah psikologis yang merepresentasikan
+sebuah kondisi relasi interpersonal seseorang yang disebut dengan
+toxic relationship. Padahal istilah tersebut sama sekai belum ada
+pada database penelitian ilmiah, sehingga ada celah penjelasan
+yang bisa mendorong diadakannya sebuah penelitian
+
+3
+
+PracticalKnowledge Gap
+(ActionKnowledge
+Conflict Gap)
+
+Jika ternyata di lapangan, terdapat praktik-praktik yang berbeda
+dan belum dijelaskan secara ilmiah dengan teori yang ada [Jacobs,
+2011; Müller-Bloch & Kranz, 2014; Miles, 2017].
+
+4
+
+Methodological
+Gap
+(Method ​
+and
+Research ​ Design
+Gap)
+
+Jika selama ini pada suatu topik belum banyak variasi metodologi
+dalam pembuktian sebuah teori[Jacobs, 2011; Müller-Bloch &
+Kranz, 2014; Miles, 2017].
+Misalnya, selama ini penelitian seputar konsep diri selalu
+menggunakan skala dari Fitts (1997) dan belum pernah ada yang
+menggunakan fenomenologi untuk mendalami penghayatan
+individu terkait konsep dirinya.
+
+Page 4 of 11
+
+5
+
+Empirical Gap
+Empirical gap merupakan sebuah kesenangan jika sudah lama
+(Evaluation ​ Void sebuah teori tidak direplikasi lagi dan butuh untuk diuji dan dikaji
+lagi apakah masih relevan atau tidak [Jacobs, 2011; Müller-Bloch &
+Gap)
+Kranz, 2014; Miles, 2017].
+Misalnya teori Weiner (1983) tentang attributions terkait dengan
+kontrol pada diri manusia, apakah dewasa ini masih relevan atau
+tdak, karena sudah lama tidak direplikasi dan diuji ulang.
+
+6
+
+Theoretical Gap
+(Theory
+Application ​ Void
+Gap)
+
+theoretical gap adalah kesenjangan yang ditemukan jika ada
+sebuah teori yang dirasa butuh untuk dikembangkan atau
+dieksplorasi lebih lanjut untuk mendapatkan insight yang
+baru[Müller-Bloch & Kranz, 2014]. [Jacobs, 2011; Müller-Bloch &
+Kranz, 2014; Miles, 2017].
+Misalnya teori-teori pengembangan diri seperti aktualisasi diri
+Maslow (1954), efikasi diri Bandura (2012), dan teori determinasi
+diri Deci dan Ryan (1995) dirasa terlalu personal, padahal
+pengembangan diri itu dirasakan juga secara relasional. Maka perlu
+ada pengembangan teori terkait pengembangan diri yang
+mengarah lebih pada relasional.
+
+7
+
+Population Gap
+
+Population gap merupakan kesenjangan yang terjadi Ketika
+peneliti menemukan bahwa temuan dari sebuah teori hanya
+terjadi di daerah atau populasi tertentu saja yang kemungkinan
+akan berbeda hasilnya jika berpindah sampel dan populasi atau
+juga ditambah variable demografi (e.g., gender, race/ethnicity, age
+and etic). [Robinson, et al, 2011].
+Misalnya apakah kesepian yang tinggi juga ditemukan di wilayah
+Asia, karena selama ini penelitian terkait loneliness hanya terjadi di
+Eropa dan Amerika saja.
+
+​Maksud dan Tujuan Penelitian
+Maksud penelitian berisi penjelasan terkait ekspektasi dalam bentuk wilayah pendalaman
+penelitian. Misalnya penelitian ini diharapkan untuk memberikan gambaran terkait hal
+tertentu, atau penelitian ini bermaksud untuk mendapatkan bukti empiris dari variabel
+yang akan diteliti.
+Tujuan penelitian berisi penjelasan terkait output atau luaran hasil utama penelitian
+nantinya. Misalnya penelitian ini menguji hubungan antara variabel tertentu, atau
+penelitian ini menggambarkan dinamika dari fenomena psikologis tertentu. Dari tulisan
+dan penjelasan pada bagian tujuan penelitian, tergambarkan akan seperti apa hasil dan
+luaran penelitian yang akan dilakukan. Dengan kata lain tujuan penelitian adalah apa yang
+akan dilakukan setelah mendapatkan data empiris dari variabel yang diteliti
+
+Page 5 of 11
+
+Manfaat/ ​Kegunaan Penelitian
+Bagian ini menjelaskan manfaat penelitian yang dilakukan, baik secara teoritis maupun secara
+praktis.
+Untuk manfaat teoritis, diisi dengan pejelasan posisi penelitian dalam bentuk dialog teoritis,
+misalnya penelitian ini mendukung tesis dari identitas sosial, atau penelitian ini berusaha
+menyanggah anggapan bahwa pengembangan diri bersifat individual melainkan relasional.
+Untuk manfaat praktis diisi dengan penjelasan terkait dampak terhadap dunia profesional dan
+atau kesehatan. Misalnya penelitian ini memberikan gambaran bagaimana cara seseorang
+memandang dirinya, atau penelitian ini memberikan alternatif dalam ubungan interpersonal
+seseorang untuk mengembangkan diri.
+Baik manfaat praktis dan teoritis ini kemudian akan diulas kembali pada bab Bab V terutama
+terkait apakah manfaat ini kemudian bisa tersampaikan dengan baik oleh peneliti.
+
+Kerangka Pikir
+Kerangka pikir bukan merupakan alur pikir peneliti, pada prinsipnya, kerangka pikir
+mengemukakan beberapa teori yang relevan dengan masalah yang diteliti, sehingga
+memudahkan peneliti memunculkan asumsi atau hipotesis.
+Kerangka pikir biasanya merupakan gambaran fenomena yang kemudian dianalisis dengan
+menggunakan teori atau dalil yang relevan. Prosesnya bisa deduktif maupun induktif.
+Asumsi Penelitian atau Hipotesis (untuk metode penelitian kuantitatif) Asumsi adalah suatu
+pernyataan tentang hakekat dari suatu gejala. Asumsi merupakan titik tolak dari dibangunnya
+suatu konsep. Asumsi dianggap benar dan tidak perlu diuji. Hipotesa adalah penjelasan
+(jawaban) sementara terhadap masalah penelitian yang berkenaan dengan tingkah laku,
+fenomena, peristiwa tertentu yang telah terjadi atau yang akan terjadi. Berbeda dengan asumsi
+yang tidak perlu diuji, maka untuk hipotesa perlu dilakukan uji hipotesa.
+
+Fokus penelitian (untuk metode penelitian kualitatif)
+Fokus penelitian kemudian diisi dengan penjelasan batasan dari area penelitian yang
+dilakukan, khususya wilayah fenomena dan analisa dari topik yang akan dikaji oleh
+peneliti.
+
+Bab II. Tinjauan Pustaka
+Page 6 of 11
+
+Susunan bab dalam tinjauan pustaka, disesuaikan dengan tinjauan pustaka yang
+digunakan peneliti dalam membahas penelitian atau tinjauan teori yang digunakan
+sebagai dasar penelitian.
+Lazimnya tinjauan pustaka dimulai dari variabel yang diteliti
+Untuk penelitian kuantitatif, pada bagian akhir Bab II disampaikan juga hasil kajian artikel
+yang peneliti lakukan dalam bentuk tabel
+
+C. Penilaian
+Adapun penilaian untuk research paper 1 adalah sebagai berikut:
+
+Aspek
+
+Nilai maksimal
+
+Latar belakang masalah
+
+50
+
+Identifikasi masalah
+
+10
+
+Maksud & Tujuan Penelitian
+
+5
+
+Manfaat / kegunaan penelitian
+
+5
+
+Kerangka pikir / Fokus penelitian
+
+10
+
+Tinjauan pustaka
+
+20
+
+Total
+
+100
+
+Penilaian untuk research paper 2 adalah sebagai berikut:
+​
+
+Aspek
+
+Nilai maksimal
+
+Rancangan penelitian
+
+30
+
+Variabel penelitian
+
+15
+
+Subjek dan lokasi penelitian
+
+15
+
+Penyusunan alat ukur
+
+15
+
+Teknik pengambilan data
+
+15
+
+Teknik pengolahan dan analisa data
+
+10
+
+Total
+
+100
+
+Page 7 of 11
+
+Instruksi Mengunggah Research Paper
+1. Buat file MS Word baru. Sebelum menuliskan jawaban tuliskan informasi
+berikut di halaman pertama:
+1.​ Nama Mahasiswa:
+2.​ ID Mahasiswa:
+3.​ Nama/Kode Mata Kuliah:
+4.​ Pertanyaan Tugas:
+5.​ Jumlah percobaan: (1 atau 2) [Tulis 1 jika ini adalah percobaan
+
+pertama. Tulis 2 jika anda mengunggah revisi dari percobaan anda
+sebelumnya.]
+2. Silahkan upload sebagai Word Document (.docx) saja; jangan diconvert
+menjadi PDF.
+3. Beri nama file yang akan diunggah dengan nama kode mata kuliah dan
+nama mahasiswa berikut jumlah percobaan. Contoh: AQD101_nama
+mahasiswa-1.
+4. Bagi mahasiswa yang ingin mengunggah revisi research paper hendaklah
+mengganti jumlah percobaan. Contoh: AQD101_nama mahasiswa-2. Harap
+hubungi juga dosen pendamping jika anda telah mengunggah revisi paper
+anda.
+
+Petunjuk Penting dalam Mengunggah Research Paper
+1.​ Mohon diperhatikan, saat anda mengunggah research paper anda,
+
+research paper akan tersimpan dalam bentuk “draft”. Untuk mengirim
+research paper, anda harus menekan tombol
+
+“Ajukan Penugasan”.
+
+Jika anda lupa untuk mengirim research paper dengan mengklik
+
+“Ajukan Penugasan”, file tetap akan menjadi “draft” dan
+TIDAK AKAN DINILAI. Oleh karena itu, mohon perhatikan poin ini
+tombol
+
+dan pastikan sudah dilaksanakan.
+
+Page 8 of 11
+
+2.​ Setelah anda menklik tombol “Ajukan Penugasan”, percobaan pertama
+
+anda sudah dihitung.
+3.​ Jika anda ingin merevisi reseach paper anda, harap menghubungi
+
+admin IOU untuk membuka kembali kesempatan pengiriman research
+anda.
+
+Admin
+
+IOU
+
+bisa
+
+helpdesk@bahasa.iou.edu.gm
+
+dihubungi
+atau
+
+kontak
+
+melalui
+
+email
+
+Whatsaap
+
+di
+
+berikut
+
++62-822-1144-0031. Pengajuan revisi research paper paling lambat 5
+hari sebelum batas akhir pengumpulan tugas pada periode normal.
+Saat anda mengunggah file revisi paper maka file paper akan
+tersimpan dalam bentuk “draft”. Pastikan anda telah menklik tombol
+
+“Ajukan Penugasan”. Jika anda lupa untuk mengirim paper dengan
+mengklik tombol “Ajukan Penugasan” file tetap akan menjadi “draft”
+dan TIDAK AKAN DINILAI.
+Ketentuan Plagiarisme IOU
+​
+Segala puji hanya bagi Allah, Tuhan alam semesta. Shalawat dan
+salam semoga selalu tercurah kepada utusan-Nya, Nabi Muhammad
+shallallahu ‘alaihi wasallam dan semua yang mengikuti jalannya dengan
+benar samapai hari kiamat.
+Mohon baca dan pahami ketentuan-ketentuan berikut dengan seksama
+sebelum mengerjakan tugas di IOU.
+Nabi Muhammad shallallahu ‘alaihi wasallam bersabda, "Siapa yang
+mencurangi kami, maka dia bukan bagian dari kami." (Shahih Muslim)
+
+Definisi Plagiarisme:
+Salah satu permasalahan umum dalam belajar adalah plagiarisme.
+Plagiarisme terkadang hanya dipahami sebagai menjiplak; akan tetapi
+plagiarisme lebih dari sekedar menjiplak. Plagiarisme mecakup mengutip
+tanpa referensi yang benar, kolaborasi dan mencuri ide orang lain.
+Page 9 of 11
+
+Plagiarisme adalah “kegagalan untuk mengungkapkan dengan benar ide atau
+tulisan orang lain” atau “mengakui ide atau tulisan orang lain sebagai
+tulisannya sendiri” baik secara sengaja maupun tidak sengaja. Yang
+dimaksud orang lain bisa siapa saja termasuk mahaiswa, staff akademik,
+professional, penulis buku atau sumber lain seperti Internet. International
+Open University percaya bahwa kegagalan untuk menyatakan penggunaan
+ide orang lain merupakan pelanggaran serius dari nilai-nilai Islam, akademik
+dan kesepakatan institusi.
+
+Pandangan IOU terhadap Plagiarisme
+International Open University tidak akan mentolerir semua bentuk
+plagiarisme, dan setiap mahasiswa yang terbukti melakukan plagiarisme akan
+mendapat sanksi. Bergantung pada beratnya bentuk plagiarisme, sanksi bisa
+berupa pengurangan nilai sampai penolakan tulisan tersebut.
+Terkait dengan tugas, hal-hal berikut merupakan plagiarisme:
+1)​ Menjiplak tugas mahasiswa lain.
+2)​ Kerja sama untuk mengerjakan satu tugas.
+3)​ Copy Paste artikel di internet secara keseluruhan.
+4)​ Mengutip
+
+tuliasan
+
+penulisnya.
+5)​ Menggunakan
+referensi.
+
+ide
+
+orang
+atau
+
+lain
+
+tanpa
+
+tulisan
+
+orang
+
+mencantumkan
+
+referensi
+
+lain tanpa mencantumkan
+
+Untuk menghindari plagiarisme, pastikan:
+​Gunakan tanda kutip pada setiap kutipan dan sebutkan sumbernya.
+​Buat referensi untuk semua kutipan
+​Gunakan kalimat anda sendiri. Jangan persis kata per kata apa yang anda
+
+baca. Buatlah catatan dengan bahasa anda sendiri kemudian kerjakan tugas
+dengan catatan anda tidak langsung dari teks yang anda baca.
+
+Indikasi Plagiarisme
+- Karya akan dicek di aplikasi Turnitin secara otomatis saat mahasiswa
+mengupload karya esainya.
+- Setelah mahasiswa mengupload pengajuan karyanya di draft, mahasiswa
+agar
+
+menunggunya
+
+sekitar
+
+10-15
+
+menit
+
+untuk
+
+melihat
+
+persentase
+Page 10 of 11
+
+plagiarismenya. Setelah terlihat, mahasiswa dapat melihat di bagian mana
+kemiripan terdeteksi dengan mengklik nomor persentase yang muncul.
+- Batas maksimal kemiripan atau plagiarisme karya adalah 30%. Jika
+plagiarismenya lebih dari 30%, mahasiswa dapat menghapus pengajuannya
+dan memperbaikinya kembali selama belum melewati deadline pengumpulan
+tugas.
+- Karya tidak dapat diperbaiki jika tugas sudah diajukan/diserahkan untuk
+penilaian.
+
+Hasil dari Plagiarisme
+- Jika karya mahasiswa terdeteksi plagiarisme melebihi 30%, maka akan ada
+pengurangan nilai.
+- Jika indeks plagiarisme lebih dari 50%, maka mahasiswa mendapat nilai
+
+NOL (0)
+
+Ingat bahwa kita adalah seorang muslim yang belajar Agama Allah, jadi
+plagiarisme dalam Studi Islam adalah dosa dan bisa menghilangkan pahala
+menuntut ilmu. Semoga Allah memberkahi anda dengan kesuksesan dalam
+mata kuliah anda. Aamiin.
+
+Akademik IOU.
+
+Page 11 of 11
+
+

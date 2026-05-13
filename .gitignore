@@ -1,0 +1,9 @@
+# File besar & binary
+*.pdf
+*.docx
+*.vtt
+*.doc
+
+# OS files
+.DS_Store
+Thumbs.db
