@@ -1,0 +1,106 @@
+=== CATATAN REVISI PROPOSAL (v2) ===
+Judul: Tadabbur Ayat Tasliyah Sebagai Intervensi Psikospiritual
+Penulis: Muhdan Fyan Syah Sofian (NIM: 10007061)
+Tanggal Revisi: 21 Mei 2026
+
+========================================
+A. LATAR BELAKANG (Bab 1.1)
+========================================
+
+1. Penambahan Profil Pondok Informatika
+   - Ditambahkan penjelasan bahwa Pondok Informatika adalah pesantren modern
+     yang mengintegrasikan kurikulum agama (hafalan Quran dan ilmu-ilmu syar'i)
+     dengan kompetensi teknologi digital secara simultan.
+   - Dijelaskan bahwa model integratif ini menciptakan tekanan ganda (dual burden).
+   - Ditambahkan tekanan dari ekspektasi orang tua dan masyarakat.
+   - Dukungan psikologis formal masih terbatas di lingkungan pondok.
+
+2. Alasan Pemilihan Lokasi Penelitian
+   - Dijelaskan alasan memilih Pondok Informatika: tekanan psikologis tinggi
+     namun akses terhadap intervensi psikospiritual masih minim.
+   - Menjawab feedback dosen.
+
+========================================
+B. DURASI PENELITIAN (ralat: 4-6 MINGGU, bukan bulan)
+========================================
+
+3. Definisi Konseptual (Bab 2.3.1) [par 138]
+   - Sebelum: 8 minggu (16 sesi x 60 menit)
+   - Sesudah: 4 minggu (8 sesi x 60 menit)
+
+4. Skema Desain Penelitian (Bab 3.1) [par 174]
+   - Sebelum: X = Intervensi Tadabbur Ayat Tasliyah (8 minggu)
+   - Sesudah: X = Intervensi Tadabbur Ayat Tasliyah (4 minggu)
+
+5. Definisi Operasional (Bab 3.2.2) [par 196]
+   - Sebelum: 8 minggu, 2 sesi/minggu, total 16 sesi x 60 menit
+   - Sesudah: 4 minggu, 2 sesi/minggu, total 8 sesi x 60 menit
+   - Minimal kehadiran: 13 dari 16 sesi -> 7 dari 8 sesi
+
+6. Validitas Internal (Bab 3.5) [par 229]
+   - Sebelum: interval 8 minggu
+   - Sesudah: interval 4 minggu
+
+7. Timeline Pengambilan Data (Bab 3.7) [par 238]
+   - Sebelum: 12 minggu (screening 1-2, pretest 3, intervensi 4-11, posttest 12)
+   - Sesudah: 6 minggu (screening 1, pretest 2, intervensi 3-5, posttest 6)
+   - Manipulation check: sesi ke-4 dan ke-8 (dari 8 sesi)
+
+8. Prosedur Eksperimen (Bab 3.9) [par 265]
+   - QS Adh-Dhuha: sesi 2-4 (sebelumnya sesi 2-8)
+   - QS Al-Insyirah: sesi 5-7 (sebelumnya sesi 9-15)
+   - Refleksi & penutup: sesi 8 (sebelumnya sesi 16)
+
+========================================
+C. FILE
+========================================
+- proposal_revised.docx -> File proposal revisi (v2)
+- revision_notes_v2.txt -> Catatan revisi ini
+
+
+
+========================================
+D. HASIL BIMBINGAN DOSEN (21 Mei 2026) — Transkrip Rekaman
+========================================
+
+1. PERTANYAAN PENELITIAN (Bab 1)
+   - Harus ditambahkan secara eksplisit di Bab I
+   - Dosen: "Belum secara langsung mengatakan apa yang menjadi pertanyaan penelitian ini"
+   - → Tambahkan sub-bab 1.4 Pertanyaan Penelitian
+
+2. KELOMPOK KONTROL (Bab 3 — Desain Eksperimen)
+   - Kelompok kontrol HARUS ada aktivitas, tidak boleh kosong
+   - Analogi dosen: minum kopi vs air putih (dua-duanya minum), cerita bergambar vs teks (dua-duanya baca)
+   - → Kelompok kontrol: briefing santri seperti biasa (malam hari)
+   - → Kelompok eksperimen: briefing + Tadabbur Ayat Tasliyah
+
+3. MASALAH JUDUL — KONTRADIKSI DENGAN BAB III
+   - Judul pakai "Kesejahteraan Psikologis" tapi Bab III mengukur: Positive Thinking, Kecemasan, Restrukturisasi Kognitif
+   - Dosen: "Kenapa tidak langsung aja pengaruhnya terhadap kecemasan?"
+   - KEPUTUSAN: Ganti judul — ikuti Bab III
+   - Judul baru: Tadabbur Ayat Tasliyah sebagai Intervensi Psikospiritual: Pengaruhnya terhadap Positive Thinking, Kecemasan, dan Restrukturisasi Kognitif pada Santri
+   - Hapus "melalui" (mediasi) → ganti jadi "langsung terhadap"
+
+4. DASAR TEORI (Bab 2 — WAJIB)
+   - Dosen: "Ada tidak konsep teoritis yang menjelaskan Tadabbur berpengaruh terhadap...?"
+   - Wajib dicari landasan teori untuk TIGA hubungan ini:
+     a. Tadabbur Ayat Tasliyah → Restrukturisasi Kognitif (teori CBT, REBT, Ellis)
+     b. Tadabbur Ayat Tasliyah → Positive Thinking (teori positive psychology, Seligman, broaden-and-build)
+     c. Tadabbur Ayat Tasliyah → Kecemasan (teori regulasi emosi, Gross, Lazarus)
+
+5. KEJELASAN VARIABEL (Bab 1 — Latar Belakang)
+   - Kecemasan: perlu diperjelas landasan ilmiahnya di latar belakang
+   - Dosen: "Kenapa kecemasan? Bentuk kecemasannya apa? Harus ada data pendukung"
+   - → Tambahkan data/riset tentang kecemasan santri di pondok modern
+
+6. FORMAT BAB II
+   - Dosen: "Formatnya disesuaikan dengan yang diminta IOU"
+   - → Sesuaikan format penulisan dengan pedoman IOU
+
+========================================
+E. FILE
+========================================
+- proposal_revised_v2.docx -> Sebelum bimbingan
+- proposal_revised_v3.docx -> Setelah bimbingan (duplikat v2 + edit sesuai arahan dosen)
+- catatan_bimbingan_21mei2026.txt -> Transkrip lengkap bimbingan
+
