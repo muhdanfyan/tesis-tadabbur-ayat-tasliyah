@@ -1,8 +1,8 @@
-# File besar & binary
-*.pdf
-*.docx
-*.vtt
-*.doc
+# File besar & binary — dikecualikan untuk tesis (file referensi tetap di-track)
+# *.pdf
+# *.docx
+# *.vtt
+# *.doc
 
 # OS files
 .DS_Store

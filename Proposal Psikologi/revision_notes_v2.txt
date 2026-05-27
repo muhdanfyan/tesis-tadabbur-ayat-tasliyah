@@ -1,0 +1,58 @@
+=== CATATAN REVISI PROPOSAL (v2) ===
+Judul: Tadabbur Ayat Tasliyah Sebagai Intervensi Psikospiritual
+Penulis: Muhdan Fyan Syah Sofian (NIM: 10007061)
+Tanggal Revisi: 21 Mei 2026
+
+========================================
+A. LATAR BELAKANG (Bab 1.1)
+========================================
+
+1. Penambahan Profil Pondok Informatika
+   - Ditambahkan penjelasan bahwa Pondok Informatika adalah pesantren modern
+     yang mengintegrasikan kurikulum agama (hafalan Quran dan ilmu-ilmu syar'i)
+     dengan kompetensi teknologi digital secara simultan.
+   - Dijelaskan bahwa model integratif ini menciptakan tekanan ganda (dual burden).
+   - Ditambahkan tekanan dari ekspektasi orang tua dan masyarakat.
+   - Dukungan psikologis formal masih terbatas di lingkungan pondok.
+
+2. Alasan Pemilihan Lokasi Penelitian
+   - Dijelaskan alasan memilih Pondok Informatika: tekanan psikologis tinggi
+     namun akses terhadap intervensi psikospiritual masih minim.
+   - Menjawab feedback dosen.
+
+========================================
+B. DURASI PENELITIAN (ralat: 4-6 MINGGU, bukan bulan)
+========================================
+
+3. Definisi Konseptual (Bab 2.3.1) [par 138]
+   - Sebelum: 8 minggu (16 sesi x 60 menit)
+   - Sesudah: 4 minggu (8 sesi x 60 menit)
+
+4. Skema Desain Penelitian (Bab 3.1) [par 174]
+   - Sebelum: X = Intervensi Tadabbur Ayat Tasliyah (8 minggu)
+   - Sesudah: X = Intervensi Tadabbur Ayat Tasliyah (4 minggu)
+
+5. Definisi Operasional (Bab 3.2.2) [par 196]
+   - Sebelum: 8 minggu, 2 sesi/minggu, total 16 sesi x 60 menit
+   - Sesudah: 4 minggu, 2 sesi/minggu, total 8 sesi x 60 menit
+   - Minimal kehadiran: 13 dari 16 sesi -> 7 dari 8 sesi
+
+6. Validitas Internal (Bab 3.5) [par 229]
+   - Sebelum: interval 8 minggu
+   - Sesudah: interval 4 minggu
+
+7. Timeline Pengambilan Data (Bab 3.7) [par 238]
+   - Sebelum: 12 minggu (screening 1-2, pretest 3, intervensi 4-11, posttest 12)
+   - Sesudah: 6 minggu (screening 1, pretest 2, intervensi 3-5, posttest 6)
+   - Manipulation check: sesi ke-4 dan ke-8 (dari 8 sesi)
+
+8. Prosedur Eksperimen (Bab 3.9) [par 265]
+   - QS Adh-Dhuha: sesi 2-4 (sebelumnya sesi 2-8)
+   - QS Al-Insyirah: sesi 5-7 (sebelumnya sesi 9-15)
+   - Refleksi & penutup: sesi 8 (sebelumnya sesi 16)
+
+========================================
+C. FILE
+========================================
+- proposal_revised.docx -> File proposal revisi (v2)
+- revision_notes_v2.txt -> Catatan revisi ini
